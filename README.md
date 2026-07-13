@@ -23,14 +23,14 @@ determinant by assembly type (chromosome, plasmid, wgs) and RGI confidence crite
 
 
 The headers included are:
-"ARO Accession": the unique ARO identifier from CARD for each ontology term
-"Name": the name for this accession as it appears in CARD
-"Model ID": the AMR detection model ID used to predict this determinant
-"Model Type": the AMR detection model type used to predict this determinant
-"Pathogen": the pathogen/species being described by prevalence statistics
-"NCBI Plasmid / NCBI Chromosome / NCBI WGS / NCBI Genomic Island": the prevalence (as %) of this determinant across all analysed assemblies for this data type
-"Criteria": the RGI criteria (perfect or strict) used to calculate the prevalence of this determinant
-"ARO Categories": semi-colon-separated list of ARO categories listed for this determinant (AMR Gene (ARG) Family, Resistance Mechanism, Drug Class)
+- "ARO Accession": the unique ARO identifier from CARD for each ontology term
+- "Name": the name for this accession as it appears in CARD
+- "Model ID": the AMR detection model ID used to predict this determinant
+- "Model Type": the AMR detection model type used to predict this determinant
+- "Pathogen": the pathogen/species being described by prevalence statistics
+- "NCBI Plasmid / NCBI Chromosome / NCBI WGS / NCBI Genomic Island": the prevalence (as %) of this determinant across all analysed assemblies for this data type
+- "Criteria": the RGI criteria (perfect or strict) used to calculate the prevalence of this determinant
+- "ARO Categories": semi-colon-separated list of ARO categories listed for this determinant (AMR Gene (ARG) Family, Resistance Mechanism, Drug Class)
 
 Script input: card_prevalence.csv
 
@@ -45,11 +45,12 @@ Extended: Enterococcus faecalis, Staphylococcus aureus, Pseudomonas aeruginosa, 
 
 
 We provide unique IDs for pathogens, resistance mechanisms, and drug classes. We further create the relation and display relationship tags: 
-ARGs confers_resistance_to Drug class (relation: arg_drugclass)
-ARGs employs Resistance Mechanism (relation: arg_mechanism)
-ARGs associates_with Pathogen (relation: arg_pathogen)
-Drug_Class targets Pathogen (relation: drugclass_pathogen)
+- ARGs confers_resistance_to Drug class (relation: arg_drugclass)
+- ARGs employs Resistance Mechanism (relation: arg_mechanism)
+- ARGs associates_with Pathogen (relation: arg_pathogen)
+- Drug_Class targets Pathogen (relation: drugclass_pathogen)
 
 
 The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’.
+
 Script output: amr_layer_data.csv
