@@ -32,6 +32,8 @@ The headers included are:
 "Criteria": the RGI criteria (perfect or strict) used to calculate the prevalence of this determinant
 "ARO Categories": semi-colon-separated list of ARO categories listed for this determinant (AMR Gene (ARG) Family, Resistance Mechanism, Drug Class)
 
+Script input: card_prevalence.csv
+
 To work with this dataset, the columns titled 'Model_ID', 'Model_Type', 'NCBI_Plasmid', 'NCBI_WGS', 'NCBI_Chromosome', 'NCBI_Genomic_Island', and 'Criteria' were dropped. 
 The column 'Name' was renamed to ‘Resistance_Gene ’, and  'ARO Categories’ was split into ‘Resistance_Mechanism’ and ‘Drug_Class’.
 
@@ -50,4 +52,4 @@ Drug_Class targets Pathogen (relation: drugclass_pathogen)
 
 
 The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’.
-
+Script output: amr_layer_data.csv
