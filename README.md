@@ -11,9 +11,9 @@ Data download
 
 
 Note:
-Original file in .txt format.
-Converted to .csv using online converter (https://mconverter.eu/convert/txt/csv/).
-Cleaned in Excel to place mechanisms and drug classes in the right columns
+- Original file in .txt format.
+- Converted to .csv using online converter (https://mconverter.eu/convert/txt/csv/).
+- Cleaned in Excel to place mechanisms and drug classes in the right columns
 
 
 Description of original data from CARD Variants Download README file: 
