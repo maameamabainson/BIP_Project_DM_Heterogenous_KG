@@ -79,7 +79,9 @@ In summary, there is only one more non-disease indirect layer to avoid an unendi
 Node reconciliation and extraction resulted in duplicates, which were duly taken care of. 
 To highlight the immune dysfunction associated with Type 2 diabetes mellitus, we defined an immune keyword list with the help of the literature and https://www.ncbi.nlm.nih.gov/books/NBK230991/ as :
 
-keywords = ['lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM', 'IgE', 'IgD',' IL-','inflammation','inflammatory','leuko','Phago','Macrophages' ,'neutrophil','monocyte','monokine','basophil','eosinophil','TNF','histio','antigen','immunodeficiency','rheumatoid factor','interleukin','interferon','IFN','TCR']
+keywords = ['lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM',
+'IgE', 'IgD',' IL-','inflammation','inflammatory','leuko','Phago','Macrophages' ,'neutrophil','monocyte','monokine','basophil',
+'eosinophil','TNF','histio','antigen','immunodeficiency','rheumatoid factor','interleukin','interferon','IFN','TCR']
 
 
 Phenotypes/effects which contained at least one of these words were retagged as immune_effect/phenotype. 
