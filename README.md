@@ -93,6 +93,9 @@ Script output: host_layer_data.csv
 
 ## Further preprocessing: 
 ### For Drug_class-gene connection
+
+Corresponding file: drug_drug_class.ipynb
+
 Script input: host_layer_data.csv, kg.csv, drug_data.csv, antibiotics_list.csv
 
 
