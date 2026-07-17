@@ -71,17 +71,15 @@ Manual inspection revealed that some of these entities (all except Insulin resis
 
 Subgraph extraction was then done with the following (one-hop) algorithm.
 1) We find all relations where T2DM is either a source node or a target node.
-2) If T2DM is connected to a disease, we find and include only the disease-phenotype/gene relations. This adds indirect phenotype and gene nodes through connected diseases.
-3) If T2DM is connected to a phenotype, we find the phenotype-phenotype/gene relations and concatenate. This adds indirect other phenotype and gene nodes through connected phenotypes.
-4) If T2DM is connected to a gene, find the gene-gene/pathway/BP/phenotype relations and concatenate.
-None of these includes connections back to diseases, as this is not a direct comorbidity and may complicate the subgraph. 
-In summary, there is only one more non-disease indirect layer to avoid an unending loop and to avoid recycling information.
-Node reconciliation and extraction resulted in duplicates, which were duly taken care of. 
-To highlight the immune dysfunction associated with Type 2 diabetes mellitus, we defined an immune keyword list with the help of the literature and https://www.ncbi.nlm.nih.gov/books/NBK230991/ as :
+2) If T2DM is connected to a disease, we find and include the disease-phenotype or disease-gene relations of those diseases. Further disease-disease relations are included only if the disease is a key disease entity. This adds indirect phenotype and gene nodes through connected diseases.
+3) If T2DM is connected to a phenotype, we find the phenotype-phenotype or phenotype-gene relations of that phenotype and concatenate. This adds indirect other phenotype and gene nodes through connected phenotypes.
+4) If T2DM is connected to a gene, find the gene-gene, gene-pathway, gene-biological process or gene-phenotype relations and concatenate.
+None of these includes connections back to non-core diseases, as these are not direct comorbidities and may complicate the subgraph. 
+In summary, there is only one more indirect layer to avoid an unending loop and information recycling. Node reconciliation and extraction resulted in duplicates, which were duly dealt with.
 
-keywords = ['lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM',
-'IgE', 'IgD',' IL-','inflammation','inflammatory','leuko','Phago','Macrophages' ,'neutrophil','monocyte','monokine','basophil',
-'eosinophil','TNF','histio','antigen','immunodeficiency','rheumatoid factor','interleukin','interferon','IFN','TCR']
+To highlight the immune dysfunction associated with Type 2 diabetes mellitus, we defined a relevant immune keyword list with the help of the literature and https://www.ncbi.nlm.nih.gov/books/NBK230991/ as :
+
+keywords = ('lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM', 'IgE', 'IgD',' IL-', 'inflammation', 'inflammatory', 'leuko', 'Phago', 'Macrophages', 'neutrophil', 'monocyte', 'monokine', 'basophil', 'eosinophil', 'TNF','histio', 'antigen', 'immunodeficiency', 'rheumatoid factor', 'interleukin', 'interferon', 'IFN', 'TCR')
 
 
 Phenotypes/effects which contained at least one of these words were retagged as immune_effect/phenotype. 
