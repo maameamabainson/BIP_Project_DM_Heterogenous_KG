@@ -94,7 +94,7 @@ Script output: host_layer_data.csv
 
 
 
-## Further preprocessing: 
+## Further processing: 
 ### For Drug_class-gene connection
 
 Corresponding file: drug_drug_class.ipynb
