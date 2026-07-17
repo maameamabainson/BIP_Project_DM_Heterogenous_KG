@@ -1,7 +1,7 @@
 # BIP_Project_T2DM_Heterogenous_KG
 The wider project studies the comorbidity between type 2 diabetes mellitus and infectious disease, with a specific narrative angle: diabetes → recurrent infection → increased antibiotic exposure → antimicrobial resistance (AMR). The goal is to build a small, interpretable, mechanism-aware knowledge graph prototype organised into three key layers.
 
-## Preprocessing data from CARD for AMR layer: 
+## Preprocessing data from CARD for AMR layer
 
 Corresponding file: data_extraction_cleaning_AMR_layer.ipynb
 
@@ -35,7 +35,7 @@ The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, �
 
 Script output: amr_layer_data.csv
 
-## Preprocessing data from PrimeKG for host layer: 
+## Preprocessing data from PrimeKG for host layer
 
 Corresponding file: data_extraction_cleaning_host_layer.ipynb
 
@@ -94,7 +94,7 @@ Script output: host_layer_data.csv
 
 
 
-## Further processing: 
+## Further processing
 ### For Drug_class-gene connection
 
 Corresponding file: drug_drug_class.ipynb
