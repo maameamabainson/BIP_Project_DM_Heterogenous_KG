@@ -6,7 +6,7 @@ The wider project studies the comorbidity between type 2 diabetes mellitus and i
 Corresponding file: data_extraction_cleaning_AMR_layer.ipynb
 
 Data download
-1) Downloaded the CARD-R Resistomes, Variants, & Prevalence data folder
+1) Downloaded the CARD-R Resistomes, Variants, & Prevalence data folder (version 4.0.2) from https://card.mcmaster.ca/download
 2) Further downloaded and extracted "card_prevalence.txt.gz"
 
 
@@ -14,7 +14,7 @@ Script input: card_prevalence.csv
 
 
 To work with this dataset, the columns titled 'Model_ID', 'Model_Type', 'NCBI_Plasmid', 'NCBI_WGS', 'NCBI_Chromosome', 'NCBI_Genomic_Island', and 'Criteria' were dropped. 
-The column 'Name' was renamed to ‘Resistance_Gene ’, and  'ARO Categories’ was split into ‘Resistance_Mechanism’ and ‘Drug_Class’.
+The column 'Name' was renamed to ‘Resistance_Gene’, and  'ARO Categories’ was split into ‘Resistance_Mechanism’ and ‘Drug_Class’.
 
 Data from the CARD database was further restricted to those of the pathogens of interest. These are grouped into core and extended as outlined below.
 
@@ -24,13 +24,13 @@ Extended: Enterococcus faecalis, Staphylococcus aureus, Pseudomonas aeruginosa, 
 
 
 We provide unique IDs for pathogens, resistance mechanisms, and drug classes. We further create the relation and display relationship tags: 
-ARGs confers_resistance_to Drug class (relation: arg_drugclass)
+ARGs confer_resistance_to Drug class (relation: arg_drugclass)
 ARGs employs Resistance Mechanism (relation: arg_mechanism)
 ARGs associates_with Pathogen (relation: arg_pathogen)
 Drug_Class targets Pathogen (relation: drugclass_pathogen)
 
 
-The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
+The final dataset from preprocessing has the following columns: ‘x_index’, ‘x_name’, ‘x_type’, ‘y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
 
 
 Script output: amr_layer_data.csv
@@ -39,16 +39,16 @@ Script output: amr_layer_data.csv
 
 Corresponding file: data_extraction_cleaning_host_layer.ipynb
 
-Data download
-1) Main files from Harvard Dataverse: nodes.csv, edges.csv, kg.csv
+Data download from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM
+1) Main files from Harvard Dataverse (version 2.1): nodes.csv, edges.csv, kg.csv
 
 Script input: nodes.csv, kg.csv
 
 
 Preprocessing involved:
-Removing duplicate relationship since Prime KG has two edges for the same relation(x to y & y to x)
+Removing duplicate relationships since Prime KG has two edges for the same relation(x to y & y to x)
 Removing nodes we would not immediately need: ‘Drugs’, ‘Exposure’, ‘Cellular_Component ', ' Molecular_Function ', ' Anatomy '.
-Removing ‘phenotype_absent’ relation, since we are interested in effect/phenotype that are actually expressed as a result of a disease. 
+Removing the ‘phenotype_absent’ relation, since we are interested in effect/phenotype that are actually expressed as a result of a disease. 
 
 
 
