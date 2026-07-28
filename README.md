@@ -82,7 +82,7 @@ To highlight the immune dysfunction associated with Type 2 diabetes mellitus, we
 keywords = ('lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM', 'IgE', 'IgD',' IL-', 'inflammation', 'inflammatory', 'leuko', 'Phago', 'Macrophages', 'neutrophil', 'monocyte', 'monokine', 'basophil', 'eosinophil', 'TNF','histio', 'antigen', 'immunodeficiency', 'rheumatoid factor', 'interleukin', 'interferon', 'IFN', 'TCR')
 
 
-Phenotypes/effects which contained at least one of these words were retagged as immune_effect/phenotype. 
+Phenotypes/effects which contained at least one of these words exactly or as a substring (case-insensitive) were retagged as immune_effect/phenotype. 
 
 
 The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
@@ -114,7 +114,7 @@ Recall that key infections were carefully selected in advance to align with the 
 ## Curating a causal layer
 To formally connect the host layer with the AMR layer, an intermediate layer was created to link the varied 'recurrent infection' nodes which were related to Type 2 diabetes mellitus via immunodeficiency to the concept of antimicrobial resistance and hence the AMR layer. Before this, however, we created some edges which we considered important. Each 'recurrent infection' could be and hence was matched with a key disease that we had already manually connected to the Type 2 diabetes node. 
 
-Now, from the literature, some key components of immunodeficiency were connected to increased susceptibility to specific pathogens. Using this, relations between components of immunodeficiency and pathogen nodes were created. For example, 'Neutropenia' increases_susceptibility_to 'Klebsiella pneumoniae'. 
+In the literature, some key components of immunodeficiency have been linked to increased susceptibility to specific pathogens. Using this, relations between components of immunodeficiency and pathogen nodes were created. For example, 'Neutropenia' increases_susceptibility_to 'Klebsiella pneumoniae'. 
 
 Further manual edges were included: 
 'Recurrent bacterial infections' associated_with (phenotype_phenotype) 'increased antibiotic exposure' 
@@ -124,7 +124,37 @@ Further manual edges were included:
 'Increased antibiotic exposure' increases _selection_for all antibiotic resistance genes
 
 ## KG creation
-The final dataset for the KG was simply a concatenation of the dataframes from host_layer_data.csv,  amr_layer_data.csv, drug_class_gene_data.csv, the pathogen_disease_infection dataframe and all the dataframes arising from the necessary manual connections and the curated bridge layer. 
+The final dataset for the KG was simply a concatenation of the dataframes from host_layer_data.csv,  amr_layer_data.csv, drug_class_gene_data.csv, the pathogen_disease_infection dataframe and all the dataframes arising from the necessary manual connections and the curated bridge layer. The resulting graph has a coverage of:  
+
+- 10 pathogens
+- 41 drug classes
+- 7 resistance mechanisms
+- 1,734 resistance genes
+- 12,190 nodes consisting of 10 node types
+  1) gene/protein
+  2) biological_process
+  3) resistance_gene
+  4) effect/phenotype
+  5) pathway
+  6) immune_effect/phenotype
+  7) disease
+  8) drug_class
+  9) bacteria
+  10) resistance_mechanism
+- 30,803 edges consisting of 20 edge/relation types (16 display relations):
+  1) ppi (protein_protein)
+  2) interacts with (protein_pathway, protein_biological_process)
+  3) confers resistance to (resistance_gene_drug_class)
+  4) associates with (protein_effect_phenotype, protein_immune_effect_phenotype, protein_disease, resistance_genes_pathogen)
+  5) phenotype present (effect_phenotype_disease)
+  6) employs (resistance_gene_resistance_mechanism)
+  7) increased selection for (effect_phenotype_resistance_genes)
+  8) parent-child (disease_disease, effect_phenotype_effect_phenotype, effect_phenotype_immune_effect_phenotype, immune_effect_phenotype_immune_effect_phenotype)
+  9) targets (drug_class_pathogen)
+  10) immune phenotype present (immune_effect_phenotype_disease)
+  11) increases susceptibility to (immune_effect_phenotype_pathogen)
+  12) carrier, transporter, target, enzyme (protein_drug_class)
+  13) infectious agent for (pathogen_disease)
 
 
 
