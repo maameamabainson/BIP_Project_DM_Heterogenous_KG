@@ -111,8 +111,20 @@ Script output: drug_class_gene_data.csv
 ### Pathogen-infection connection
 Recall that key infections were carefully selected in advance to align with the objective of this project, findings in the literature and the pathogens of interest. These infections and pathogens of interest were then manually connected with the relation: Pathogen ‘infectious_agent for’ infection. 
 
+### Curating a causal layer
+To formally connect the host layer with the AMR layer, an intermediate layer was created to link the varied 'recurrent infection' nodes which were related to Type 2 diabetes mellitus via immunodeficiency to the concept of antimicrobial resistance and hence the AMR layer. Before this, however, we created some edges which we considered important. Each 'recurrent infection' could be and hence was matched with a key disease that we had already manually connected to the Type 2 diabetes node. 
+
+Now, from the literature, some key components of immunodeficiency were connected to increased susceptibility to specific pathogens. Using this, relations between components of immunodeficiency and pathogen nodes were created. For example, 'Neutropenia' increases_susceptibility_to 'Klebsiella pneumoniae'. 
+
+Further manual edges were included: 
+'Recurrent bacterial infections' associated_with (phenotype_phenotype) 'increased antibiotic exposure' 
+
+'Hyperglycemia' associated_with (phenotype_phenotype)  ' increased risk of pathogen mutation'  associated_with (phenotype_phenotype)  'Increased antibiotic exposure'. 
+
+'Increased antibiotic exposure' increases _selection_for all antibiotic resistance genes
+
 ### KG creation
-The final dataset for the KG was simply a concatenation of the dataframes from host_layer_data.csv,  amr_layer_data.csv, drug_class_gene_data.csv and the pathogen_disease_infection dataframe. 
+The final dataset for the KG was simply a concatenation of the dataframes from host_layer_data.csv,  amr_layer_data.csv, drug_class_gene_data.csv, the pathogen_disease_infection dataframe and all the dataframes arising from the necessary manual connections and the curated bridge layer. 
 
 
 
