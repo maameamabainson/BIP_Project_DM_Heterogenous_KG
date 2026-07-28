@@ -1,0 +1,102 @@
+node,degree_centrality,node_type
+Immunodeficiency,0.016490278119616047,immune_effect/phenotype
+Decreased circulating antibody level,0.000820411846747067,immune_effect/phenotype
+Impaired T cell function,0.000574288292722947,immune_effect/phenotype
+Immune dysregulation,0.0004922471080482402,immune_effect/phenotype
+Defective B cell differentiation,0.0004922471080482402,immune_effect/phenotype
+Impaired neutrophil bactericidal activity,0.0004922471080482402,immune_effect/phenotype
+Neutropenia,0.0004922471080482402,immune_effect/phenotype
+Increased inflammatory response,0.0004102059233735335,immune_effect/phenotype
+Decreased proportion of memory B cells,0.0004102059233735335,immune_effect/phenotype
+Decreased proportion of CD4-positive T cells,0.0004102059233735335,immune_effect/phenotype
+X-linked recessive inheritance,0.0003281647386988268,immune_effect/phenotype
+Lymphoma,0.0003281647386988268,immune_effect/phenotype
+Decreased serum complement C3,0.0003281647386988268,immune_effect/phenotype
+Muscular hypotonia of the trunk,0.0002461235540241201,immune_effect/phenotype
+Humoral immunodeficiency,0.0002461235540241201,immune_effect/phenotype
+Cytokine storm,0.0002461235540241201,immune_effect/phenotype
+Pigmentary retinopathy,0.0002461235540241201,immune_effect/phenotype
+X-linked inheritance,0.0002461235540241201,immune_effect/phenotype
+Inflammation of the large intestine,0.0002461235540241201,immune_effect/phenotype
+Hypopigmented skin patches,0.0001640823693494134,immune_effect/phenotype
+Leukocytosis,0.0001640823693494134,immune_effect/phenotype
+Lymphadenopathy,0.0001640823693494134,immune_effect/phenotype
+T lymphocytopenia,0.0001640823693494134,immune_effect/phenotype
+Decreased circulating IgG2 level,0.0001640823693494134,immune_effect/phenotype
+Autoimmune thrombocytopenia,0.0001640823693494134,immune_effect/phenotype
+Systemic autoinflammation,0.0001640823693494134,immune_effect/phenotype
+Decreased circulating IgG level,0.0001640823693494134,immune_effect/phenotype
+Decreased circulating IgA level,0.0001640823693494134,immune_effect/phenotype
+Cellular immunodeficiency,0.0001640823693494134,immune_effect/phenotype
+Leukopenia,0.0001640823693494134,immune_effect/phenotype
+Inflammatory abnormality of the skin,0.0001640823693494134,immune_effect/phenotype
+Abnormality of immune system physiology,0.0001640823693494134,immune_effect/phenotype
+Lymphedema,0.0001640823693494134,immune_effect/phenotype
+Decreased proportion of CD4-positive helper T cells,0.0001640823693494134,immune_effect/phenotype
+Gastrointestinal inflammation,0.0001640823693494134,immune_effect/phenotype
+Abnormality of complement system,8.20411846747067e-05,immune_effect/phenotype
+Epigastric pain,8.20411846747067e-05,immune_effect/phenotype
+Generalized hyperpigmentation,8.20411846747067e-05,immune_effect/phenotype
+Lymphocytosis,8.20411846747067e-05,immune_effect/phenotype
+Giant cell hepatitis,8.20411846747067e-05,immune_effect/phenotype
+Areas of hypopigmentation and hyperpigmentation that do not follow Blaschko lines,8.20411846747067e-05,immune_effect/phenotype
+Iris hypopigmentation,8.20411846747067e-05,immune_effect/phenotype
+Decreased basophil count,8.20411846747067e-05,immune_effect/phenotype
+Increased circulating IgM level,8.20411846747067e-05,immune_effect/phenotype
+Abnormal CD4:CD8 ratio,8.20411846747067e-05,immune_effect/phenotype
+Anti-thyroglobulin antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Anti-thyroid peroxidase antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Perinuclear antineutrophil antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Increased proportion of transitional B cells,8.20411846747067e-05,immune_effect/phenotype
+Rheumatoid factor positive,8.20411846747067e-05,immune_effect/phenotype
+Increased circulating IgG level,8.20411846747067e-05,immune_effect/phenotype
+Combined immunodeficiency,8.20411846747067e-05,immune_effect/phenotype
+Decreased proportion of CD3-positive T cells,8.20411846747067e-05,immune_effect/phenotype
+Decreased lymphocyte proliferation in response to mitogen,8.20411846747067e-05,immune_effect/phenotype
+Decreased circulating IgE,8.20411846747067e-05,immune_effect/phenotype
+Decreased proportion of class-switched memory B cells,8.20411846747067e-05,immune_effect/phenotype
+Agammaglobulinemia,8.20411846747067e-05,immune_effect/phenotype
+Vacuolated lymphocytes,8.20411846747067e-05,immune_effect/phenotype
+Defective T cell proliferation,8.20411846747067e-05,immune_effect/phenotype
+Partial absence of specific antibody response to tetanus vaccine,8.20411846747067e-05,immune_effect/phenotype
+Chronic lymphatic leukemia,8.20411846747067e-05,immune_effect/phenotype
+B-cell lymphoma,8.20411846747067e-05,immune_effect/phenotype
+Antimitochondrial antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Smooth muscle antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Increased circulating IgA level,8.20411846747067e-05,immune_effect/phenotype
+Decreased specific pneumococcal antibody level,8.20411846747067e-05,immune_effect/phenotype
+Histiocytosis,8.20411846747067e-05,immune_effect/phenotype
+Autoimmune hemolytic anemia,8.20411846747067e-05,immune_effect/phenotype
+Complete or near-complete absence of specific antibody response to tetanus vaccine,8.20411846747067e-05,immune_effect/phenotype
+Enlarged mesenteric lymph node,8.20411846747067e-05,immune_effect/phenotype
+Increased circulating IgE level,8.20411846747067e-05,immune_effect/phenotype
+Eosinophilia,8.20411846747067e-05,immune_effect/phenotype
+Mediastinal lymphadenopathy,8.20411846747067e-05,immune_effect/phenotype
+Increased proportion autoreactive unresponsive CD21-/low B cells,8.20411846747067e-05,immune_effect/phenotype
+Antinuclear antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Cervical lymphadenopathy,8.20411846747067e-05,immune_effect/phenotype
+Bone spicule pigmentation of the retina,8.20411846747067e-05,immune_effect/phenotype
+Ankle clonus,8.20411846747067e-05,immune_effect/phenotype
+Decreased circulating total IgM,8.20411846747067e-05,immune_effect/phenotype
+Abnormality of the immune system,8.20411846747067e-05,immune_effect/phenotype
+B lymphocytopenia,8.20411846747067e-05,immune_effect/phenotype
+Decreased circulating total IgG,8.20411846747067e-05,immune_effect/phenotype
+Hypopigmentation of hair,8.20411846747067e-05,immune_effect/phenotype
+Hodgkin lymphoma,8.20411846747067e-05,immune_effect/phenotype
+Non-Hodgkin lymphoma,8.20411846747067e-05,immune_effect/phenotype
+Decreased circulating total IgA,8.20411846747067e-05,immune_effect/phenotype
+X-linked dominant inheritance,8.20411846747067e-05,immune_effect/phenotype
+Ankle flexion contracture,8.20411846747067e-05,immune_effect/phenotype
+Inflammatory arteriopathy,8.20411846747067e-05,immune_effect/phenotype
+Antiphospholipid antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Patchy hypo- and hyperpigmentation,8.20411846747067e-05,immune_effect/phenotype
+Autoimmune antibody positivity,8.20411846747067e-05,immune_effect/phenotype
+Retinal pigment epithelial atrophy,8.20411846747067e-05,immune_effect/phenotype
+Abnormality of skin pigmentation,8.20411846747067e-05,immune_effect/phenotype
+Mixed astigmatism,8.20411846747067e-05,immune_effect/phenotype
+Abnormality of fundus pigmentation,8.20411846747067e-05,immune_effect/phenotype
+Nummular pigmentation of the fundus,8.20411846747067e-05,immune_effect/phenotype
+Abnormality of retinal pigmentation,8.20411846747067e-05,immune_effect/phenotype
+Hypopigmentation of the fundus,8.20411846747067e-05,immune_effect/phenotype
+Spotty hypopigmentation,8.20411846747067e-05,immune_effect/phenotype
+Confetti-like hypopigmented macules,8.20411846747067e-05,immune_effect/phenotype

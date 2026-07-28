@@ -1,0 +1,2132 @@
+node,degree_centrality,node_type
+gene silencing by miRNA,0.004020018049060628,biological_process
+regulation of transcription by RNA polymerase II,0.002215111986217081,biological_process
+positive regulation of transcription by RNA polymerase II,0.002215111986217081,biological_process
+negative regulation of transcription by RNA polymerase II,0.0019689884321929607,biological_process
+negative regulation of apoptotic process,0.001886947247518254,biological_process
+positive regulation of cell population proliferation,0.0018049060628435474,biological_process
+"positive regulation of transcription, DNA-templated",0.0017228648781688408,biological_process
+response to drug,0.0017228648781688408,biological_process
+glucose homeostasis,0.001640823693494134,biological_process
+signal transduction,0.0015587825088194274,biological_process
+positive regulation of gene expression,0.001394700139470014,biological_process
+cytokine-mediated signaling pathway,0.0013126589547953072,biological_process
+negative regulation of cell population proliferation,0.0013126589547953072,biological_process
+positive regulation of protein phosphorylation,0.0013126589547953072,biological_process
+positive regulation of protein kinase B signaling,0.0013126589547953072,biological_process
+regulation of insulin secretion,0.0012306177701206006,biological_process
+G protein-coupled receptor signaling pathway,0.0012306177701206006,biological_process
+positive regulation of apoptotic process,0.0012306177701206006,biological_process
+negative regulation of inflammatory response,0.001148576585445894,biological_process
+negative regulation of gene expression,0.001066535400771187,biological_process
+response to hypoxia,0.001066535400771187,biological_process
+cell differentiation,0.001066535400771187,biological_process
+"negative regulation of transcription, DNA-templated",0.0009844942160964804,biological_process
+positive regulation of ERK1 and ERK2 cascade,0.0009844942160964804,biological_process
+cellular response to insulin stimulus,0.0009844942160964804,biological_process
+miRNA mediated inhibition of translation,0.0009844942160964804,biological_process
+response to insulin,0.0009844942160964804,biological_process
+regulation of blood pressure,0.0009024530314217737,biological_process
+"regulation of transcription, DNA-templated",0.0009024530314217737,biological_process
+inflammatory response,0.0009024530314217737,biological_process
+glucose metabolic process,0.0009024530314217737,biological_process
+response to ethanol,0.0009024530314217737,biological_process
+positive regulation of glucose import,0.000820411846747067,biological_process
+positive regulation of blood vessel endothelial cell migration,0.000820411846747067,biological_process
+response to hydrogen peroxide,0.000820411846747067,biological_process
+cellular response to hypoxia,0.000820411846747067,biological_process
+response to estradiol,0.000820411846747067,biological_process
+response to lipopolysaccharide,0.000820411846747067,biological_process
+aging,0.000820411846747067,biological_process
+MAPK cascade,0.000820411846747067,biological_process
+negative regulation of neuron apoptotic process,0.0007383706620723603,biological_process
+cell surface receptor signaling pathway,0.0007383706620723603,biological_process
+cellular response to tumor necrosis factor,0.0007383706620723603,biological_process
+heart development,0.0007383706620723603,biological_process
+apoptotic process,0.0007383706620723603,biological_process
+positive regulation of angiogenesis,0.0007383706620723603,biological_process
+neutrophil degranulation,0.0007383706620723603,biological_process
+positive regulation of phosphatidylinositol 3-kinase signaling,0.0006563294773976536,biological_process
+cellular response to glucose stimulus,0.0006563294773976536,biological_process
+negative regulation of DNA-binding transcription factor activity,0.0006563294773976536,biological_process
+response to glucose,0.0006563294773976536,biological_process
+animal organ morphogenesis,0.0006563294773976536,biological_process
+response to activity,0.0006563294773976536,biological_process
+insulin receptor signaling pathway,0.0006563294773976536,biological_process
+intracellular signal transduction,0.0006563294773976536,biological_process
+cellular response to lipopolysaccharide,0.0006563294773976536,biological_process
+positive regulation of cell migration,0.0006563294773976536,biological_process
+response to nicotine,0.000574288292722947,biological_process
+negative regulation of angiogenesis,0.000574288292722947,biological_process
+positive regulation of NF-kappaB transcription factor activity,0.000574288292722947,biological_process
+positive regulation of canonical Wnt signaling pathway,0.000574288292722947,biological_process
+negative regulation of fat cell differentiation,0.000574288292722947,biological_process
+transport across blood-brain barrier,0.000574288292722947,biological_process
+intrinsic apoptotic signaling pathway in response to DNA damage,0.000574288292722947,biological_process
+cellular response to oxidative stress,0.000574288292722947,biological_process
+proteolysis,0.000574288292722947,biological_process
+positive regulation of cold-induced thermogenesis,0.000574288292722947,biological_process
+protein phosphorylation,0.000574288292722947,biological_process
+multicellular organism development,0.000574288292722947,biological_process
+angiogenesis,0.000574288292722947,biological_process
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,0.000574288292722947,biological_process
+negative regulation of vascular associated smooth muscle cell proliferation,0.000574288292722947,biological_process
+cellular response to mechanical stimulus,0.000574288292722947,biological_process
+positive regulation of I-kappaB kinase/NF-kappaB signaling,0.000574288292722947,biological_process
+positive regulation of neuron apoptotic process,0.000574288292722947,biological_process
+response to glucocorticoid,0.000574288292722947,biological_process
+positive regulation of G1/S transition of mitotic cell cycle,0.0004922471080482402,biological_process
+positive regulation of cytosolic calcium ion concentration,0.0004922471080482402,biological_process
+positive regulation of DNA-binding transcription factor activity,0.0004922471080482402,biological_process
+negative regulation of cell migration,0.0004922471080482402,biological_process
+regulation of gene expression,0.0004922471080482402,biological_process
+response to interleukin-1,0.0004922471080482402,biological_process
+positive regulation of insulin secretion,0.0004922471080482402,biological_process
+female pregnancy,0.0004922471080482402,biological_process
+positive regulation of inflammatory response,0.0004922471080482402,biological_process
+in utero embryonic development,0.0004922471080482402,biological_process
+negative regulation of inflammatory response to antigenic stimulus,0.0004922471080482402,biological_process
+cellular response to drug,0.0004922471080482402,biological_process
+insulin secretion,0.0004922471080482402,biological_process
+sensory perception of sound,0.0004922471080482402,biological_process
+cellular response to DNA damage stimulus,0.0004922471080482402,biological_process
+potassium ion transmembrane transport,0.0004922471080482402,biological_process
+response to nutrient levels,0.0004922471080482402,biological_process
+positive regulation of glycogen biosynthetic process,0.0004922471080482402,biological_process
+cholesterol homeostasis,0.0004922471080482402,biological_process
+regulation of cell cycle,0.0004922471080482402,biological_process
+response to amino acid,0.0004922471080482402,biological_process
+negative regulation of insulin receptor signaling pathway,0.0004922471080482402,biological_process
+pancreas development,0.0004922471080482402,biological_process
+positive regulation of vascular associated smooth muscle cell proliferation,0.0004922471080482402,biological_process
+tumor necrosis factor-mediated signaling pathway,0.0004922471080482402,biological_process
+negative regulation of cytokine production involved in inflammatory response,0.0004922471080482402,biological_process
+negative regulation of tumor necrosis factor production,0.0004922471080482402,biological_process
+positive regulation of smooth muscle cell proliferation,0.0004922471080482402,biological_process
+circadian rhythm,0.0004922471080482402,biological_process
+positive regulation of peptidyl-serine phosphorylation,0.0004922471080482402,biological_process
+circadian regulation of gene expression,0.0004102059233735335,biological_process
+cellular glucose homeostasis,0.0004102059233735335,biological_process
+wound healing,0.0004102059233735335,biological_process
+protein ubiquitination,0.0004102059233735335,biological_process
+positive regulation of fatty acid beta-oxidation,0.0004102059233735335,biological_process
+cellular response to glucagon stimulus,0.0004102059233735335,biological_process
+positive regulation of cell migration involved in sprouting angiogenesis,0.0004102059233735335,biological_process
+response to wounding,0.0004102059233735335,biological_process
+activation of cysteine-type endopeptidase activity involved in apoptotic process,0.0004102059233735335,biological_process
+extrinsic apoptotic signaling pathway,0.0004102059233735335,biological_process
+extrinsic apoptotic signaling pathway in absence of ligand,0.0004102059233735335,biological_process
+cholesterol metabolic process,0.0004102059233735335,biological_process
+positive regulation of interleukin-6 production,0.0004102059233735335,biological_process
+cellular response to cadmium ion,0.0004102059233735335,biological_process
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,0.0004102059233735335,biological_process
+cellular response to organic cyclic compound,0.0004102059233735335,biological_process
+vasodilation,0.0004102059233735335,biological_process
+transcription initiation from RNA polymerase II promoter,0.0004102059233735335,biological_process
+carbohydrate metabolic process,0.0004102059233735335,biological_process
+negative regulation of cell growth,0.0004102059233735335,biological_process
+positive regulation of interleukin-8 production,0.0004102059233735335,biological_process
+cellular response to interleukin-6,0.0004102059233735335,biological_process
+positive regulation of tyrosine phosphorylation of STAT protein,0.0004102059233735335,biological_process
+positive regulation of MAPK cascade,0.0004102059233735335,biological_process
+spermatogenesis,0.0004102059233735335,biological_process
+response to cytokine,0.0004102059233735335,biological_process
+cellular response to amyloid-beta,0.0004102059233735335,biological_process
+negative regulation of neuron death,0.0004102059233735335,biological_process
+negative regulation of interleukin-6 production,0.0004102059233735335,biological_process
+transforming growth factor beta receptor signaling pathway,0.0004102059233735335,biological_process
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.0004102059233735335,biological_process
+brain development,0.0004102059233735335,biological_process
+defense response to bacterium,0.0004102059233735335,biological_process
+negative regulation of sprouting angiogenesis,0.0004102059233735335,biological_process
+negative regulation of gluconeogenesis,0.0004102059233735335,biological_process
+positive regulation of pri-miRNA transcription by RNA polymerase II,0.0004102059233735335,biological_process
+regulation of circadian rhythm,0.0004102059233735335,biological_process
+cellular response to leukemia inhibitory factor,0.0003281647386988268,biological_process
+epidermal growth factor receptor signaling pathway,0.0003281647386988268,biological_process
+response to organic substance,0.0003281647386988268,biological_process
+negative regulation of ERK1 and ERK2 cascade,0.0003281647386988268,biological_process
+generation of precursor metabolites and energy,0.0003281647386988268,biological_process
+response to zinc ion,0.0003281647386988268,biological_process
+negative regulation of protein kinase B signaling,0.0003281647386988268,biological_process
+kidney development,0.0003281647386988268,biological_process
+response to tumor necrosis factor,0.0003281647386988268,biological_process
+positive regulation of gluconeogenesis,0.0003281647386988268,biological_process
+negative regulation of necroptotic process,0.0003281647386988268,biological_process
+negative regulation of transforming growth factor beta receptor signaling pathway,0.0003281647386988268,biological_process
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,0.0003281647386988268,biological_process
+regulation of lipid metabolic process,0.0003281647386988268,biological_process
+cellular oxidant detoxification,0.0003281647386988268,biological_process
+positive regulation of tumor necrosis factor production,0.0003281647386988268,biological_process
+cell redox homeostasis,0.0003281647386988268,biological_process
+superoxide metabolic process,0.0003281647386988268,biological_process
+fatty acid metabolic process,0.0003281647386988268,biological_process
+negative regulation of interleukin-21 production,0.0003281647386988268,biological_process
+negative regulation of I-kappaB kinase/NF-kappaB signaling,0.0003281647386988268,biological_process
+negative regulation of cholesterol efflux,0.0003281647386988268,biological_process
+response to hormone,0.0003281647386988268,biological_process
+cellular response to transforming growth factor beta stimulus,0.0003281647386988268,biological_process
+positive regulation of interleukin-1 beta production,0.0003281647386988268,biological_process
+fat cell differentiation,0.0003281647386988268,biological_process
+cell adhesion,0.0003281647386988268,biological_process
+cell-cell signaling,0.0003281647386988268,biological_process
+cellular calcium ion homeostasis,0.0003281647386988268,biological_process
+regulation of mitochondrial membrane potential,0.0003281647386988268,biological_process
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand,0.0003281647386988268,biological_process
+positive regulation of nitric oxide biosynthetic process,0.0003281647386988268,biological_process
+positive regulation of MAP kinase activity,0.0003281647386988268,biological_process
+negative regulation of blood pressure,0.0003281647386988268,biological_process
+negative regulation of NF-kappaB transcription factor activity,0.0003281647386988268,biological_process
+positive regulation of NIK/NF-kappaB signaling,0.0003281647386988268,biological_process
+innate immune response,0.0003281647386988268,biological_process
+negative regulation of blood vessel endothelial cell migration,0.0003281647386988268,biological_process
+regulation of cell migration,0.0003281647386988268,biological_process
+lipid metabolic process,0.0003281647386988268,biological_process
+NIK/NF-kappaB signaling,0.0003281647386988268,biological_process
+cellular response to interleukin-1,0.0003281647386988268,biological_process
+ovarian follicle development,0.0003281647386988268,biological_process
+lipid homeostasis,0.0003281647386988268,biological_process
+negative regulation of vascular endothelial cell proliferation,0.0003281647386988268,biological_process
+positive regulation of endothelial cell migration,0.0003281647386988268,biological_process
+nervous system development,0.0003281647386988268,biological_process
+regulation of glucose transmembrane transport,0.0003281647386988268,biological_process
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,0.0003281647386988268,biological_process
+endoplasmic reticulum unfolded protein response,0.0003281647386988268,biological_process
+positive regulation of superoxide anion generation,0.0003281647386988268,biological_process
+B cell receptor signaling pathway,0.0003281647386988268,biological_process
+post-embryonic development,0.0003281647386988268,biological_process
+hydrogen peroxide biosynthetic process,0.0003281647386988268,biological_process
+protein localization to plasma membrane,0.0003281647386988268,biological_process
+neuron apoptotic process,0.0003281647386988268,biological_process
+endocytosis,0.0003281647386988268,biological_process
+response to antibiotic,0.0003281647386988268,biological_process
+immune response,0.0003281647386988268,biological_process
+positive regulation of cell growth,0.0003281647386988268,biological_process
+T cell receptor signaling pathway,0.0003281647386988268,biological_process
+nitric oxide mediated signal transduction,0.0003281647386988268,biological_process
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,0.0003281647386988268,biological_process
+negative regulation of insulin secretion,0.0003281647386988268,biological_process
+post-translational protein modification,0.0003281647386988268,biological_process
+liver regeneration,0.0003281647386988268,biological_process
+Fc-epsilon receptor signaling pathway,0.0003281647386988268,biological_process
+liver development,0.0003281647386988268,biological_process
+negative regulation of type B pancreatic cell apoptotic process,0.0003281647386988268,biological_process
+transcription by RNA polymerase II,0.0003281647386988268,biological_process
+activation of MAPK activity,0.0003281647386988268,biological_process
+cellular response to nicotine,0.0003281647386988268,biological_process
+extracellular matrix organization,0.0003281647386988268,biological_process
+transmembrane transport,0.0003281647386988268,biological_process
+response to ischemia,0.0003281647386988268,biological_process
+positive regulation of insulin receptor signaling pathway,0.0003281647386988268,biological_process
+central nervous system development,0.0003281647386988268,biological_process
+positive regulation of cell death,0.0003281647386988268,biological_process
+negative regulation of protein catabolic process,0.0003281647386988268,biological_process
+extrinsic apoptotic signaling pathway via death domain receptors,0.0003281647386988268,biological_process
+cellular response to hydrogen peroxide,0.0003281647386988268,biological_process
+negative regulation of mitotic cell cycle,0.0003281647386988268,biological_process
+humoral immune response,0.0003281647386988268,biological_process
+B cell homeostasis,0.0003281647386988268,biological_process
+negative regulation of signaling receptor activity,0.0003281647386988268,biological_process
+cell aging,0.0003281647386988268,biological_process
+response to cold,0.0003281647386988268,biological_process
+receptor-mediated endocytosis,0.0003281647386988268,biological_process
+positive regulation of leukocyte adhesion to vascular endothelial cell,0.0003281647386988268,biological_process
+positive regulation of nitric-oxide synthase activity,0.0002461235540241201,biological_process
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.0002461235540241201,biological_process
+leukocyte migration,0.0002461235540241201,biological_process
+superoxide anion generation,0.0002461235540241201,biological_process
+cellular response to angiotensin,0.0002461235540241201,biological_process
+sensory perception of pain,0.0002461235540241201,biological_process
+response to muscle stretch,0.0002461235540241201,biological_process
+regulation of systemic arterial blood pressure by endothelin,0.0002461235540241201,biological_process
+response to organic cyclic compound,0.0002461235540241201,biological_process
+cellular response to amino acid starvation,0.0002461235540241201,biological_process
+calcium-mediated signaling,0.0002461235540241201,biological_process
+lung development,0.0002461235540241201,biological_process
+regulation of tumor necrosis factor-mediated signaling pathway,0.0002461235540241201,biological_process
+death-inducing signaling complex assembly,0.0002461235540241201,biological_process
+negative regulation of leukocyte adhesion to vascular endothelial cell,0.0002461235540241201,biological_process
+lipoprotein transport,0.0002461235540241201,biological_process
+negative regulation of vascular endothelial growth factor production,0.0002461235540241201,biological_process
+protein processing,0.0002461235540241201,biological_process
+regulation of lipid storage,0.0002461235540241201,biological_process
+positive regulation of glucose metabolic process,0.0002461235540241201,biological_process
+positive regulation of phagocytosis,0.0002461235540241201,biological_process
+ear development,0.0002461235540241201,biological_process
+negative regulation of vascular associated smooth muscle cell migration,0.0002461235540241201,biological_process
+cellular iron ion homeostasis,0.0002461235540241201,biological_process
+regulation of cardiac conduction,0.0002461235540241201,biological_process
+positive regulation of protein localization to plasma membrane,0.0002461235540241201,biological_process
+regulation of brown fat cell differentiation,0.0002461235540241201,biological_process
+SMAD protein signal transduction,0.0002461235540241201,biological_process
+negative regulation of endopeptidase activity,0.0002461235540241201,biological_process
+regulation of ion transmembrane transport,0.0002461235540241201,biological_process
+leptin-mediated signaling pathway,0.0002461235540241201,biological_process
+positive regulation of endothelial cell proliferation,0.0002461235540241201,biological_process
+eating behavior,0.0002461235540241201,biological_process
+detection of glucose,0.0002461235540241201,biological_process
+positive regulation of cardiac muscle cell proliferation,0.0002461235540241201,biological_process
+gene expression,0.0002461235540241201,biological_process
+response to oxidative stress,0.0002461235540241201,biological_process
+melanocyte differentiation,0.0002461235540241201,biological_process
+positive regulation of peptidyl-tyrosine phosphorylation,0.0002461235540241201,biological_process
+neuron differentiation,0.0002461235540241201,biological_process
+neuron migration,0.0002461235540241201,biological_process
+positive regulation of glial cell proliferation,0.0002461235540241201,biological_process
+positive regulation of epithelial cell proliferation,0.0002461235540241201,biological_process
+cellular protein metabolic process,0.0002461235540241201,biological_process
+chemical synaptic transmission,0.0002461235540241201,biological_process
+stimulatory C-type lectin receptor signaling pathway,0.0002461235540241201,biological_process
+positive regulation of cyclin-dependent protein serine/threonine kinase activity,0.0002461235540241201,biological_process
+learning or memory,0.0002461235540241201,biological_process
+glucose transmembrane transport,0.0002461235540241201,biological_process
+regulation of angiogenesis,0.0002461235540241201,biological_process
+negative regulation of smooth muscle cell proliferation,0.0002461235540241201,biological_process
+interleukin-1-mediated signaling pathway,0.0002461235540241201,biological_process
+neurotransmitter transport,0.0002461235540241201,biological_process
+ion transmembrane transport,0.0002461235540241201,biological_process
+anatomical structure development,0.0002461235540241201,biological_process
+positive regulation of vascular associated smooth muscle cell apoptotic process,0.0002461235540241201,biological_process
+placenta development,0.0002461235540241201,biological_process
+apoptotic signaling pathway,0.0002461235540241201,biological_process
+protein-containing complex assembly,0.0002461235540241201,biological_process
+cellular response to starvation,0.0002461235540241201,biological_process
+regulation of apoptotic process,0.0002461235540241201,biological_process
+cell migration,0.0002461235540241201,biological_process
+locomotory behavior,0.0002461235540241201,biological_process
+response to superoxide,0.0002461235540241201,biological_process
+peptidyl-serine phosphorylation,0.0002461235540241201,biological_process
+glutathione metabolic process,0.0002461235540241201,biological_process
+proton transmembrane transport,0.0002461235540241201,biological_process
+negative regulation of macrophage derived foam cell differentiation,0.0002461235540241201,biological_process
+response to nutrient,0.0002461235540241201,biological_process
+hormone-mediated signaling pathway,0.0002461235540241201,biological_process
+vasoconstriction,0.0002461235540241201,biological_process
+positive regulation of heart rate,0.0002461235540241201,biological_process
+positive regulation of epithelial to mesenchymal transition,0.0002461235540241201,biological_process
+negative regulation of viral genome replication,0.0002461235540241201,biological_process
+male gonad development,0.0002461235540241201,biological_process
+negative regulation of interleukin-8 production,0.0002461235540241201,biological_process
+energy reserve metabolic process,0.0002461235540241201,biological_process
+positive regulation of erythrocyte differentiation,0.0002461235540241201,biological_process
+triglyceride homeostasis,0.0002461235540241201,biological_process
+endoplasmic reticulum calcium ion homeostasis,0.0002461235540241201,biological_process
+cellular response to fatty acid,0.0002461235540241201,biological_process
+endothelin receptor signaling pathway,0.0002461235540241201,biological_process
+negative regulation of endothelial cell apoptotic process,0.0002461235540241201,biological_process
+cartilage development,0.0002461235540241201,biological_process
+activation of adenylate cyclase activity,0.0002461235540241201,biological_process
+multicellular organism aging,0.0002461235540241201,biological_process
+response to leptin,0.0002461235540241201,biological_process
+negative regulation of receptor binding,0.0002461235540241201,biological_process
+hepatocyte differentiation,0.0002461235540241201,biological_process
+signal transduction involved in regulation of gene expression,0.0002461235540241201,biological_process
+regulation of glucose metabolic process,0.0002461235540241201,biological_process
+positive regulation of lipid storage,0.0002461235540241201,biological_process
+positive regulation of receptor signaling pathway via JAK-STAT,0.0002461235540241201,biological_process
+positive regulation of protein-containing complex assembly,0.0002461235540241201,biological_process
+regulation of transcription initiation from RNA polymerase II promoter,0.0002461235540241201,biological_process
+negative regulation of glucose import,0.0002461235540241201,biological_process
+positive regulation of amyloid-beta formation,0.0002461235540241201,biological_process
+hydrogen peroxide catabolic process,0.0002461235540241201,biological_process
+response to copper ion,0.0002461235540241201,biological_process
+membrane protein intracellular domain proteolysis,0.0002461235540241201,biological_process
+platelet degranulation,0.0002461235540241201,biological_process
+negative regulation of canonical Wnt signaling pathway,0.0002461235540241201,biological_process
+response to bacterium,0.0002461235540241201,biological_process
+regulation of cytokine production involved in inflammatory response,0.0002461235540241201,biological_process
+regulation of cell population proliferation,0.0002461235540241201,biological_process
+release of cytochrome c from mitochondria,0.0002461235540241201,biological_process
+negative regulation of cellular protein metabolic process,0.0002461235540241201,biological_process
+I-kappaB kinase/NF-kappaB signaling,0.0002461235540241201,biological_process
+defense response to virus,0.0002461235540241201,biological_process
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,0.0002461235540241201,biological_process
+negative regulation of intrinsic apoptotic signaling pathway,0.0002461235540241201,biological_process
+positive regulation of intrinsic apoptotic signaling pathway,0.0002461235540241201,biological_process
+phosphatidylinositol 3-kinase signaling,0.0002461235540241201,biological_process
+positive regulation of cytokine production,0.0002461235540241201,biological_process
+removal of superoxide radicals,0.0002461235540241201,biological_process
+positive regulation of mitotic nuclear division,0.0002461235540241201,biological_process
+response to fatty acid,0.0002461235540241201,biological_process
+triglyceride metabolic process,0.0002461235540241201,biological_process
+negative regulation of pri-miRNA transcription by RNA polymerase II,0.0002461235540241201,biological_process
+smoothened signaling pathway,0.0002461235540241201,biological_process
+positive regulation of fatty acid metabolic process,0.0002461235540241201,biological_process
+cell fate determination,0.0002461235540241201,biological_process
+protein polyubiquitination,0.0002461235540241201,biological_process
+adaptive thermogenesis,0.0002461235540241201,biological_process
+positive regulation of cholesterol efflux,0.0002461235540241201,biological_process
+response to endoplasmic reticulum stress,0.0002461235540241201,biological_process
+negative regulation of autophagy,0.0002461235540241201,biological_process
+positive regulation of B cell proliferation,0.0002461235540241201,biological_process
+cell division,0.0002461235540241201,biological_process
+vesicle-mediated transport,0.0002461235540241201,biological_process
+proteasome-mediated ubiquitin-dependent protein catabolic process,0.0002461235540241201,biological_process
+cellular response to estradiol stimulus,0.0002461235540241201,biological_process
+chromatin organization,0.0002461235540241201,biological_process
+T cell homeostasis,0.0002461235540241201,biological_process
+response to peptide hormone,0.0002461235540241201,biological_process
+regulation of nitric-oxide synthase activity,0.0002461235540241201,biological_process
+response to radiation,0.0002461235540241201,biological_process
+multicellular organism growth,0.0002461235540241201,biological_process
+axon guidance,0.0002461235540241201,biological_process
+thymus development,0.0002461235540241201,biological_process
+negative regulation of protein phosphorylation,0.0002461235540241201,biological_process
+brown fat cell differentiation,0.0002461235540241201,biological_process
+temperature homeostasis,0.0002461235540241201,biological_process
+negative regulation of interleukin-1 beta production,0.0002461235540241201,biological_process
+actin cytoskeleton reorganization,0.0002461235540241201,biological_process
+adipose tissue development,0.0002461235540241201,biological_process
+fatty acid beta-oxidation,0.0002461235540241201,biological_process
+execution phase of apoptosis,0.0001640823693494134,biological_process
+positive regulation of nitric oxide mediated signal transduction,0.0001640823693494134,biological_process
+sequestering of triglyceride,0.0001640823693494134,biological_process
+heart contraction,0.0001640823693494134,biological_process
+hair follicle development,0.0001640823693494134,biological_process
+transmembrane receptor protein tyrosine kinase signaling pathway,0.0001640823693494134,biological_process
+calcium ion transmembrane transport,0.0001640823693494134,biological_process
+peripheral nervous system myelin maintenance,0.0001640823693494134,biological_process
+positive regulation of humoral immune response mediated by circulating immunoglobulin,0.0001640823693494134,biological_process
+regulation of JNK cascade,0.0001640823693494134,biological_process
+regulation of glycolytic process,0.0001640823693494134,biological_process
+memory,0.0001640823693494134,biological_process
+positive regulation of type I interferon production,0.0001640823693494134,biological_process
+positive regulation of vascular associated smooth muscle cell differentiation involved in phenotypic switching,0.0001640823693494134,biological_process
+positive regulation of protein kinase A signaling,0.0001640823693494134,biological_process
+cellular response to leptin stimulus,0.0001640823693494134,biological_process
+glucose 6-phosphate metabolic process,0.0001640823693494134,biological_process
+negative regulation of long-chain fatty acid import across plasma membrane,0.0001640823693494134,biological_process
+response to UV-B,0.0001640823693494134,biological_process
+cellular response to glucose starvation,0.0001640823693494134,biological_process
+negative regulation of myeloid cell apoptotic process,0.0001640823693494134,biological_process
+mammary gland development,0.0001640823693494134,biological_process
+endothelial cell apoptotic process,0.0001640823693494134,biological_process
+negative regulation of lipid storage,0.0001640823693494134,biological_process
+protein dephosphorylation,0.0001640823693494134,biological_process
+regulation of protein stability,0.0001640823693494134,biological_process
+necroptotic signaling pathway,0.0001640823693494134,biological_process
+ossification,0.0001640823693494134,biological_process
+negative regulation of apoptotic signaling pathway,0.0001640823693494134,biological_process
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,0.0001640823693494134,biological_process
+gluconeogenesis,0.0001640823693494134,biological_process
+intrinsic apoptotic signaling pathway in response to oxidative stress,0.0001640823693494134,biological_process
+reactive oxygen species metabolic process,0.0001640823693494134,biological_process
+positive regulation of glucose transmembrane transport,0.0001640823693494134,biological_process
+cellular response to heat,0.0001640823693494134,biological_process
+positive regulation of DNA binding,0.0001640823693494134,biological_process
+positive regulation of kinase activity,0.0001640823693494134,biological_process
+negative regulation of DNA binding,0.0001640823693494134,biological_process
+cellular response to dexamethasone stimulus,0.0001640823693494134,biological_process
+astrocyte activation,0.0001640823693494134,biological_process
+activation of MAPKK activity,0.0001640823693494134,biological_process
+negative regulation of transcription by transcription factor localization,0.0001640823693494134,biological_process
+positive regulation of vasoconstriction,0.0001640823693494134,biological_process
+viral entry into host cell,0.0001640823693494134,biological_process
+positive regulation of DNA repair,0.0001640823693494134,biological_process
+response to cobalamin,0.0001640823693494134,biological_process
+positive regulation of chemokine production,0.0001640823693494134,biological_process
+positive regulation of production of miRNAs involved in gene silencing by miRNA,0.0001640823693494134,biological_process
+cell-cell adhesion,0.0001640823693494134,biological_process
+protein autophosphorylation,0.0001640823693494134,biological_process
+regulation of extrinsic apoptotic signaling pathway via death domain receptors,0.0001640823693494134,biological_process
+glycolytic process,0.0001640823693494134,biological_process
+canonical glycolysis,0.0001640823693494134,biological_process
+low-density lipoprotein particle clearance,0.0001640823693494134,biological_process
+dehydroascorbic acid transport,0.0001640823693494134,biological_process
+erythrocyte differentiation,0.0001640823693494134,biological_process
+positive regulation of catalytic activity,0.0001640823693494134,biological_process
+long-chain fatty acid metabolic process,0.0001640823693494134,biological_process
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,0.0001640823693494134,biological_process
+pulmonary valve morphogenesis,0.0001640823693494134,biological_process
+Ras protein signal transduction,0.0001640823693494134,biological_process
+negative regulation of cold-induced thermogenesis,0.0001640823693494134,biological_process
+positive regulation of protein kinase activity,0.0001640823693494134,biological_process
+intracellular receptor signaling pathway,0.0001640823693494134,biological_process
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.0001640823693494134,biological_process
+positive regulation of peptidyl-threonine phosphorylation,0.0001640823693494134,biological_process
+positive regulation of osteoclast differentiation,0.0001640823693494134,biological_process
+positive regulation of protein binding,0.0001640823693494134,biological_process
+"regulation of synaptic transmission, glutamatergic",0.0001640823693494134,biological_process
+negative regulation of bicellular tight junction assembly,0.0001640823693494134,biological_process
+negative regulation of interleukin-1 alpha production,0.0001640823693494134,biological_process
+positive regulation of neuroinflammatory response,0.0001640823693494134,biological_process
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.0001640823693494134,biological_process
+ventricular septum morphogenesis,0.0001640823693494134,biological_process
+regulation of cell adhesion,0.0001640823693494134,biological_process
+positive regulation of acute inflammatory response,0.0001640823693494134,biological_process
+regulation of vascular permeability involved in acute inflammatory response,0.0001640823693494134,biological_process
+autophagy of mitochondrion,0.0001640823693494134,biological_process
+positive regulation of glycolytic process,0.0001640823693494134,biological_process
+amyloid-beta clearance,0.0001640823693494134,biological_process
+positive regulation of developmental growth,0.0001640823693494134,biological_process
+acute-phase response,0.0001640823693494134,biological_process
+amyloid fibril formation,0.0001640823693494134,biological_process
+positive regulation of cardiac muscle cell differentiation,0.0001640823693494134,biological_process
+B cell activation,0.0001640823693494134,biological_process
+positive regulation of vascular endothelial growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+negative regulation of cyclin-dependent protein serine/threonine kinase activity,0.0001640823693494134,biological_process
+positive regulation of connective tissue replacement,0.0001640823693494134,biological_process
+arginine catabolic process,0.0001640823693494134,biological_process
+negative regulation of TRAIL-activated apoptotic signaling pathway,0.0001640823693494134,biological_process
+negative regulation of G2/M transition of mitotic cell cycle,0.0001640823693494134,biological_process
+platelet activation,0.0001640823693494134,biological_process
+adaptive immune response,0.0001640823693494134,biological_process
+negative regulation of activated T cell proliferation,0.0001640823693494134,biological_process
+response to cobalt ion,0.0001640823693494134,biological_process
+negative regulation of fibroblast growth factor production,0.0001640823693494134,biological_process
+positive regulation of high-density lipoprotein particle clearance,0.0001640823693494134,biological_process
+negative regulation of neuroinflammatory response,0.0001640823693494134,biological_process
+cardiac muscle hypertrophy,0.0001640823693494134,biological_process
+negative regulation of prostaglandin biosynthetic process,0.0001640823693494134,biological_process
+negative regulation of T cell activation,0.0001640823693494134,biological_process
+negative regulation by host of viral genome replication,0.0001640823693494134,biological_process
+positive regulation of histone H3-K4 methylation,0.0001640823693494134,biological_process
+lactation,0.0001640823693494134,biological_process
+response to cAMP,0.0001640823693494134,biological_process
+positive regulation of BMP signaling pathway,0.0001640823693494134,biological_process
+renal water homeostasis,0.0001640823693494134,biological_process
+homeostasis of number of cells within a tissue,0.0001640823693494134,biological_process
+regulation of transmembrane transporter activity,0.0001640823693494134,biological_process
+positive regulation of Ras protein signal transduction,0.0001640823693494134,biological_process
+hepatocyte proliferation,0.0001640823693494134,biological_process
+negative regulation of B cell apoptotic process,0.0001640823693494134,biological_process
+acute inflammatory response,0.0001640823693494134,biological_process
+negative regulation of cell migration involved in sprouting angiogenesis,0.0001640823693494134,biological_process
+epithelial cell differentiation,0.0001640823693494134,biological_process
+negative regulation of hematopoietic stem cell proliferation,0.0001640823693494134,biological_process
+L-cysteine catabolic process,0.0001640823693494134,biological_process
+long-term memory,0.0001640823693494134,biological_process
+microglial cell activation,0.0001640823693494134,biological_process
+negative regulation of cell-matrix adhesion,0.0001640823693494134,biological_process
+positive regulation of mitochondrion organization,0.0001640823693494134,biological_process
+cell fate commitment,0.0001640823693494134,biological_process
+positive regulation of Schwann cell proliferation involved in axon regeneration,0.0001640823693494134,biological_process
+protein K48-linked ubiquitination,0.0001640823693494134,biological_process
+peptidyl-tyrosine phosphorylation,0.0001640823693494134,biological_process
+calcium ion transport,0.0001640823693494134,biological_process
+interferon-gamma-mediated signaling pathway,0.0001640823693494134,biological_process
+positive regulation of miRNA metabolic process,0.0001640823693494134,biological_process
+epidermis development,0.0001640823693494134,biological_process
+spleen development,0.0001640823693494134,biological_process
+axonogenesis,0.0001640823693494134,biological_process
+actin filament organization,0.0001640823693494134,biological_process
+positive regulation of receptor internalization,0.0001640823693494134,biological_process
+response to gamma radiation,0.0001640823693494134,biological_process
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,0.0001640823693494134,biological_process
+calcium ion transport from cytosol to endoplasmic reticulum,0.0001640823693494134,biological_process
+positive regulation of respiratory burst,0.0001640823693494134,biological_process
+sulfur amino acid metabolic process,0.0001640823693494134,biological_process
+negative regulation of reactive oxygen species biosynthetic process,0.0001640823693494134,biological_process
+response to leucine,0.0001640823693494134,biological_process
+positive regulation of insulin secretion involved in cellular response to glucose stimulus,0.0001640823693494134,biological_process
+lipopolysaccharide-mediated signaling pathway,0.0001640823693494134,biological_process
+protein kinase B signaling,0.0001640823693494134,biological_process
+blood vessel endothelial cell migration,0.0001640823693494134,biological_process
+response to amphetamine,0.0001640823693494134,biological_process
+negative regulation of protein binding,0.0001640823693494134,biological_process
+negative regulation of osteoblast differentiation,0.0001640823693494134,biological_process
+response to virus,0.0001640823693494134,biological_process
+regulation of immune response,0.0001640823693494134,biological_process
+negative regulation of amyloid-beta clearance,0.0001640823693494134,biological_process
+positive regulation of cell cycle,0.0001640823693494134,biological_process
+ventricular cardiac muscle tissue morphogenesis,0.0001640823693494134,biological_process
+dentate gyrus development,0.0001640823693494134,biological_process
+lens development in camera-type eye,0.0001640823693494134,biological_process
+regulation of signal transduction,0.0001640823693494134,biological_process
+positive regulation of cellular senescence,0.0001640823693494134,biological_process
+heart valve morphogenesis,0.0001640823693494134,biological_process
+cellular response to cAMP,0.0001640823693494134,biological_process
+intestinal absorption,0.0001640823693494134,biological_process
+neuron projection morphogenesis,0.0001640823693494134,biological_process
+inorganic cation transmembrane transport,0.0001640823693494134,biological_process
+cardiac muscle contraction,0.0001640823693494134,biological_process
+regulation of fat cell differentiation,0.0001640823693494134,biological_process
+cellular response to epinephrine stimulus,0.0001640823693494134,biological_process
+inner ear development,0.0001640823693494134,biological_process
+potassium ion import across plasma membrane,0.0001640823693494134,biological_process
+smooth muscle hyperplasia,0.0001640823693494134,biological_process
+protein deubiquitination,0.0001640823693494134,biological_process
+interleukin-7-mediated signaling pathway,0.0001640823693494134,biological_process
+positive regulation of phosphatidylinositol 3-kinase activity,0.0001640823693494134,biological_process
+phosphatidylinositol-mediated signaling,0.0001640823693494134,biological_process
+nervous system process,0.0001640823693494134,biological_process
+positive regulation of macroautophagy,0.0001640823693494134,biological_process
+regulation of hormone metabolic process,0.0001640823693494134,biological_process
+response to alkaloid,0.0001640823693494134,biological_process
+peptide hormone processing,0.0001640823693494134,biological_process
+type B pancreatic cell differentiation,0.0001640823693494134,biological_process
+cell-matrix adhesion,0.0001640823693494134,biological_process
+negative regulation of epidermal growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+Wnt signaling pathway,0.0001640823693494134,biological_process
+regulation of macroautophagy,0.0001640823693494134,biological_process
+muscle organ development,0.0001640823693494134,biological_process
+positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,0.0001640823693494134,biological_process
+positive regulation of fatty acid oxidation,0.0001640823693494134,biological_process
+energy homeostasis,0.0001640823693494134,biological_process
+response to starvation,0.0001640823693494134,biological_process
+response to methionine,0.0001640823693494134,biological_process
+response to dietary excess,0.0001640823693494134,biological_process
+negative regulation of glycolytic process,0.0001640823693494134,biological_process
+cerebellum development,0.0001640823693494134,biological_process
+positive regulation of ATP biosynthetic process,0.0001640823693494134,biological_process
+carbohydrate phosphorylation,0.0001640823693494134,biological_process
+fatty acid oxidation,0.0001640823693494134,biological_process
+protein stabilization,0.0001640823693494134,biological_process
+intracellular protein transport,0.0001640823693494134,biological_process
+phosphatidylinositol biosynthetic process,0.0001640823693494134,biological_process
+angiogenesis involved in wound healing,0.0001640823693494134,biological_process
+white fat cell differentiation,0.0001640823693494134,biological_process
+negative regulation of protein sumoylation,0.0001640823693494134,biological_process
+positive regulation of interleukin-12 production,0.0001640823693494134,biological_process
+regulation of mitotic cell cycle,0.0001640823693494134,biological_process
+cellular response to potassium ion,0.0001640823693494134,biological_process
+salivary gland morphogenesis,0.0001640823693494134,biological_process
+negative regulation of neurogenesis,0.0001640823693494134,biological_process
+positive regulation of transcription regulatory region DNA binding,0.0001640823693494134,biological_process
+negative regulation of production of miRNAs involved in gene silencing by miRNA,0.0001640823693494134,biological_process
+response to progesterone,0.0001640823693494134,biological_process
+negative regulation of cell differentiation,0.0001640823693494134,biological_process
+positive regulation of protein import into nucleus,0.0001640823693494134,biological_process
+canonical Wnt signaling pathway,0.0001640823693494134,biological_process
+visual perception,0.0001640823693494134,biological_process
+negative regulation of epithelial cell proliferation,0.0001640823693494134,biological_process
+blood vessel development,0.0001640823693494134,biological_process
+negative regulation of extrinsic apoptotic signaling pathway,0.0001640823693494134,biological_process
+negative regulation of extracellular matrix constituent secretion,0.0001640823693494134,biological_process
+protein transport,0.0001640823693494134,biological_process
+androgen metabolic process,0.0001640823693494134,biological_process
+negative regulation of extracellular matrix disassembly,0.0001640823693494134,biological_process
+neuron projection maintenance,0.0001640823693494134,biological_process
+negative regulation of feeding behavior,0.0001640823693494134,biological_process
+activation of protein kinase B activity,0.0001640823693494134,biological_process
+aortic valve morphogenesis,0.0001640823693494134,biological_process
+mitochondrion organization,0.0001640823693494134,biological_process
+bone growth,0.0001640823693494134,biological_process
+response to heat,0.0001640823693494134,biological_process
+negative regulation of release of cytochrome c from mitochondria,0.0001640823693494134,biological_process
+cellular response to peptide hormone stimulus,0.0001640823693494134,biological_process
+neural crest cell development,0.0001640823693494134,biological_process
+respiratory gaseous exchange by respiratory system,0.0001640823693494134,biological_process
+branching involved in blood vessel morphogenesis,0.0001640823693494134,biological_process
+negative regulation of appetite,0.0001640823693494134,biological_process
+negative regulation of interleukin-6-mediated signaling pathway,0.0001640823693494134,biological_process
+negative regulation of biomineral tissue development,0.0001640823693494134,biological_process
+positive regulation of cellular protein metabolic process,0.0001640823693494134,biological_process
+cellular response to growth factor stimulus,0.0001640823693494134,biological_process
+negative regulation of lipid catabolic process,0.0001640823693494134,biological_process
+fatty acid homeostasis,0.0001640823693494134,biological_process
+response to vitamin E,0.0001640823693494134,biological_process
+regulation of appetite,0.0001640823693494134,biological_process
+protein localization,0.0001640823693494134,biological_process
+response to cadmium ion,0.0001640823693494134,biological_process
+positive regulation of lipid biosynthetic process,0.0001640823693494134,biological_process
+regulation of bone remodeling,0.0001640823693494134,biological_process
+regulation of protein secretion,0.0001640823693494134,biological_process
+regulation of synaptic plasticity,0.0001640823693494134,biological_process
+phosphate-containing compound metabolic process,0.0001640823693494134,biological_process
+interleukin-12-mediated signaling pathway,0.0001640823693494134,biological_process
+prostaglandin secretion,0.0001640823693494134,biological_process
+positive regulation of cell division,0.0001640823693494134,biological_process
+UV protection,0.0001640823693494134,biological_process
+cognition,0.0001640823693494134,biological_process
+ureteric bud development,0.0001640823693494134,biological_process
+hemoglobin metabolic process,0.0001640823693494134,biological_process
+response to L-ascorbic acid,0.0001640823693494134,biological_process
+response to pH,0.0001640823693494134,biological_process
+response to reactive oxygen species,0.0001640823693494134,biological_process
+T cell differentiation,0.0001640823693494134,biological_process
+sexual reproduction,0.0001640823693494134,biological_process
+nitric oxide biosynthetic process,0.0001640823693494134,biological_process
+positive regulation of guanylate cyclase activity,0.0001640823693494134,biological_process
+positive regulation of protein-containing complex disassembly,0.0001640823693494134,biological_process
+myeloid cell homeostasis,0.0001640823693494134,biological_process
+regulation of organ growth,0.0001640823693494134,biological_process
+endocrine pancreas development,0.0001640823693494134,biological_process
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus,0.0001640823693494134,biological_process
+negative regulation of sequestering of triglyceride,0.0001640823693494134,biological_process
+macrophage derived foam cell differentiation,0.0001640823693494134,biological_process
+response to lipid,0.0001640823693494134,biological_process
+rhythmic process,0.0001640823693494134,biological_process
+cellular response to low-density lipoprotein particle stimulus,0.0001640823693494134,biological_process
+negative regulation of vascular endothelial growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+anterograde axonal transport,0.0001640823693494134,biological_process
+negative regulation of BMP signaling pathway,0.0001640823693494134,biological_process
+glucose import,0.0001640823693494134,biological_process
+keratinocyte differentiation,0.0001640823693494134,biological_process
+positive regulation of transcription initiation from RNA polymerase II promoter,0.0001640823693494134,biological_process
+negative regulation of cholesterol storage,0.0001640823693494134,biological_process
+positive regulation of cAMP-dependent protein kinase activity,0.0001640823693494134,biological_process
+macrophage differentiation,0.0001640823693494134,biological_process
+response to selenium ion,0.0001640823693494134,biological_process
+regulation of cellular amino acid metabolic process,0.0001640823693494134,biological_process
+regulation of multicellular organism growth,0.0001640823693494134,biological_process
+ovulation from ovarian follicle,0.0001640823693494134,biological_process
+positive regulation of low-density lipoprotein receptor activity,0.0001640823693494134,biological_process
+anatomical structure morphogenesis,0.0001640823693494134,biological_process
+positive regulation of neuron differentiation,0.0001640823693494134,biological_process
+protein homotetramerization,0.0001640823693494134,biological_process
+xenobiotic transport,0.0001640823693494134,biological_process
+regulation of mRNA stability,0.0001640823693494134,biological_process
+exocytosis,0.0001640823693494134,biological_process
+regulation of cytokine production,0.0001640823693494134,biological_process
+positive regulation of bone mineralization,0.0001640823693494134,biological_process
+positive regulation of cell differentiation,0.0001640823693494134,biological_process
+positive regulation of protein localization to nucleus,0.0001640823693494134,biological_process
+negative regulation of myoblast differentiation,0.0001640823693494134,biological_process
+BMP signaling pathway,0.0001640823693494134,biological_process
+protein homotrimerization,0.0001640823693494134,biological_process
+negative regulation of neuron differentiation,0.0001640823693494134,biological_process
+connective tissue replacement involved in inflammatory response wound healing,0.0001640823693494134,biological_process
+positive regulation of vascular endothelial growth factor production,0.0001640823693494134,biological_process
+anterior/posterior pattern specification,0.0001640823693494134,biological_process
+positive regulation of IRE1-mediated unfolded protein response,0.0001640823693494134,biological_process
+neural tube development,0.0001640823693494134,biological_process
+negative regulation of MAP kinase activity,0.0001640823693494134,biological_process
+IRE1-mediated unfolded protein response,0.0001640823693494134,biological_process
+glycogen metabolic process,0.0001640823693494134,biological_process
+cell cycle,0.0001640823693494134,biological_process
+negative regulation of gene silencing by miRNA,0.0001640823693494134,biological_process
+positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+fibroblast growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+positive regulation of synaptic transmission,0.0001640823693494134,biological_process
+response to mechanical stimulus,0.0001640823693494134,biological_process
+potassium ion transport,0.0001640823693494134,biological_process
+ubiquitin-dependent protein catabolic process,0.0001640823693494134,biological_process
+leukocyte tethering or rolling,0.0001640823693494134,biological_process
+cellular respiration,0.0001640823693494134,biological_process
+germ cell development,0.0001640823693494134,biological_process
+negative regulation of protein autophosphorylation,0.0001640823693494134,biological_process
+cellular response to gamma radiation,0.0001640823693494134,biological_process
+cellular response to alkaloid,0.0001640823693494134,biological_process
+prostaglandin metabolic process,0.0001640823693494134,biological_process
+xenobiotic metabolic process,0.0001640823693494134,biological_process
+negative regulation of protein localization to plasma membrane,0.0001640823693494134,biological_process
+negative regulation of execution phase of apoptosis,0.0001640823693494134,biological_process
+positive regulation of ceramide biosynthetic process,0.0001640823693494134,biological_process
+regulation of establishment of endothelial barrier,0.0001640823693494134,biological_process
+positive regulation of renal sodium excretion,0.0001640823693494134,biological_process
+regulation of mitochondrial membrane permeability,0.0001640823693494134,biological_process
+cellular response to amino acid stimulus,0.0001640823693494134,biological_process
+estrogen metabolic process,0.0001640823693494134,biological_process
+response to immobilization stress,0.0001640823693494134,biological_process
+positive regulation of mucus secretion,0.0001640823693494134,biological_process
+positive regulation of JNK cascade,0.0001640823693494134,biological_process
+pituitary gland development,0.0001640823693494134,biological_process
+response to ozone,0.0001640823693494134,biological_process
+positive regulation of Notch signaling pathway,0.0001640823693494134,biological_process
+negative regulation of proteolysis,0.0001640823693494134,biological_process
+positive regulation of axon regeneration,0.0001640823693494134,biological_process
+positive regulation of Schwann cell migration,0.0001640823693494134,biological_process
+negative regulation of low-density lipoprotein particle clearance,0.0001640823693494134,biological_process
+positive regulation of epithelial cell migration,0.0001640823693494134,biological_process
+platelet-derived growth factor receptor signaling pathway,0.0001640823693494134,biological_process
+negative regulation of NIK/NF-kappaB signaling,0.0001640823693494134,biological_process
+positive regulation of vascular associated smooth muscle cell dedifferentiation,0.0001640823693494134,biological_process
+positive regulation of apoptotic process involved in morphogenesis,0.0001640823693494134,biological_process
+negative regulation of vascular associated smooth muscle cell differentiation,0.0001640823693494134,biological_process
+pulmonary valve development,0.0001640823693494134,biological_process
+cellular response to interferon-gamma,0.0001640823693494134,biological_process
+positive regulation of JUN kinase activity,0.0001640823693494134,biological_process
+response to testosterone,0.0001640823693494134,biological_process
+regulation of vasoconstriction,0.0001640823693494134,biological_process
+negative regulation of cardiac muscle hypertrophy,0.0001640823693494134,biological_process
+vein smooth muscle contraction,0.0001640823693494134,biological_process
+protein kinase C-activating G protein-coupled receptor signaling pathway,0.0001640823693494134,biological_process
+epithelial fluid transport,0.0001640823693494134,biological_process
+cellular response to calcium ion,0.0001640823693494134,biological_process
+negative regulation of hormone secretion,0.0001640823693494134,biological_process
+cell population proliferation,0.0001640823693494134,biological_process
+calcium ion homeostasis,0.0001640823693494134,biological_process
+cellular response to epidermal growth factor stimulus,0.0001640823693494134,biological_process
+aortic valve development,0.0001640823693494134,biological_process
+phagocytosis,0.0001640823693494134,biological_process
+cellular response to glucocorticoid stimulus,0.0001640823693494134,biological_process
+positive regulation of membrane protein ectodomain proteolysis,0.0001640823693494134,biological_process
+negative regulation of cell adhesion molecule production,0.0001640823693494134,biological_process
+electron transport chain,0.0001640823693494134,biological_process
+positive regulation of urine volume,0.0001640823693494134,biological_process
+methylation,0.0001640823693494134,biological_process
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.0001640823693494134,biological_process
+oxidative demethylation,0.0001640823693494134,biological_process
+regulation of pH,0.0001640823693494134,biological_process
+positive regulation of vascular endothelial cell proliferation,0.0001640823693494134,biological_process
+artery smooth muscle contraction,0.0001640823693494134,biological_process
+positive regulation of osteoblast differentiation,0.0001640823693494134,biological_process
+cellular response to vascular endothelial growth factor stimulus,0.0001640823693494134,biological_process
+negative regulation of low-density lipoprotein receptor activity,0.0001640823693494134,biological_process
+negative regulation of heterotypic cell-cell adhesion,0.0001640823693494134,biological_process
+regulation of sensory perception of pain,0.0001640823693494134,biological_process
+positive regulation of sarcomere organization,0.0001640823693494134,biological_process
+activation of phospholipase C activity,0.0001640823693494134,biological_process
+enteric nervous system development,0.0001640823693494134,biological_process
+negative regulation of smooth muscle cell migration,8.20411846747067e-05,biological_process
+response to electrical stimulus involved in regulation of muscle adaptation,8.20411846747067e-05,biological_process
+cellular response to fructose stimulus,8.20411846747067e-05,biological_process
+positive regulation of histone acetylation,8.20411846747067e-05,biological_process
+response to epinephrine,8.20411846747067e-05,biological_process
+cellular response to caffeine,8.20411846747067e-05,biological_process
+skeletal muscle atrophy,8.20411846747067e-05,biological_process
+regulation of NMDA receptor activity,8.20411846747067e-05,biological_process
+negative regulation of mitochondrial fission,8.20411846747067e-05,biological_process
+heme metabolic process,8.20411846747067e-05,biological_process
+heme transport,8.20411846747067e-05,biological_process
+negative regulation of amyloid fibril formation,8.20411846747067e-05,biological_process
+positive regulation of immunoglobulin production,8.20411846747067e-05,biological_process
+negative regulation of protein-containing complex assembly,8.20411846747067e-05,biological_process
+T cell differentiation in thymus,8.20411846747067e-05,biological_process
+amylin receptor signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of mitochondrion organization,8.20411846747067e-05,biological_process
+calcium ion import,8.20411846747067e-05,biological_process
+NADP metabolic process,8.20411846747067e-05,biological_process
+regulation of glycoprotein biosynthetic process,8.20411846747067e-05,biological_process
+"CD8-positive, alpha-beta T cell lineage commitment",8.20411846747067e-05,biological_process
+metanephros development,8.20411846747067e-05,biological_process
+pigment granule organization,8.20411846747067e-05,biological_process
+digestive tract morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of neuron maturation,8.20411846747067e-05,biological_process
+regulation of cell-matrix adhesion,8.20411846747067e-05,biological_process
+negative regulation of reactive oxygen species metabolic process,8.20411846747067e-05,biological_process
+glomerulus development,8.20411846747067e-05,biological_process
+negative regulation of calcium ion transport into cytosol,8.20411846747067e-05,biological_process
+negative regulation of cellular pH reduction,8.20411846747067e-05,biological_process
+positive regulation of multicellular organism growth,8.20411846747067e-05,biological_process
+negative regulation of ossification,8.20411846747067e-05,biological_process
+positive regulation of release of cytochrome c from mitochondria,8.20411846747067e-05,biological_process
+protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,8.20411846747067e-05,biological_process
+apoptotic process involved in embryonic digit morphogenesis,8.20411846747067e-05,biological_process
+thymocyte apoptotic process,8.20411846747067e-05,biological_process
+positive regulation of apoptotic process by virus,8.20411846747067e-05,biological_process
+cochlear nucleus development,8.20411846747067e-05,biological_process
+organ growth,8.20411846747067e-05,biological_process
+melanin metabolic process,8.20411846747067e-05,biological_process
+B cell proliferation,8.20411846747067e-05,biological_process
+response to toxic substance,8.20411846747067e-05,biological_process
+lymphoid progenitor cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of mitochondrial depolarization,8.20411846747067e-05,biological_process
+branching involved in ureteric bud morphogenesis,8.20411846747067e-05,biological_process
+negative regulation of anoikis,8.20411846747067e-05,biological_process
+negative regulation of retinal cell programmed cell death,8.20411846747067e-05,biological_process
+axon regeneration,8.20411846747067e-05,biological_process
+negative regulation of G1/S transition of mitotic cell cycle,8.20411846747067e-05,biological_process
+positive regulation of cell motility,8.20411846747067e-05,biological_process
+positive regulation of vesicle fusion,8.20411846747067e-05,biological_process
+cellular response to high light intensity,8.20411846747067e-05,biological_process
+mesenchymal cell development,8.20411846747067e-05,biological_process
+positive regulation of autophagy in response to ER overload,8.20411846747067e-05,biological_process
+meiosis I,8.20411846747067e-05,biological_process
+adult locomotory behavior,8.20411846747067e-05,biological_process
+mitotic cell cycle phase transition,8.20411846747067e-05,biological_process
+regulation of cyclin-dependent protein serine/threonine kinase activity,8.20411846747067e-05,biological_process
+cellular response to X-ray,8.20411846747067e-05,biological_process
+positive regulation of fibroblast apoptotic process,8.20411846747067e-05,biological_process
+regulation of the force of heart contraction,8.20411846747067e-05,biological_process
+regulation of cardiac muscle contraction by calcium ion signaling,8.20411846747067e-05,biological_process
+T-tubule organization,8.20411846747067e-05,biological_process
+regulation of calcium ion transport,8.20411846747067e-05,biological_process
+regulation of developmental pigmentation,8.20411846747067e-05,biological_process
+developmental pigmentation,8.20411846747067e-05,biological_process
+tube formation,8.20411846747067e-05,biological_process
+post-embryonic animal organ morphogenesis,8.20411846747067e-05,biological_process
+intracellular protein transmembrane transport,8.20411846747067e-05,biological_process
+peptidyl-threonine phosphorylation,8.20411846747067e-05,biological_process
+animal organ senescence,8.20411846747067e-05,biological_process
+response to iron(II) ion,8.20411846747067e-05,biological_process
+gland morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of melanocyte differentiation,8.20411846747067e-05,biological_process
+animal organ regeneration,8.20411846747067e-05,biological_process
+choline catabolic process,8.20411846747067e-05,biological_process
+stem cell differentiation,8.20411846747067e-05,biological_process
+protein methylation,8.20411846747067e-05,biological_process
+positive regulation of smooth muscle cell migration,8.20411846747067e-05,biological_process
+negative regulation of osteoblast proliferation,8.20411846747067e-05,biological_process
+regulation of viral genome replication,8.20411846747067e-05,biological_process
+B cell lineage commitment,8.20411846747067e-05,biological_process
+regulation of nitrogen utilization,8.20411846747067e-05,biological_process
+oocyte development,8.20411846747067e-05,biological_process
+regulation of homocysteine metabolic process,8.20411846747067e-05,biological_process
+L-methionine salvage,8.20411846747067e-05,biological_process
+digestive tract development,8.20411846747067e-05,biological_process
+response to chlorate,8.20411846747067e-05,biological_process
+response to vitamin,8.20411846747067e-05,biological_process
+carnitine shuttle,8.20411846747067e-05,biological_process
+response to UV,8.20411846747067e-05,biological_process
+adenylate cyclase-inhibiting dopamine receptor signaling pathway,8.20411846747067e-05,biological_process
+morphogenesis of embryonic epithelium,8.20411846747067e-05,biological_process
+exocrine pancreas development,8.20411846747067e-05,biological_process
+response to tetrachloromethane,8.20411846747067e-05,biological_process
+amino-acid betaine metabolic process,8.20411846747067e-05,biological_process
+amino-acid betaine catabolic process,8.20411846747067e-05,biological_process
+ciliary body morphogenesis,8.20411846747067e-05,biological_process
+morphogenesis of an epithelial sheet,8.20411846747067e-05,biological_process
+sequestering of zinc ion,8.20411846747067e-05,biological_process
+carnitine metabolic process,8.20411846747067e-05,biological_process
+behavioral fear response,8.20411846747067e-05,biological_process
+renal system process,8.20411846747067e-05,biological_process
+transdifferentiation,8.20411846747067e-05,biological_process
+regulation of insulin secretion involved in cellular response to glucose stimulus,8.20411846747067e-05,biological_process
+neurotrophin TRK receptor signaling pathway,8.20411846747067e-05,biological_process
+adenylate cyclase-activating dopamine receptor signaling pathway,8.20411846747067e-05,biological_process
+G protein-coupled adenosine receptor signaling pathway,8.20411846747067e-05,biological_process
+cellular response to forskolin,8.20411846747067e-05,biological_process
+cAMP biosynthetic process,8.20411846747067e-05,biological_process
+activation of protein kinase A activity,8.20411846747067e-05,biological_process
+Notch signaling involved in heart development,8.20411846747067e-05,biological_process
+glomerular visceral epithelial cell development,8.20411846747067e-05,biological_process
+negative regulation of reverse cholesterol transport,8.20411846747067e-05,biological_process
+negative regulation of glycoprotein biosynthetic process,8.20411846747067e-05,biological_process
+hemopoiesis,8.20411846747067e-05,biological_process
+heart looping,8.20411846747067e-05,biological_process
+positive regulation of keratinocyte proliferation,8.20411846747067e-05,biological_process
+zinc ion transmembrane transport,8.20411846747067e-05,biological_process
+response to folic acid,8.20411846747067e-05,biological_process
+"base-excision repair, gap-filling",8.20411846747067e-05,biological_process
+atrioventricular node development,8.20411846747067e-05,biological_process
+bone remodeling,8.20411846747067e-05,biological_process
+"base-excision repair, AP site formation",8.20411846747067e-05,biological_process
+"nucleotide-excision repair, DNA incision",8.20411846747067e-05,biological_process
+platelet formation,8.20411846747067e-05,biological_process
+axonal fasciculation,8.20411846747067e-05,biological_process
+anterior neural tube closure,8.20411846747067e-05,biological_process
+hippo signaling,8.20411846747067e-05,biological_process
+luteolysis,8.20411846747067e-05,biological_process
+cellular response to staurosporine,8.20411846747067e-05,biological_process
+intrinsic apoptotic signaling pathway in response to osmotic stress,8.20411846747067e-05,biological_process
+leukocyte apoptotic process,8.20411846747067e-05,biological_process
+negative regulation of amyloid precursor protein biosynthetic process,8.20411846747067e-05,biological_process
+negative regulation of double-strand break repair via single-strand annealing,8.20411846747067e-05,biological_process
+depyrimidination,8.20411846747067e-05,biological_process
+depurination,8.20411846747067e-05,biological_process
+response to light stimulus,8.20411846747067e-05,biological_process
+cellular protein modification process,8.20411846747067e-05,biological_process
+activation of GTPase activity,8.20411846747067e-05,biological_process
+apoptotic DNA fragmentation,8.20411846747067e-05,biological_process
+response to X-ray,8.20411846747067e-05,biological_process
+glial cell apoptotic process,8.20411846747067e-05,biological_process
+negative regulation of B cell proliferation,8.20411846747067e-05,biological_process
+neuromuscular process controlling balance,8.20411846747067e-05,biological_process
+striated muscle cell differentiation,8.20411846747067e-05,biological_process
+hippocampus development,8.20411846747067e-05,biological_process
+negative regulation of growth rate,8.20411846747067e-05,biological_process
+myeloid dendritic cell differentiation,8.20411846747067e-05,biological_process
+defense response to Gram-negative bacterium,8.20411846747067e-05,biological_process
+innate immune response in mucosa,8.20411846747067e-05,biological_process
+Notch signaling pathway,8.20411846747067e-05,biological_process
+regulation of osteoclast development,8.20411846747067e-05,biological_process
+inflammatory response to antigenic stimulus,8.20411846747067e-05,biological_process
+cellular response to carbohydrate stimulus,8.20411846747067e-05,biological_process
+regulation of synaptic vesicle exocytosis,8.20411846747067e-05,biological_process
+negative regulation of interleukin-17 production,8.20411846747067e-05,biological_process
+base-excision repair,8.20411846747067e-05,biological_process
+proximal tubule development,8.20411846747067e-05,biological_process
+intrahepatic bile duct development,8.20411846747067e-05,biological_process
+placenta blood vessel development,8.20411846747067e-05,biological_process
+left/right axis specification,8.20411846747067e-05,biological_process
+cholangiocyte proliferation,8.20411846747067e-05,biological_process
+regulation of aorta morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of cholesterol storage,8.20411846747067e-05,biological_process
+negative regulation of epithelial to mesenchymal transition,8.20411846747067e-05,biological_process
+positive regulation of cell adhesion molecule production,8.20411846747067e-05,biological_process
+negative regulation of astrocyte activation,8.20411846747067e-05,biological_process
+histone H3-T6 phosphorylation,8.20411846747067e-05,biological_process
+presynaptic modulation of chemical synaptic transmission,8.20411846747067e-05,biological_process
+negative regulation of receptor-mediated endocytosis,8.20411846747067e-05,biological_process
+positive regulation of metalloendopeptidase activity,8.20411846747067e-05,biological_process
+negative regulation of monooxygenase activity,8.20411846747067e-05,biological_process
+negative regulation of cardiac muscle hypertrophy in response to stress,8.20411846747067e-05,biological_process
+glycogen biosynthetic process,8.20411846747067e-05,biological_process
+regulation of translation,8.20411846747067e-05,biological_process
+negative regulation of lamellipodium assembly,8.20411846747067e-05,biological_process
+negative regulation of cardiac muscle myoblast proliferation,8.20411846747067e-05,biological_process
+mitotic nuclear membrane disassembly,8.20411846747067e-05,biological_process
+positive regulation of B cell receptor signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of interleukin-2 production,8.20411846747067e-05,biological_process
+negative regulation of synoviocyte proliferation,8.20411846747067e-05,biological_process
+positive regulation of cardiac muscle cell apoptotic process,8.20411846747067e-05,biological_process
+odontogenesis of dentin-containing tooth,8.20411846747067e-05,biological_process
+regulation of myeloid cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of voltage-gated sodium channel activity,8.20411846747067e-05,biological_process
+gene silencing by RNA,8.20411846747067e-05,biological_process
+negative regulation of metalloendopeptidase activity,8.20411846747067e-05,biological_process
+cardiac muscle tissue growth involved in heart morphogenesis,8.20411846747067e-05,biological_process
+negative regulation of oxidative stress-induced cell death,8.20411846747067e-05,biological_process
+negative regulation of glucose transmembrane transport,8.20411846747067e-05,biological_process
+regulation of high-density lipoprotein particle assembly,8.20411846747067e-05,biological_process
+response to glucagon,8.20411846747067e-05,biological_process
+taurine biosynthetic process,8.20411846747067e-05,biological_process
+sulfur amino acid biosynthetic process,8.20411846747067e-05,biological_process
+cysteine metabolic process,8.20411846747067e-05,biological_process
+regulation of actin cytoskeleton reorganization,8.20411846747067e-05,biological_process
+cell growth involved in cardiac muscle cell development,8.20411846747067e-05,biological_process
+negative regulation of interleukin-7 production,8.20411846747067e-05,biological_process
+negative regulation of sodium ion transmembrane transport,8.20411846747067e-05,biological_process
+negative regulation of glomerular filtration by angiotensin,8.20411846747067e-05,biological_process
+positive regulation of reactive oxygen species biosynthetic process,8.20411846747067e-05,biological_process
+respiratory burst,8.20411846747067e-05,biological_process
+protein kinase A signaling,8.20411846747067e-05,biological_process
+vascular endothelial growth factor receptor signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of defense response to bacterium,8.20411846747067e-05,biological_process
+regulation of release of sequestered calcium ion into cytosol,8.20411846747067e-05,biological_process
+cellular response to L-glutamine,8.20411846747067e-05,biological_process
+positive regulation of toll-like receptor 2 signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of cell killing,8.20411846747067e-05,biological_process
+smooth muscle hypertrophy,8.20411846747067e-05,biological_process
+cytochrome complex assembly,8.20411846747067e-05,biological_process
+hair follicle morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of skeletal muscle fiber development,8.20411846747067e-05,biological_process
+focal adhesion assembly,8.20411846747067e-05,biological_process
+regulation of B cell differentiation,8.20411846747067e-05,biological_process
+outflow tract morphogenesis,8.20411846747067e-05,biological_process
+atrial septum morphogenesis,8.20411846747067e-05,biological_process
+glomerular capillary formation,8.20411846747067e-05,biological_process
+marginal zone B cell differentiation,8.20411846747067e-05,biological_process
+stem cell population maintenance,8.20411846747067e-05,biological_process
+zinc ion transport,8.20411846747067e-05,biological_process
+positive regulation of microglial cell activation,8.20411846747067e-05,biological_process
+lung growth,8.20411846747067e-05,biological_process
+regulation of B cell activation,8.20411846747067e-05,biological_process
+negative regulation of cardiac muscle cell proliferation,8.20411846747067e-05,biological_process
+anterograde synaptic vesicle transport,8.20411846747067e-05,biological_process
+Golgi to vacuole transport,8.20411846747067e-05,biological_process
+embryonic limb morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of sphingolipid mediated signaling pathway,8.20411846747067e-05,biological_process
+sperm-egg recognition,8.20411846747067e-05,biological_process
+regulation of autophagy,8.20411846747067e-05,biological_process
+negative regulation of circulating fibrinogen levels,8.20411846747067e-05,biological_process
+positive regulation of astrocyte activation,8.20411846747067e-05,biological_process
+positive regulation of membrane permeability,8.20411846747067e-05,biological_process
+cardiac right ventricle morphogenesis,8.20411846747067e-05,biological_process
+cellular response to fibroblast growth factor stimulus,8.20411846747067e-05,biological_process
+positive regulation of muscle hyperplasia,8.20411846747067e-05,biological_process
+negative regulation of amyloid-beta formation,8.20411846747067e-05,biological_process
+regulation of sequestering of zinc ion,8.20411846747067e-05,biological_process
+reproductive process,8.20411846747067e-05,biological_process
+response to iron ion,8.20411846747067e-05,biological_process
+response to sulfur dioxide,8.20411846747067e-05,biological_process
+regulation of leukocyte mediated cytotoxicity,8.20411846747067e-05,biological_process
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell,8.20411846747067e-05,biological_process
+T cell extravasation,8.20411846747067e-05,biological_process
+regulation of vesicle-mediated transport,8.20411846747067e-05,biological_process
+response to interferon-gamma,8.20411846747067e-05,biological_process
+cellular zinc ion homeostasis,8.20411846747067e-05,biological_process
+positive regulation of endothelial cell apoptotic process,8.20411846747067e-05,biological_process
+T cell antigen processing and presentation,8.20411846747067e-05,biological_process
+receptor-mediated virion attachment to host cell,8.20411846747067e-05,biological_process
+negative regulation of calcium ion transport,8.20411846747067e-05,biological_process
+establishment of endothelial intestinal barrier,8.20411846747067e-05,biological_process
+positive regulation of GTPase activity,8.20411846747067e-05,biological_process
+positive regulation of calcium ion import,8.20411846747067e-05,biological_process
+feeding behavior,8.20411846747067e-05,biological_process
+negative regulation of NAD(P)H oxidase activity,8.20411846747067e-05,biological_process
+positive regulation of protein autophosphorylation,8.20411846747067e-05,biological_process
+establishment of Sertoli cell barrier,8.20411846747067e-05,biological_process
+membrane to membrane docking,8.20411846747067e-05,biological_process
+response to gonadotropin,8.20411846747067e-05,biological_process
+regulation of gastrulation,8.20411846747067e-05,biological_process
+epithelial cell proliferation involved in salivary gland morphogenesis,8.20411846747067e-05,biological_process
+negative regulation of toll-like receptor 4 signaling pathway,8.20411846747067e-05,biological_process
+establishment of endothelial barrier,8.20411846747067e-05,biological_process
+leukocyte cell-cell adhesion,8.20411846747067e-05,biological_process
+adhesion of symbiont to host,8.20411846747067e-05,biological_process
+cysteine biosynthetic process via cystathionine,8.20411846747067e-05,biological_process
+negative regulation of endothelial cell differentiation,8.20411846747067e-05,biological_process
+sex differentiation,8.20411846747067e-05,biological_process
+learning,8.20411846747067e-05,biological_process
+regulation of embryonic development,8.20411846747067e-05,biological_process
+activation of protein kinase activity,8.20411846747067e-05,biological_process
+transformation of host cell by virus,8.20411846747067e-05,biological_process
+cortical actin cytoskeleton organization,8.20411846747067e-05,biological_process
+JNK cascade,8.20411846747067e-05,biological_process
+chronic inflammatory response to antigenic stimulus,8.20411846747067e-05,biological_process
+positive regulation of mononuclear cell migration,8.20411846747067e-05,biological_process
+dendritic spine maintenance,8.20411846747067e-05,biological_process
+positive regulation of blood microparticle formation,8.20411846747067e-05,biological_process
+positive regulation of chemokine (C-X-C motif) ligand 2 production,8.20411846747067e-05,biological_process
+activation of MAPKKK activity,8.20411846747067e-05,biological_process
+heart morphogenesis,8.20411846747067e-05,biological_process
+cellular response to dopamine,8.20411846747067e-05,biological_process
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules,8.20411846747067e-05,biological_process
+embryonic digestive tract development,8.20411846747067e-05,biological_process
+positive regulation of cell adhesion,8.20411846747067e-05,biological_process
+positive regulation of fever generation,8.20411846747067e-05,biological_process
+positive regulation of podosome assembly,8.20411846747067e-05,biological_process
+positive regulation of cytokine production involved in inflammatory response,8.20411846747067e-05,biological_process
+positive regulation of fractalkine production,8.20411846747067e-05,biological_process
+negative regulation of respiratory burst involved in inflammatory response,8.20411846747067e-05,biological_process
+regulation of protein localization to plasma membrane,8.20411846747067e-05,biological_process
+response to salt stress,8.20411846747067e-05,biological_process
+regulation of immunoglobulin production,8.20411846747067e-05,biological_process
+response to ionizing radiation,8.20411846747067e-05,biological_process
+acute inflammatory response to antigenic stimulus,8.20411846747067e-05,biological_process
+cell adhesion mediated by integrin,8.20411846747067e-05,biological_process
+negative regulation of dendrite morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of actin filament polymerization,8.20411846747067e-05,biological_process
+regulation of cell shape,8.20411846747067e-05,biological_process
+cellular response to cytokine stimulus,8.20411846747067e-05,biological_process
+regulation of axon extension,8.20411846747067e-05,biological_process
+reverse cholesterol transport,8.20411846747067e-05,biological_process
+positive regulation of keratinocyte apoptotic process,8.20411846747067e-05,biological_process
+transsulfuration,8.20411846747067e-05,biological_process
+DNA protection,8.20411846747067e-05,biological_process
+skeletal muscle cell differentiation,8.20411846747067e-05,biological_process
+regulation of eIF2 alpha phosphorylation by heme,8.20411846747067e-05,biological_process
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress,8.20411846747067e-05,biological_process
+mitochondrion-endoplasmic reticulum membrane tethering,8.20411846747067e-05,biological_process
+transition between fast and slow fiber,8.20411846747067e-05,biological_process
+sarcoplasmic reticulum calcium ion transport,8.20411846747067e-05,biological_process
+cellular response to nutrient levels,8.20411846747067e-05,biological_process
+positive regulation of cellular extravasation,8.20411846747067e-05,biological_process
+regulation of ruffle assembly,8.20411846747067e-05,biological_process
+phosphatidylcholine catabolic process,8.20411846747067e-05,biological_process
+positive regulation of fibroblast proliferation,8.20411846747067e-05,biological_process
+negative regulation of Wnt signaling pathway,8.20411846747067e-05,biological_process
+regulation of BMP signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of epidermal cell differentiation,8.20411846747067e-05,biological_process
+bone morphogenesis,8.20411846747067e-05,biological_process
+relaxation of cardiac muscle,8.20411846747067e-05,biological_process
+ER-nucleus signaling pathway,8.20411846747067e-05,biological_process
+regulation of lipoprotein lipase activity,8.20411846747067e-05,biological_process
+non-canonical Wnt signaling pathway,8.20411846747067e-05,biological_process
+ISG15-protein conjugation,8.20411846747067e-05,biological_process
+lipid catabolic process,8.20411846747067e-05,biological_process
+protein K11-linked ubiquitination,8.20411846747067e-05,biological_process
+protein K63-linked ubiquitination,8.20411846747067e-05,biological_process
+phosphate ion homeostasis,8.20411846747067e-05,biological_process
+negative regulation of sodium-dependent phosphate transport,8.20411846747067e-05,biological_process
+negative regulation of non-canonical Wnt signaling pathway,8.20411846747067e-05,biological_process
+low-density lipoprotein particle remodeling,8.20411846747067e-05,biological_process
+regulation of transcription from RNA polymerase II promoter in response to arsenic-containing substance,8.20411846747067e-05,biological_process
+regulation of cardiac muscle cell action potential involved in regulation of contraction,8.20411846747067e-05,biological_process
+positive regulation of TRAIL-activated apoptotic signaling pathway,8.20411846747067e-05,biological_process
+high-density lipoprotein particle remodeling,8.20411846747067e-05,biological_process
+intermediate-density lipoprotein particle remodeling,8.20411846747067e-05,biological_process
+cytokine production,8.20411846747067e-05,biological_process
+myotube cell development,8.20411846747067e-05,biological_process
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",8.20411846747067e-05,biological_process
+autophagosome membrane docking,8.20411846747067e-05,biological_process
+organelle localization by membrane tethering,8.20411846747067e-05,biological_process
+regulation of calcium ion-dependent exocytosis of neurotransmitter,8.20411846747067e-05,biological_process
+skeletal muscle contraction,8.20411846747067e-05,biological_process
+regulation of androgen receptor signaling pathway,8.20411846747067e-05,biological_process
+L-serine metabolic process,8.20411846747067e-05,biological_process
+regulation of cardiac muscle cell membrane potential,8.20411846747067e-05,biological_process
+cardiac muscle hypertrophy in response to stress,8.20411846747067e-05,biological_process
+protein K27-linked ubiquitination,8.20411846747067e-05,biological_process
+protein K6-linked ubiquitination,8.20411846747067e-05,biological_process
+negative regulation of axon extension,8.20411846747067e-05,biological_process
+negative regulation of vitamin D biosynthetic process,8.20411846747067e-05,biological_process
+hydrogen sulfide biosynthetic process,8.20411846747067e-05,biological_process
+L-serine catabolic process,8.20411846747067e-05,biological_process
+negative regulation of cholesterol transport,8.20411846747067e-05,biological_process
+calcium ion import into sarcoplasmic reticulum,8.20411846747067e-05,biological_process
+autophagosome assembly,8.20411846747067e-05,biological_process
+response to fructose,8.20411846747067e-05,biological_process
+homocysteine catabolic process,8.20411846747067e-05,biological_process
+homocysteine metabolic process,8.20411846747067e-05,biological_process
+cysteine biosynthetic process,8.20411846747067e-05,biological_process
+cysteine biosynthetic process from serine,8.20411846747067e-05,biological_process
+mitochondrial transmembrane transport,8.20411846747067e-05,biological_process
+negative regulation of insulin secretion involved in cellular response to glucose stimulus,8.20411846747067e-05,biological_process
+negative regulation of interleukin-12 production,8.20411846747067e-05,biological_process
+positive regulation of macrophage derived foam cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of bone resorption,8.20411846747067e-05,biological_process
+positive regulation of calcineurin-NFAT signaling cascade,8.20411846747067e-05,biological_process
+cell death,8.20411846747067e-05,biological_process
+negative regulation of glucokinase activity,8.20411846747067e-05,biological_process
+urate metabolic process,8.20411846747067e-05,biological_process
+excretion,8.20411846747067e-05,biological_process
+stress-activated MAPK cascade,8.20411846747067e-05,biological_process
+heme catabolic process,8.20411846747067e-05,biological_process
+negative regulation of muscle cell apoptotic process,8.20411846747067e-05,biological_process
+protein insertion into ER membrane,8.20411846747067e-05,biological_process
+oviduct epithelium development,8.20411846747067e-05,biological_process
+intestinal hexose absorption,8.20411846747067e-05,biological_process
+glycerol catabolic process,8.20411846747067e-05,biological_process
+glycerol-3-phosphate metabolic process,8.20411846747067e-05,biological_process
+negative regulation of myosin-light-chain-phosphatase activity,8.20411846747067e-05,biological_process
+negative regulation of macroautophagy,8.20411846747067e-05,biological_process
+carbohydrate derivative metabolic process,8.20411846747067e-05,biological_process
+Mullerian duct regression,8.20411846747067e-05,biological_process
+glycerophosphate shuttle,8.20411846747067e-05,biological_process
+synaptic vesicle docking,8.20411846747067e-05,biological_process
+histamine uptake,8.20411846747067e-05,biological_process
+organic anion transport,8.20411846747067e-05,biological_process
+synaptic vesicle fusion to presynaptic active zone membrane,8.20411846747067e-05,biological_process
+exocytic insertion of neurotransmitter receptor to postsynaptic membrane,8.20411846747067e-05,biological_process
+neurotransmitter receptor internalization,8.20411846747067e-05,biological_process
+synaptic vesicle priming,8.20411846747067e-05,biological_process
+associative learning,8.20411846747067e-05,biological_process
+protein import into nucleus,8.20411846747067e-05,biological_process
+negative regulation of oxidoreductase activity,8.20411846747067e-05,biological_process
+regulation of glycogen metabolic process,8.20411846747067e-05,biological_process
+vesicle fusion,8.20411846747067e-05,biological_process
+cellular response to cisplatin,8.20411846747067e-05,biological_process
+cellular response to arsenic-containing substance,8.20411846747067e-05,biological_process
+negative regulation of mast cell degranulation,8.20411846747067e-05,biological_process
+regulation of DNA-binding transcription factor activity,8.20411846747067e-05,biological_process
+cellular response to nutrient,8.20411846747067e-05,biological_process
+regulation of transcription from RNA polymerase II promoter in response to oxidative stress,8.20411846747067e-05,biological_process
+negative regulation of hydrogen peroxide catabolic process,8.20411846747067e-05,biological_process
+cellular response to peptide,8.20411846747067e-05,biological_process
+cellular response to nerve growth factor stimulus,8.20411846747067e-05,biological_process
+neurotransmitter uptake,8.20411846747067e-05,biological_process
+synaptic vesicle exocytosis,8.20411846747067e-05,biological_process
+neurotransmitter secretion,8.20411846747067e-05,biological_process
+long-term synaptic potentiation,8.20411846747067e-05,biological_process
+"positive regulation of synaptic transmission, glutamatergic",8.20411846747067e-05,biological_process
+positive regulation of prolactin secretion,8.20411846747067e-05,biological_process
+"complement activation, classical pathway",8.20411846747067e-05,biological_process
+negative regulation of protein secretion,8.20411846747067e-05,biological_process
+response to calcium ion,8.20411846747067e-05,biological_process
+positive regulation of phosphorylation,8.20411846747067e-05,biological_process
+defense response,8.20411846747067e-05,biological_process
+neuron remodeling,8.20411846747067e-05,biological_process
+purinergic nucleotide receptor signaling pathway,8.20411846747067e-05,biological_process
+peptidyl-tyrosine autophosphorylation,8.20411846747067e-05,biological_process
+midgut development,8.20411846747067e-05,biological_process
+translation,8.20411846747067e-05,biological_process
+positive regulation of protein kinase C activity,8.20411846747067e-05,biological_process
+response to UV-A,8.20411846747067e-05,biological_process
+negative regulation of ERBB signaling pathway,8.20411846747067e-05,biological_process
+ERBB2 signaling pathway,8.20411846747067e-05,biological_process
+tongue development,8.20411846747067e-05,biological_process
+protein insertion into membrane,8.20411846747067e-05,biological_process
+hydrogen peroxide metabolic process,8.20411846747067e-05,biological_process
+viral life cycle,8.20411846747067e-05,biological_process
+activation of phospholipase A2 activity by calcium-mediated signaling,8.20411846747067e-05,biological_process
+negative regulation of cardiocyte differentiation,8.20411846747067e-05,biological_process
+regulation of peptidyl-tyrosine phosphorylation,8.20411846747067e-05,biological_process
+magnesium ion homeostasis,8.20411846747067e-05,biological_process
+regulation of ERK1 and ERK2 cascade,8.20411846747067e-05,biological_process
+regulation of phosphatidylinositol 3-kinase signaling,8.20411846747067e-05,biological_process
+ovulation cycle,8.20411846747067e-05,biological_process
+response to osmotic stress,8.20411846747067e-05,biological_process
+positive regulation of actin filament bundle assembly,8.20411846747067e-05,biological_process
+positive regulation of G protein-coupled receptor signaling pathway,8.20411846747067e-05,biological_process
+complement-dependent cytotoxicity,8.20411846747067e-05,biological_process
+"positive regulation of phagocytosis, engulfment",8.20411846747067e-05,biological_process
+complement-mediated synapse pruning,8.20411846747067e-05,biological_process
+vertebrate eye-specific patterning,8.20411846747067e-05,biological_process
+positive regulation of apoptotic cell clearance,8.20411846747067e-05,biological_process
+positive regulation of activation of membrane attack complex,8.20411846747067e-05,biological_process
+positive regulation of receptor-mediated endocytosis,8.20411846747067e-05,biological_process
+response to hydroxyisoflavone,8.20411846747067e-05,biological_process
+positive regulation of DNA replication,8.20411846747067e-05,biological_process
+regulation of cell motility,8.20411846747067e-05,biological_process
+negative regulation of Notch signaling pathway,8.20411846747067e-05,biological_process
+regulation of vasculature development,8.20411846747067e-05,biological_process
+blood vessel morphogenesis,8.20411846747067e-05,biological_process
+regulation of complement activation,8.20411846747067e-05,biological_process
+complement activation,8.20411846747067e-05,biological_process
+"complement activation, alternative pathway",8.20411846747067e-05,biological_process
+positive regulation of type IIa hypersensitivity,8.20411846747067e-05,biological_process
+regulation of triglyceride biosynthetic process,8.20411846747067e-05,biological_process
+cell surface receptor signaling pathway involved in cell-cell signaling,8.20411846747067e-05,biological_process
+establishment of protein localization to membrane,8.20411846747067e-05,biological_process
+trehalose metabolism in response to stress,8.20411846747067e-05,biological_process
+cellular response to hyperoxia,8.20411846747067e-05,biological_process
+Fas signaling pathway,8.20411846747067e-05,biological_process
+regulation of stress-activated MAPK cascade,8.20411846747067e-05,biological_process
+negative regulation of heart contraction,8.20411846747067e-05,biological_process
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway,8.20411846747067e-05,biological_process
+activation-induced cell death of T cells,8.20411846747067e-05,biological_process
+cell-abiotic substrate adhesion,8.20411846747067e-05,biological_process
+positive regulation of apoptotic signaling pathway,8.20411846747067e-05,biological_process
+diterpenoid metabolic process,8.20411846747067e-05,biological_process
+oncostatin-M-mediated signaling pathway,8.20411846747067e-05,biological_process
+leukemia inhibitory factor signaling pathway,8.20411846747067e-05,biological_process
+endochondral ossification,8.20411846747067e-05,biological_process
+positive regulation of endoplasmic reticulum calcium ion concentration,8.20411846747067e-05,biological_process
+membrane organization,8.20411846747067e-05,biological_process
+positive regulation of bone resorption,8.20411846747067e-05,biological_process
+positive regulation of dendritic spine maintenance,8.20411846747067e-05,biological_process
+regulation of protein kinase activity,8.20411846747067e-05,biological_process
+transmission of nerve impulse,8.20411846747067e-05,biological_process
+regulation of T cell differentiation in thymus,8.20411846747067e-05,biological_process
+regulation of GTPase activity,8.20411846747067e-05,biological_process
+motor neuron apoptotic process,8.20411846747067e-05,biological_process
+retinal rod cell apoptotic process,8.20411846747067e-05,biological_process
+carbohydrate transport,8.20411846747067e-05,biological_process
+positive regulation of mitochondrial membrane potential,8.20411846747067e-05,biological_process
+retrograde axonal transport,8.20411846747067e-05,biological_process
+embryo implantation,8.20411846747067e-05,biological_process
+positive regulation of interleukin-33 production,8.20411846747067e-05,biological_process
+regulation of branching involved in salivary gland morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of superoxide dismutase activity,8.20411846747067e-05,biological_process
+negative regulation of branching involved in lung morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of translational initiation by iron,8.20411846747067e-05,biological_process
+negative regulation of alkaline phosphatase activity,8.20411846747067e-05,biological_process
+regulation of endothelial cell apoptotic process,8.20411846747067e-05,biological_process
+positive regulation of hair follicle development,8.20411846747067e-05,biological_process
+ruffle assembly,8.20411846747067e-05,biological_process
+positive regulation of protein transport,8.20411846747067e-05,biological_process
+negative regulation of protein-containing complex disassembly,8.20411846747067e-05,biological_process
+nitric oxide-cGMP-mediated signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of peptide hormone secretion,8.20411846747067e-05,biological_process
+positive regulation of vitamin D biosynthetic process,8.20411846747067e-05,biological_process
+positive regulation of nitrogen compound metabolic process,8.20411846747067e-05,biological_process
+positive regulation of calcidiol 1-monooxygenase activity,8.20411846747067e-05,biological_process
+defense response to Gram-positive bacterium,8.20411846747067e-05,biological_process
+regulation of synapse organization,8.20411846747067e-05,biological_process
+osteoclast differentiation,8.20411846747067e-05,biological_process
+oxidative single-stranded RNA demethylation,8.20411846747067e-05,biological_process
+regulation of peroxisome proliferator activated receptor signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of protein targeting to membrane,8.20411846747067e-05,biological_process
+positive regulation of brown fat cell differentiation,8.20411846747067e-05,biological_process
+visual learning,8.20411846747067e-05,biological_process
+negative regulation of glial cell proliferation,8.20411846747067e-05,biological_process
+oxidative single-stranded DNA demethylation,8.20411846747067e-05,biological_process
+regulation of respiratory system process,8.20411846747067e-05,biological_process
+regulation of white fat cell proliferation,8.20411846747067e-05,biological_process
+mRNA destabilization,8.20411846747067e-05,biological_process
+negative regulation of neuroblast migration,8.20411846747067e-05,biological_process
+positive regulation of synoviocyte proliferation,8.20411846747067e-05,biological_process
+positive regulation of chronic inflammatory response to antigenic stimulus,8.20411846747067e-05,biological_process
+inositol phosphate metabolic process,8.20411846747067e-05,biological_process
+phosphatidylinositol dephosphorylation,8.20411846747067e-05,biological_process
+immune system process,8.20411846747067e-05,biological_process
+oxygen homeostasis,8.20411846747067e-05,biological_process
+mRNA transport,8.20411846747067e-05,biological_process
+regulation of RNA metabolic process,8.20411846747067e-05,biological_process
+renal glucose absorption,8.20411846747067e-05,biological_process
+DNA demethylation,8.20411846747067e-05,biological_process
+positive regulation of glial cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of wound healing,8.20411846747067e-05,biological_process
+cellular response to organic substance,8.20411846747067e-05,biological_process
+positive regulation of tight junction disassembly,8.20411846747067e-05,biological_process
+positive regulation of uterine smooth muscle relaxation,8.20411846747067e-05,biological_process
+blood coagulation,8.20411846747067e-05,biological_process
+negative regulation of cholesterol biosynthetic process,8.20411846747067e-05,biological_process
+negative regulation of translation,8.20411846747067e-05,biological_process
+regulation of neuron projection development,8.20411846747067e-05,biological_process
+regulation of low-density lipoprotein particle clearance,8.20411846747067e-05,biological_process
+negative regulation of blood-brain barrier permeability,8.20411846747067e-05,biological_process
+cellular response to ethanol,8.20411846747067e-05,biological_process
+RNA repair,8.20411846747067e-05,biological_process
+DNA dealkylation involved in DNA repair,8.20411846747067e-05,biological_process
+cytoskeleton organization,8.20411846747067e-05,biological_process
+selenium compound metabolic process,8.20411846747067e-05,biological_process
+antimicrobial humoral response,8.20411846747067e-05,biological_process
+monoamine transport,8.20411846747067e-05,biological_process
+negative regulation of glial cell differentiation,8.20411846747067e-05,biological_process
+response to nematode,8.20411846747067e-05,biological_process
+type B pancreatic cell maturation,8.20411846747067e-05,biological_process
+positive regulation of type B pancreatic cell development,8.20411846747067e-05,biological_process
+epinephrine uptake,8.20411846747067e-05,biological_process
+quaternary ammonium group transport,8.20411846747067e-05,biological_process
+purine-containing compound transmembrane transport,8.20411846747067e-05,biological_process
+serotonin uptake,8.20411846747067e-05,biological_process
+toxin transport,8.20411846747067e-05,biological_process
+histamine metabolic process,8.20411846747067e-05,biological_process
+organic cation transport,8.20411846747067e-05,biological_process
+norepinephrine uptake,8.20411846747067e-05,biological_process
+dopamine uptake,8.20411846747067e-05,biological_process
+protein-DNA complex assembly,8.20411846747067e-05,biological_process
+embryonic morphogenesis,8.20411846747067e-05,biological_process
+S-adenosylmethionine biosynthetic process,8.20411846747067e-05,biological_process
+methionine catabolic process,8.20411846747067e-05,biological_process
+chylomicron remnant clearance,8.20411846747067e-05,biological_process
+type B pancreatic cell proliferation,8.20411846747067e-05,biological_process
+oligodendrocyte differentiation,8.20411846747067e-05,biological_process
+regulation of neuron migration,8.20411846747067e-05,biological_process
+positive regulation of neuroblast proliferation,8.20411846747067e-05,biological_process
+pronephric nephron tubule development,8.20411846747067e-05,biological_process
+positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,8.20411846747067e-05,biological_process
+cardiac conduction system development,8.20411846747067e-05,biological_process
+embryonic pattern specification,8.20411846747067e-05,biological_process
+bone development,8.20411846747067e-05,biological_process
+osteoblast fate commitment,8.20411846747067e-05,biological_process
+retina homeostasis,8.20411846747067e-05,biological_process
+positive regulation of voltage-gated potassium channel activity,8.20411846747067e-05,biological_process
+pronephros development,8.20411846747067e-05,biological_process
+monocarboxylic acid transport,8.20411846747067e-05,biological_process
+regulation of pronephros size,8.20411846747067e-05,biological_process
+regulation of cholesterol transporter activity,8.20411846747067e-05,biological_process
+cellular response to unfolded protein,8.20411846747067e-05,biological_process
+auditory receptor cell stereocilium organization,8.20411846747067e-05,biological_process
+response to antipsychotic drug,8.20411846747067e-05,biological_process
+negative regulation of signal transduction,8.20411846747067e-05,biological_process
+platelet-derived growth factor receptor-beta signaling pathway,8.20411846747067e-05,biological_process
+growth hormone receptor signaling pathway via JAK-STAT,8.20411846747067e-05,biological_process
+peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity,8.20411846747067e-05,biological_process
+long-chain fatty acid transport,8.20411846747067e-05,biological_process
+response to carbohydrate,8.20411846747067e-05,biological_process
+cellular response to ATP,8.20411846747067e-05,biological_process
+neurofilament cytoskeleton organization,8.20411846747067e-05,biological_process
+response to carbon monoxide,8.20411846747067e-05,biological_process
+response to axon injury,8.20411846747067e-05,biological_process
+regulation of endocytosis,8.20411846747067e-05,biological_process
+neuronal stem cell population maintenance,8.20411846747067e-05,biological_process
+tRNA modification,8.20411846747067e-05,biological_process
+maintenance of translational fidelity,8.20411846747067e-05,biological_process
+peptidyl-tyrosine dephosphorylation,8.20411846747067e-05,biological_process
+positive regulation of heart growth,8.20411846747067e-05,biological_process
+lymphatic endothelial cell differentiation,8.20411846747067e-05,biological_process
+tRNA methylthiolation,8.20411846747067e-05,biological_process
+regulation of glycogen biosynthetic process,8.20411846747067e-05,biological_process
+negative regulation of granulocyte differentiation,8.20411846747067e-05,biological_process
+negative regulation of synaptic transmission,8.20411846747067e-05,biological_process
+negative regulation of tumor necrosis factor-mediated signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of DNA biosynthetic process,8.20411846747067e-05,biological_process
+regulation of fatty acid biosynthetic process,8.20411846747067e-05,biological_process
+positive regulation of glycogen (starch) synthase activity,8.20411846747067e-05,biological_process
+negative regulation of cytosolic calcium ion concentration,8.20411846747067e-05,biological_process
+histone acetylation,8.20411846747067e-05,biological_process
+DNA repair,8.20411846747067e-05,biological_process
+positive regulation of progesterone secretion,8.20411846747067e-05,biological_process
+lymphangiogenesis,8.20411846747067e-05,biological_process
+erythrocyte maturation,8.20411846747067e-05,biological_process
+stabilization of membrane potential,8.20411846747067e-05,biological_process
+negative regulation of response to endoplasmic reticulum stress,8.20411846747067e-05,biological_process
+L-glutamate transmembrane transport,8.20411846747067e-05,biological_process
+negative regulation of macrophage differentiation,8.20411846747067e-05,biological_process
+D-aspartate import across plasma membrane,8.20411846747067e-05,biological_process
+diacylglycerol metabolic process,8.20411846747067e-05,biological_process
+positive regulation of clathrin-dependent endocytosis,8.20411846747067e-05,biological_process
+glutathione biosynthetic process,8.20411846747067e-05,biological_process
+activation of JUN kinase activity,8.20411846747067e-05,biological_process
+negative regulation of PERK-mediated unfolded protein response,8.20411846747067e-05,biological_process
+regulation of intracellular protein transport,8.20411846747067e-05,biological_process
+regulation of type I interferon-mediated signaling pathway,8.20411846747067e-05,biological_process
+regulation of hepatocyte growth factor receptor signaling pathway,8.20411846747067e-05,biological_process
+protein glycosylation,8.20411846747067e-05,biological_process
+regulation of intracellular cholesterol transport,8.20411846747067e-05,biological_process
+dolichyl diphosphate biosynthetic process,8.20411846747067e-05,biological_process
+positive regulation of receptor catabolic process,8.20411846747067e-05,biological_process
+central nervous system neuron differentiation,8.20411846747067e-05,biological_process
+positive regulation of lamellipodium assembly,8.20411846747067e-05,biological_process
+axon extension,8.20411846747067e-05,biological_process
+positive regulation of Rac protein signal transduction,8.20411846747067e-05,biological_process
+dendrite extension,8.20411846747067e-05,biological_process
+positive regulation of triglyceride catabolic process,8.20411846747067e-05,biological_process
+enucleate erythrocyte development,8.20411846747067e-05,biological_process
+vascular endothelial growth factor signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of fat cell differentiation,8.20411846747067e-05,biological_process
+positive regulation of pathway-restricted SMAD protein phosphorylation,8.20411846747067e-05,biological_process
+dolichol biosynthetic process,8.20411846747067e-05,biological_process
+protein mannosylation,8.20411846747067e-05,biological_process
+positive regulation of SMAD protein signal transduction,8.20411846747067e-05,biological_process
+very-low-density lipoprotein particle remodeling,8.20411846747067e-05,biological_process
+pathway-restricted SMAD protein phosphorylation,8.20411846747067e-05,biological_process
+negative regulation of integrin-mediated signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of protein ubiquitination,8.20411846747067e-05,biological_process
+enteroendocrine cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of receptor signaling pathway via JAK-STAT,8.20411846747067e-05,biological_process
+pancreatic A cell fate commitment,8.20411846747067e-05,biological_process
+pancreatic PP cell fate commitment,8.20411846747067e-05,biological_process
+nucleocytoplasmic transport,8.20411846747067e-05,biological_process
+positive regulation of histone H4-K16 acetylation,8.20411846747067e-05,biological_process
+regulation of intestinal epithelial structure maintenance,8.20411846747067e-05,biological_process
+negative regulation of platelet-derived growth factor receptor signaling pathway,8.20411846747067e-05,biological_process
+adult behavior,8.20411846747067e-05,biological_process
+cellular response to extracellular stimulus,8.20411846747067e-05,biological_process
+telencephalon development,8.20411846747067e-05,biological_process
+ion transport,8.20411846747067e-05,biological_process
+cellular response to cocaine,8.20411846747067e-05,biological_process
+transepithelial transport,8.20411846747067e-05,biological_process
+visual behavior,8.20411846747067e-05,biological_process
+second-messenger-mediated signaling,8.20411846747067e-05,biological_process
+neurotransmitter reuptake,8.20411846747067e-05,biological_process
+cysteine transmembrane transport,8.20411846747067e-05,biological_process
+L-aspartate transmembrane transport,8.20411846747067e-05,biological_process
+positive regulation of fibroblast migration,8.20411846747067e-05,biological_process
+positive regulation of fat cell apoptotic process,8.20411846747067e-05,biological_process
+amacrine cell differentiation,8.20411846747067e-05,biological_process
+positive regulation of NAD+ ADP-ribosyltransferase activity,8.20411846747067e-05,biological_process
+transforming growth factor beta receptor signaling pathway involved in heart development,8.20411846747067e-05,biological_process
+negative regulation of macrophage cytokine production,8.20411846747067e-05,biological_process
+embryonic liver development,8.20411846747067e-05,biological_process
+age-dependent response to reactive oxygen species,8.20411846747067e-05,biological_process
+neural tube closure,8.20411846747067e-05,biological_process
+negative regulation of cell-cell adhesion,8.20411846747067e-05,biological_process
+embryonic organ morphogenesis,8.20411846747067e-05,biological_process
+common-partner SMAD protein phosphorylation,8.20411846747067e-05,biological_process
+regulation of blood vessel remodeling,8.20411846747067e-05,biological_process
+positive regulation of microglia differentiation,8.20411846747067e-05,biological_process
+ossification involved in bone remodeling,8.20411846747067e-05,biological_process
+muscle cell cellular homeostasis,8.20411846747067e-05,biological_process
+response to electrical stimulus,8.20411846747067e-05,biological_process
+response to manganese ion,8.20411846747067e-05,biological_process
+response to silicon dioxide,8.20411846747067e-05,biological_process
+positive regulation of hydrogen peroxide biosynthetic process,8.20411846747067e-05,biological_process
+negative regulation of skeletal muscle tissue development,8.20411846747067e-05,biological_process
+acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure,8.20411846747067e-05,biological_process
+negative regulation of cytolysis,8.20411846747067e-05,biological_process
+cell-cell junction organization,8.20411846747067e-05,biological_process
+positive regulation of extracellular matrix assembly,8.20411846747067e-05,biological_process
+response to magnetism,8.20411846747067e-05,biological_process
+negative regulation of membrane hyperpolarization,8.20411846747067e-05,biological_process
+regulation of striated muscle tissue development,8.20411846747067e-05,biological_process
+lymph node development,8.20411846747067e-05,biological_process
+regulation of SMAD protein signal transduction,8.20411846747067e-05,biological_process
+positive regulation of vascular permeability,8.20411846747067e-05,biological_process
+negative regulation of protein kinase C signaling,8.20411846747067e-05,biological_process
+regulation of binding,8.20411846747067e-05,biological_process
+ubiquitin-dependent ERAD pathway,8.20411846747067e-05,biological_process
+positive regulation of T cell proliferation,8.20411846747067e-05,biological_process
+negative regulation of phagocytosis,8.20411846747067e-05,biological_process
+positive regulation of signal transduction,8.20411846747067e-05,biological_process
+response to linoleic acid,8.20411846747067e-05,biological_process
+response to sucrose,8.20411846747067e-05,biological_process
+L-glutamate import across plasma membrane,8.20411846747067e-05,biological_process
+negative regulation of transmission of nerve impulse,8.20411846747067e-05,biological_process
+"positive regulation of circadian sleep/wake cycle, non-REM sleep",8.20411846747067e-05,biological_process
+regulation of neuronal action potential,8.20411846747067e-05,biological_process
+positive regulation of transmission of nerve impulse,8.20411846747067e-05,biological_process
+negative regulation of cGMP-mediated signaling,8.20411846747067e-05,biological_process
+negative regulation of delayed rectifier potassium channel activity,8.20411846747067e-05,biological_process
+positive regulation of protein secretion,8.20411846747067e-05,biological_process
+positive regulation of renal albumin absorption,8.20411846747067e-05,biological_process
+regulation of feeding behavior,8.20411846747067e-05,biological_process
+camera-type eye development,8.20411846747067e-05,biological_process
+lipid phosphorylation,8.20411846747067e-05,biological_process
+negative regulation of kinase activity,8.20411846747067e-05,biological_process
+positive regulation of metanephric glomerular visceral epithelial cell development,8.20411846747067e-05,biological_process
+positive regulation of lipid transporter activity,8.20411846747067e-05,biological_process
+detection of oxidative stress,8.20411846747067e-05,biological_process
+negative regulation of metanephric mesenchymal cell migration,8.20411846747067e-05,biological_process
+neurogenesis,8.20411846747067e-05,biological_process
+negative regulation of calcidiol 1-monooxygenase activity,8.20411846747067e-05,biological_process
+negative regulation of intracellular protein transport,8.20411846747067e-05,biological_process
+positive regulation of collagen biosynthetic process,8.20411846747067e-05,biological_process
+chondrocyte differentiation,8.20411846747067e-05,biological_process
+positive regulation of protein dephosphorylation,8.20411846747067e-05,biological_process
+central nervous system neuron development,8.20411846747067e-05,biological_process
+regulation of steroid biosynthetic process,8.20411846747067e-05,biological_process
+bone mineralization involved in bone maturation,8.20411846747067e-05,biological_process
+negative regulation of appetite by leptin-mediated signaling pathway,8.20411846747067e-05,biological_process
+cellular response to retinoic acid,8.20411846747067e-05,biological_process
+regulation of DNA binding,8.20411846747067e-05,biological_process
+negative regulation of programmed cell death,8.20411846747067e-05,biological_process
+negative regulation of platelet-derived growth factor receptor-alpha signaling pathway,8.20411846747067e-05,biological_process
+cellular response to dsRNA,8.20411846747067e-05,biological_process
+positive regulation of chemotaxis,8.20411846747067e-05,biological_process
+regulation of natural killer cell proliferation,8.20411846747067e-05,biological_process
+elastin metabolic process,8.20411846747067e-05,biological_process
+activation of protein kinase C activity,8.20411846747067e-05,biological_process
+positive regulation of TOR signaling,8.20411846747067e-05,biological_process
+bile acid metabolic process,8.20411846747067e-05,biological_process
+hematopoietic progenitor cell differentiation,8.20411846747067e-05,biological_process
+vasculogenesis,8.20411846747067e-05,biological_process
+negative regulation of hyaluronan biosynthetic process,8.20411846747067e-05,biological_process
+negative regulation of cell cycle,8.20411846747067e-05,biological_process
+positive regulation of myeloid cell apoptotic process,8.20411846747067e-05,biological_process
+calcineurin-NFAT signaling cascade,8.20411846747067e-05,biological_process
+positive regulation of myoblast fusion,8.20411846747067e-05,biological_process
+neuron development,8.20411846747067e-05,biological_process
+regulation of regulatory T cell differentiation,8.20411846747067e-05,biological_process
+habenula development,8.20411846747067e-05,biological_process
+astrocyte differentiation,8.20411846747067e-05,biological_process
+cerebral cortex regionalization,8.20411846747067e-05,biological_process
+regulation of timing of cell differentiation,8.20411846747067e-05,biological_process
+regulation of asymmetric cell division,8.20411846747067e-05,biological_process
+pancreatic A cell development,8.20411846747067e-05,biological_process
+forebrain dorsal/ventral pattern formation,8.20411846747067e-05,biological_process
+relaxation of vascular associated smooth muscle,8.20411846747067e-05,biological_process
+positive regulation of hyaluronan biosynthetic process,8.20411846747067e-05,biological_process
+glucose import across plasma membrane,8.20411846747067e-05,biological_process
+protein maturation by protein folding,8.20411846747067e-05,biological_process
+regulation of natural killer cell mediated cytotoxicity,8.20411846747067e-05,biological_process
+aorta development,8.20411846747067e-05,biological_process
+L-ascorbic acid metabolic process,8.20411846747067e-05,biological_process
+regulation of gluconeogenesis,8.20411846747067e-05,biological_process
+regulation of endothelial cell proliferation,8.20411846747067e-05,biological_process
+forebrain-midbrain boundary formation,8.20411846747067e-05,biological_process
+oligodendrocyte cell fate specification,8.20411846747067e-05,biological_process
+positive regulation of epithelial cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of neural precursor cell proliferation,8.20411846747067e-05,biological_process
+lacrimal gland development,8.20411846747067e-05,biological_process
+cornea development in camera-type eye,8.20411846747067e-05,biological_process
+iris morphogenesis,8.20411846747067e-05,biological_process
+retina development in camera-type eye,8.20411846747067e-05,biological_process
+positive regulation of core promoter binding,8.20411846747067e-05,biological_process
+one-carbon metabolic process,8.20411846747067e-05,biological_process
+establishment of mitotic spindle orientation,8.20411846747067e-05,biological_process
+regulation of protein import into nucleus,8.20411846747067e-05,biological_process
+embryonic camera-type eye morphogenesis,8.20411846747067e-05,biological_process
+eye development,8.20411846747067e-05,biological_process
+commitment of neuronal cell to specific neuron type in forebrain,8.20411846747067e-05,biological_process
+neuron fate commitment,8.20411846747067e-05,biological_process
+triglyceride catabolic process,8.20411846747067e-05,biological_process
+fatty acid biosynthetic process,8.20411846747067e-05,biological_process
+dorsal/ventral axis specification,8.20411846747067e-05,biological_process
+cellular response to L-ascorbic acid,8.20411846747067e-05,biological_process
+regulation of natural killer cell activation,8.20411846747067e-05,biological_process
+ER overload response,8.20411846747067e-05,biological_process
+negative regulation of ATF6-mediated unfolded protein response,8.20411846747067e-05,biological_process
+positive regulation of growth,8.20411846747067e-05,biological_process
+long-chain fatty acid import across plasma membrane,8.20411846747067e-05,biological_process
+epithelial to mesenchymal transition,8.20411846747067e-05,biological_process
+ATP biosynthetic process,8.20411846747067e-05,biological_process
+ventral spinal cord development,8.20411846747067e-05,biological_process
+response to isolation stress,8.20411846747067e-05,biological_process
+response to cholesterol,8.20411846747067e-05,biological_process
+amylopectin biosynthetic process,8.20411846747067e-05,biological_process
+protein localization to organelle,8.20411846747067e-05,biological_process
+eye photoreceptor cell development,8.20411846747067e-05,biological_process
+photoreceptor cell maintenance,8.20411846747067e-05,biological_process
+lactose biosynthetic process,8.20411846747067e-05,biological_process
+response to Thyroglobulin triiodothyronine,8.20411846747067e-05,biological_process
+cellular hyperosmotic response,8.20411846747067e-05,biological_process
+cerebral cortex development,8.20411846747067e-05,biological_process
+glycerol biosynthetic process,8.20411846747067e-05,biological_process
+determination of adult lifespan,8.20411846747067e-05,biological_process
+tyrosine phosphorylation of STAT protein,8.20411846747067e-05,biological_process
+positive regulation of ion transport,8.20411846747067e-05,biological_process
+regulation of intestinal cholesterol absorption,8.20411846747067e-05,biological_process
+protein export from nucleus,8.20411846747067e-05,biological_process
+canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition,8.20411846747067e-05,biological_process
+receptor catabolic process,8.20411846747067e-05,biological_process
+short-term memory,8.20411846747067e-05,biological_process
+cellular response to osmotic stress,8.20411846747067e-05,biological_process
+glucose import in response to insulin stimulus,8.20411846747067e-05,biological_process
+regulation of smooth muscle cell proliferation,8.20411846747067e-05,biological_process
+extracellular matrix assembly,8.20411846747067e-05,biological_process
+hyaluronan catabolic process,8.20411846747067e-05,biological_process
+positive regulation of interleukin-17 production,8.20411846747067e-05,biological_process
+SMAD protein complex assembly,8.20411846747067e-05,biological_process
+positive regulation of isotype switching to IgA isotypes,8.20411846747067e-05,biological_process
+regulation of cellular ketone metabolic process,8.20411846747067e-05,biological_process
+negative regulation of hepatocyte apoptotic process,8.20411846747067e-05,biological_process
+cellular amino acid metabolic process,8.20411846747067e-05,biological_process
+collagen catabolic process,8.20411846747067e-05,biological_process
+regulation of fatty acid transport,8.20411846747067e-05,biological_process
+lipoprotein metabolic process,8.20411846747067e-05,biological_process
+steroid hormone mediated signaling pathway,8.20411846747067e-05,biological_process
+lipid localization,8.20411846747067e-05,biological_process
+viral protein processing,8.20411846747067e-05,biological_process
+osteoblast differentiation,8.20411846747067e-05,biological_process
+aerobic respiration,8.20411846747067e-05,biological_process
+peptidyl-cysteine S-nitrosylation,8.20411846747067e-05,biological_process
+positive regulation of vasculature development,8.20411846747067e-05,biological_process
+regulation of synaptic vesicle budding from presynaptic endocytic zone membrane,8.20411846747067e-05,biological_process
+regulation of transforming growth factor beta receptor signaling pathway,8.20411846747067e-05,biological_process
+maintenance of DNA repeat elements,8.20411846747067e-05,biological_process
+positive regulation of heparan sulfate proteoglycan biosynthetic process,8.20411846747067e-05,biological_process
+beta-catenin-TCF complex assembly,8.20411846747067e-05,biological_process
+positive regulation of brain-derived neurotrophic factor receptor signaling pathway,8.20411846747067e-05,biological_process
+regulation of lipoprotein lipid oxidation,8.20411846747067e-05,biological_process
+limb development,8.20411846747067e-05,biological_process
+"Wnt signaling pathway, calcium modulating pathway",8.20411846747067e-05,biological_process
+myoblast fate commitment,8.20411846747067e-05,biological_process
+positive regulation of protein export from nucleus,8.20411846747067e-05,biological_process
+positive regulation of cAMP-mediated signaling,8.20411846747067e-05,biological_process
+positive regulation of leukocyte mediated cytotoxicity,8.20411846747067e-05,biological_process
+alpha-beta T cell activation,8.20411846747067e-05,biological_process
+negative regulation of glycogen catabolic process,8.20411846747067e-05,biological_process
+negative regulation of fatty acid metabolic process,8.20411846747067e-05,biological_process
+fructose transmembrane transport,8.20411846747067e-05,biological_process
+hexose transmembrane transport,8.20411846747067e-05,biological_process
+negative regulation of catalytic activity,8.20411846747067e-05,biological_process
+regulation of DNA-templated transcription in response to stress,8.20411846747067e-05,biological_process
+diet induced thermogenesis,8.20411846747067e-05,biological_process
+maternal process involved in female pregnancy,8.20411846747067e-05,biological_process
+protein amidation,8.20411846747067e-05,biological_process
+positive regulation of protein catabolic process,8.20411846747067e-05,biological_process
+response to light intensity,8.20411846747067e-05,biological_process
+glycoprotein catabolic process,8.20411846747067e-05,biological_process
+negative regulation of acute inflammatory response,8.20411846747067e-05,biological_process
+positive regulation of killing of cells of other organism,8.20411846747067e-05,biological_process
+peptide amidation,8.20411846747067e-05,biological_process
+fatty acid primary amide biosynthetic process,8.20411846747067e-05,biological_process
+toxin metabolic process,8.20411846747067e-05,biological_process
+response to inactivity,8.20411846747067e-05,biological_process
+regulation of cellular respiration,8.20411846747067e-05,biological_process
+cellular water homeostasis,8.20411846747067e-05,biological_process
+response to phenylpropanoid,8.20411846747067e-05,biological_process
+vascular endothelial growth factor production,8.20411846747067e-05,biological_process
+positive regulation of programmed cell death,8.20411846747067e-05,biological_process
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,8.20411846747067e-05,biological_process
+pre-replicative complex assembly,8.20411846747067e-05,biological_process
+regulation of transport,8.20411846747067e-05,biological_process
+"Wnt signaling pathway, planar cell polarity pathway",8.20411846747067e-05,biological_process
+response to lead ion,8.20411846747067e-05,biological_process
+response to vitamin A,8.20411846747067e-05,biological_process
+positive regulation of long-term synaptic potentiation,8.20411846747067e-05,biological_process
+regulation of protein localization,8.20411846747067e-05,biological_process
+blood vessel diameter maintenance,8.20411846747067e-05,biological_process
+negative regulation of endothelial cell proliferation,8.20411846747067e-05,biological_process
+positive regulation of interferon-gamma production,8.20411846747067e-05,biological_process
+3'-phosphoadenosine 5'-phosphosulfate metabolic process,8.20411846747067e-05,biological_process
+negative regulation of hh target transcription factor activity,8.20411846747067e-05,biological_process
+negative regulation of bone mineralization,8.20411846747067e-05,biological_process
+B cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of interferon-gamma-mediated signaling pathway,8.20411846747067e-05,biological_process
+nucleotide-binding oligomerization domain containing 2 signaling pathway,8.20411846747067e-05,biological_process
+response to hyperoxia,8.20411846747067e-05,biological_process
+Leydig cell differentiation,8.20411846747067e-05,biological_process
+response to fluid shear stress,8.20411846747067e-05,biological_process
+endoplasmic reticulum to Golgi vesicle-mediated transport,8.20411846747067e-05,biological_process
+tetrahydrobiopterin metabolic process,8.20411846747067e-05,biological_process
+negative regulation of tyrosine phosphorylation of STAT protein,8.20411846747067e-05,biological_process
+interleukin-6-mediated signaling pathway,8.20411846747067e-05,biological_process
+poly(A)+ mRNA export from nucleus,8.20411846747067e-05,biological_process
+regulation of actin cytoskeleton organization,8.20411846747067e-05,biological_process
+ovulation cycle process,8.20411846747067e-05,biological_process
+odontogenesis,8.20411846747067e-05,biological_process
+negative regulation of endothelial cell migration,8.20411846747067e-05,biological_process
+negative regulation of muscle hyperplasia,8.20411846747067e-05,biological_process
+regulation of nervous system process,8.20411846747067e-05,biological_process
+endocardial cushion morphogenesis,8.20411846747067e-05,biological_process
+blood vessel remodeling,8.20411846747067e-05,biological_process
+protein localization to nucleus,8.20411846747067e-05,biological_process
+endothelial cell migration,8.20411846747067e-05,biological_process
+negative regulation of platelet activation,8.20411846747067e-05,biological_process
+behavioral response to nicotine,8.20411846747067e-05,biological_process
+negative regulation of cell growth involved in cardiac muscle cell development,8.20411846747067e-05,biological_process
+regulation of fatty acid metabolic process,8.20411846747067e-05,biological_process
+ATP metabolic process,8.20411846747067e-05,biological_process
+biomineral tissue development,8.20411846747067e-05,biological_process
+regulation of bone mineralization,8.20411846747067e-05,biological_process
+oncogene-induced cell senescence,8.20411846747067e-05,biological_process
+nucleosome disassembly,8.20411846747067e-05,biological_process
+positive regulation of Wnt signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of viral genome replication,8.20411846747067e-05,biological_process
+regulation of RNA biosynthetic process,8.20411846747067e-05,biological_process
+regulation of neuroinflammatory response,8.20411846747067e-05,biological_process
+negative regulation of receptor signaling pathway via STAT,8.20411846747067e-05,biological_process
+positive regulation of keratinocyte differentiation,8.20411846747067e-05,biological_process
+negative regulation of cell death,8.20411846747067e-05,biological_process
+body fluid secretion,8.20411846747067e-05,biological_process
+response to cycloheximide,8.20411846747067e-05,biological_process
+DNA conformation change,8.20411846747067e-05,biological_process
+monocyte differentiation,8.20411846747067e-05,biological_process
+cell maturation,8.20411846747067e-05,biological_process
+peroxisome proliferator activated receptor signaling pathway,8.20411846747067e-05,biological_process
+retinoic acid receptor signaling pathway,8.20411846747067e-05,biological_process
+protein N-linked glycosylation via asparagine,8.20411846747067e-05,biological_process
+positive regulation of p38MAPK cascade,8.20411846747067e-05,biological_process
+mitochondrion morphogenesis,8.20411846747067e-05,biological_process
+suppression by virus of host apoptotic process,8.20411846747067e-05,biological_process
+dorsal/ventral pattern formation,8.20411846747067e-05,biological_process
+nitric oxide transport,8.20411846747067e-05,biological_process
+negative regulation of smooth muscle cell apoptotic process,8.20411846747067e-05,biological_process
+positive regulation of myelination,8.20411846747067e-05,biological_process
+regulation of T cell cytokine production,8.20411846747067e-05,biological_process
+regulation of growth,8.20411846747067e-05,biological_process
+regulation of cytokinesis,8.20411846747067e-05,biological_process
+membrane depolarization,8.20411846747067e-05,biological_process
+response to endothelin,8.20411846747067e-05,biological_process
+hepatocyte apoptotic process,8.20411846747067e-05,biological_process
+positive regulation of odontogenesis,8.20411846747067e-05,biological_process
+negative regulation of blood coagulation,8.20411846747067e-05,biological_process
+glutathione derivative biosynthetic process,8.20411846747067e-05,biological_process
+O-glycan processing,8.20411846747067e-05,biological_process
+nitrobenzene metabolic process,8.20411846747067e-05,biological_process
+xenobiotic catabolic process,8.20411846747067e-05,biological_process
+negative regulation of JUN kinase activity,8.20411846747067e-05,biological_process
+positive regulation of monocyte chemotactic protein-1 production,8.20411846747067e-05,biological_process
+leukocyte activation,8.20411846747067e-05,biological_process
+response to salt,8.20411846747067e-05,biological_process
+phospholipase D-activating G protein-coupled receptor signaling pathway,8.20411846747067e-05,biological_process
+inositol phosphate-mediated signaling,8.20411846747067e-05,biological_process
+positive regulation of signaling receptor activity,8.20411846747067e-05,biological_process
+negative regulation of nitric-oxide synthase biosynthetic process,8.20411846747067e-05,biological_process
+regulation of myelination,8.20411846747067e-05,biological_process
+positive regulation of oligodendrocyte differentiation,8.20411846747067e-05,biological_process
+cellular detoxification of nitrogen compound,8.20411846747067e-05,biological_process
+sialylation,8.20411846747067e-05,biological_process
+N-acetylneuraminate metabolic process,8.20411846747067e-05,biological_process
+positive regulation of reactive oxygen species metabolic process,8.20411846747067e-05,biological_process
+positive regulation of peroxisome proliferator activated receptor signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of hepatic stellate cell activation,8.20411846747067e-05,biological_process
+negative regulation of glutamine transport,8.20411846747067e-05,biological_process
+positive regulation of luteinizing hormone secretion,8.20411846747067e-05,biological_process
+positive regulation of follicle-stimulating hormone secretion,8.20411846747067e-05,biological_process
+negative regulation of glucagon secretion,8.20411846747067e-05,biological_process
+negative regulation of cartilage development,8.20411846747067e-05,biological_process
+positive regulation of cardiac muscle hypertrophy,8.20411846747067e-05,biological_process
+regulation of T cell proliferation,8.20411846747067e-05,biological_process
+negative regulation of actin filament polymerization,8.20411846747067e-05,biological_process
+negative regulation of double-strand break repair,8.20411846747067e-05,biological_process
+"positive regulation of wound healing, spreading of epidermal cells",8.20411846747067e-05,biological_process
+positive regulation of cardiac muscle hypertrophy in response to stress,8.20411846747067e-05,biological_process
+negative regulation of interleukin-1-mediated signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of lipid binding,8.20411846747067e-05,biological_process
+apoptotic mitochondrial changes,8.20411846747067e-05,biological_process
+cellular response to reactive oxygen species,8.20411846747067e-05,biological_process
+hormone metabolic process,8.20411846747067e-05,biological_process
+negative regulation of vasoconstriction,8.20411846747067e-05,biological_process
+regulation of transcription from RNA polymerase II promoter in response to hypoxia,8.20411846747067e-05,biological_process
+negative regulation of metallopeptidase activity,8.20411846747067e-05,biological_process
+cell activation,8.20411846747067e-05,biological_process
+negative regulation of membrane protein ectodomain proteolysis,8.20411846747067e-05,biological_process
+adult feeding behavior,8.20411846747067e-05,biological_process
+positive regulation of protein metabolic process,8.20411846747067e-05,biological_process
+positive regulation of calcium ion transport,8.20411846747067e-05,biological_process
+olfactory behavior,8.20411846747067e-05,biological_process
+RNA destabilization,8.20411846747067e-05,biological_process
+negative regulation of artery morphogenesis,8.20411846747067e-05,biological_process
+regulation of cholesterol esterification,8.20411846747067e-05,biological_process
+middle ear morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of smooth muscle contraction,8.20411846747067e-05,biological_process
+positive regulation of cell size,8.20411846747067e-05,biological_process
+regulation of integrin-mediated signaling pathway,8.20411846747067e-05,biological_process
+cellular response to UV-A,8.20411846747067e-05,biological_process
+negative regulation of trophoblast cell migration,8.20411846747067e-05,biological_process
+extracellular matrix disassembly,8.20411846747067e-05,biological_process
+negative regulation of hydrolase activity,8.20411846747067e-05,biological_process
+glial cell proliferation,8.20411846747067e-05,biological_process
+"regulation of CD8-positive, alpha-beta T cell proliferation",8.20411846747067e-05,biological_process
+JUN phosphorylation,8.20411846747067e-05,biological_process
+type B pancreatic cell development,8.20411846747067e-05,biological_process
+positive regulation of neutrophil chemotaxis,8.20411846747067e-05,biological_process
+negative regulation of keratinocyte proliferation,8.20411846747067e-05,biological_process
+negative regulation of monocyte differentiation,8.20411846747067e-05,biological_process
+regulation of cholesterol metabolic process,8.20411846747067e-05,biological_process
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway,8.20411846747067e-05,biological_process
+phospholipid homeostasis,8.20411846747067e-05,biological_process
+positive regulation of vascular associated smooth muscle cell differentiation,8.20411846747067e-05,biological_process
+positive regulation of tau-protein kinase activity,8.20411846747067e-05,biological_process
+cellular response to vitamin D,8.20411846747067e-05,biological_process
+positive regulation of vascular associated smooth muscle cell migration,8.20411846747067e-05,biological_process
+cellular response to laminar fluid shear stress,8.20411846747067e-05,biological_process
+cell volume homeostasis,8.20411846747067e-05,biological_process
+regulation of phospholipid metabolic process,8.20411846747067e-05,biological_process
+regulation of triglyceride metabolic process,8.20411846747067e-05,biological_process
+head development,8.20411846747067e-05,biological_process
+positive regulation of sprouting angiogenesis,8.20411846747067e-05,biological_process
+ornithine metabolic process,8.20411846747067e-05,biological_process
+cGMP-mediated signaling,8.20411846747067e-05,biological_process
+macrophage chemotaxis,8.20411846747067e-05,biological_process
+positive regulation of prostaglandin secretion,8.20411846747067e-05,biological_process
+smooth muscle contraction,8.20411846747067e-05,biological_process
+negative regulation of adenylate cyclase activity,8.20411846747067e-05,biological_process
+peripheral nervous system development,8.20411846747067e-05,biological_process
+neural crest cell migration,8.20411846747067e-05,biological_process
+positive regulation of chemokine-mediated signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of cardiac muscle cell differentiation,8.20411846747067e-05,biological_process
+positive regulation of hormone secretion,8.20411846747067e-05,biological_process
+response to dexamethasone,8.20411846747067e-05,biological_process
+maternal process involved in parturition,8.20411846747067e-05,biological_process
+response to pain,8.20411846747067e-05,biological_process
+regulation of epithelial cell proliferation,8.20411846747067e-05,biological_process
+response to prostaglandin F,8.20411846747067e-05,biological_process
+rhythmic excitation,8.20411846747067e-05,biological_process
+cellular response to mineralocorticoid stimulus,8.20411846747067e-05,biological_process
+peptide hormone secretion,8.20411846747067e-05,biological_process
+prostaglandin biosynthetic process,8.20411846747067e-05,biological_process
+positive regulation of cell growth involved in cardiac muscle cell development,8.20411846747067e-05,biological_process
+glial cell-neuron signaling,8.20411846747067e-05,biological_process
+regulation of cytokine production involved in immune response,8.20411846747067e-05,biological_process
+protein kinase C deactivation,8.20411846747067e-05,biological_process
+positive regulation of prostaglandin-endoperoxide synthase activity,8.20411846747067e-05,biological_process
+negative regulation of transcription by competitive promoter binding,8.20411846747067e-05,biological_process
+arachidonic acid metabolic process,8.20411846747067e-05,biological_process
+lipoxygenase pathway,8.20411846747067e-05,biological_process
+regulation of reactive oxygen species metabolic process,8.20411846747067e-05,biological_process
+posterior midgut development,8.20411846747067e-05,biological_process
+negative regulation of neuron maturation,8.20411846747067e-05,biological_process
+postsynapse to nucleus signaling pathway,8.20411846747067e-05,biological_process
+drug metabolic process,8.20411846747067e-05,biological_process
+positive regulation of penile erection,8.20411846747067e-05,biological_process
+enteric smooth muscle cell differentiation,8.20411846747067e-05,biological_process
+regulation of fever generation,8.20411846747067e-05,biological_process
+positive regulation of protein localization to cell surface,8.20411846747067e-05,biological_process
+positive regulation of I-kappaB phosphorylation,8.20411846747067e-05,biological_process
+phospholipase C-activating G protein-coupled receptor signaling pathway,8.20411846747067e-05,biological_process
+histamine secretion,8.20411846747067e-05,biological_process
+"regulation of gene expression, epigenetic",8.20411846747067e-05,biological_process
+response to hydroperoxide,8.20411846747067e-05,biological_process
+cellular response to copper ion,8.20411846747067e-05,biological_process
+aflatoxin metabolic process,8.20411846747067e-05,biological_process
+positive regulation of NAD(P)H oxidase activity,8.20411846747067e-05,biological_process
+purine nucleotide catabolic process,8.20411846747067e-05,biological_process
+skeletal muscle fiber development,8.20411846747067e-05,biological_process
+biological process involved in interaction with symbiont,8.20411846747067e-05,biological_process
+skeletal muscle tissue regeneration,8.20411846747067e-05,biological_process
+myoblast proliferation,8.20411846747067e-05,biological_process
+response to xenobiotic stimulus,8.20411846747067e-05,biological_process
+regulation of mammary gland epithelial cell proliferation,8.20411846747067e-05,biological_process
+response to symbiotic bacterium,8.20411846747067e-05,biological_process
+endothelial cell development,8.20411846747067e-05,biological_process
+heterocycle metabolic process,8.20411846747067e-05,biological_process
+omega-hydroxylase P450 pathway,8.20411846747067e-05,biological_process
+epoxygenase P450 pathway,8.20411846747067e-05,biological_process
+fertilization,8.20411846747067e-05,biological_process
+steroid catabolic process,8.20411846747067e-05,biological_process
+response to morphine,8.20411846747067e-05,biological_process
+cellular response to stress,8.20411846747067e-05,biological_process
+positive regulation of Schwann cell differentiation,8.20411846747067e-05,biological_process
+protein oxidation,8.20411846747067e-05,biological_process
+regulation of proteasomal protein catabolic process,8.20411846747067e-05,biological_process
+long-chain fatty acid biosynthetic process,8.20411846747067e-05,biological_process
+retinol metabolic process,8.20411846747067e-05,biological_process
+response to aldosterone,8.20411846747067e-05,biological_process
+porphyrin-containing compound metabolic process,8.20411846747067e-05,biological_process
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage,8.20411846747067e-05,biological_process
+apoptotic process in bone marrow cell,8.20411846747067e-05,biological_process
+monoterpenoid metabolic process,8.20411846747067e-05,biological_process
+toxin biosynthetic process,8.20411846747067e-05,biological_process
+exogenous drug catabolic process,8.20411846747067e-05,biological_process
+monocarboxylic acid metabolic process,8.20411846747067e-05,biological_process
+dibenzo-p-dioxin metabolic process,8.20411846747067e-05,biological_process
+drug catabolic process,8.20411846747067e-05,biological_process
+alkaloid metabolic process,8.20411846747067e-05,biological_process
+cellular response to hepatocyte growth factor stimulus,8.20411846747067e-05,biological_process
+cellular response to peptidoglycan,8.20411846747067e-05,biological_process
+"transcription, DNA-templated",8.20411846747067e-05,biological_process
+cellular response to lipoteichoic acid,8.20411846747067e-05,biological_process
+positive regulation of heterotypic cell-cell adhesion,8.20411846747067e-05,biological_process
+positive regulation of extrinsic apoptotic signaling pathway,8.20411846747067e-05,biological_process
+positive regulation of leukocyte adhesion to arterial endothelial cell,8.20411846747067e-05,biological_process
+positive regulation of supramolecular fiber organization,8.20411846747067e-05,biological_process
+positive regulation of T cell receptor signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of vascular wound healing,8.20411846747067e-05,biological_process
+negative regulation of cytokine production involved in immune response,8.20411846747067e-05,biological_process
+regulation of I-kappaB kinase/NF-kappaB signaling,8.20411846747067e-05,biological_process
+regulation of hematopoietic stem cell differentiation,8.20411846747067e-05,biological_process
+positive regulation of neuron death,8.20411846747067e-05,biological_process
+nucleotide-binding oligomerization domain containing signaling pathway,8.20411846747067e-05,biological_process
+activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway,8.20411846747067e-05,biological_process
+T cell activation,8.20411846747067e-05,biological_process
+regulation of necroptotic process,8.20411846747067e-05,biological_process
+regulation of innate immune response,8.20411846747067e-05,biological_process
+rhythmic behavior,8.20411846747067e-05,biological_process
+renal absorption,8.20411846747067e-05,biological_process
+detection of mechanical stimulus involved in sensory perception of sound,8.20411846747067e-05,biological_process
+activation of cysteine-type endopeptidase activity,8.20411846747067e-05,biological_process
+positive regulation of macrophage differentiation,8.20411846747067e-05,biological_process
+histone H3 deacetylation,8.20411846747067e-05,biological_process
+gene silencing,8.20411846747067e-05,biological_process
+neuromuscular process,8.20411846747067e-05,biological_process
+social behavior,8.20411846747067e-05,biological_process
+membrane repolarization during action potential,8.20411846747067e-05,biological_process
+membrane repolarization during atrial cardiac muscle cell action potential,8.20411846747067e-05,biological_process
+regulation of ventricular cardiac muscle cell membrane repolarization,8.20411846747067e-05,biological_process
+atrial cardiac muscle cell action potential,8.20411846747067e-05,biological_process
+membrane repolarization during ventricular cardiac muscle cell action potential,8.20411846747067e-05,biological_process
+negative regulation of intracellular signal transduction,8.20411846747067e-05,biological_process
+endothelial cell-matrix adhesion,8.20411846747067e-05,biological_process
+negative regulation of helicase activity,8.20411846747067e-05,biological_process
+regulation of membrane repolarization,8.20411846747067e-05,biological_process
+gastrin-induced gastric acid secretion,8.20411846747067e-05,biological_process
+non-motile cilium assembly,8.20411846747067e-05,biological_process
+cardiac conduction,8.20411846747067e-05,biological_process
+cochlea development,8.20411846747067e-05,biological_process
+membrane repolarization during cardiac muscle cell action potential,8.20411846747067e-05,biological_process
+regulation of atrial cardiac muscle cell membrane repolarization,8.20411846747067e-05,biological_process
+corticosterone secretion,8.20411846747067e-05,biological_process
+regulation of gastric acid secretion,8.20411846747067e-05,biological_process
+positive regulation of potassium ion transmembrane transport,8.20411846747067e-05,biological_process
+regulation of voltage-gated sodium channel activity,8.20411846747067e-05,biological_process
+stomach development,8.20411846747067e-05,biological_process
+auditory receptor cell development,8.20411846747067e-05,biological_process
+mRNA export from nucleus,8.20411846747067e-05,biological_process
+positive regulation of proteolysis,8.20411846747067e-05,biological_process
+TRAIL-activated apoptotic signaling pathway,8.20411846747067e-05,biological_process
+suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process,8.20411846747067e-05,biological_process
+toll-like receptor 3 signaling pathway,8.20411846747067e-05,biological_process
+natural killer cell activation,8.20411846747067e-05,biological_process
+modulation by virus of host cellular process,8.20411846747067e-05,biological_process
+syncytiotrophoblast cell differentiation involved in labyrinthine layer development,8.20411846747067e-05,biological_process
+self proteolysis,8.20411846747067e-05,biological_process
+proteolysis involved in cellular protein catabolic process,8.20411846747067e-05,biological_process
+pyroptosis,8.20411846747067e-05,biological_process
+iodide transport,8.20411846747067e-05,biological_process
+antigen transcytosis by M cells in mucosal-associated lymphoid tissue,8.20411846747067e-05,biological_process
+adrenergic receptor signaling pathway,8.20411846747067e-05,biological_process
+iron ion homeostasis,8.20411846747067e-05,biological_process
+positive regulation of cardiac muscle contraction,8.20411846747067e-05,biological_process
+potassium ion export across plasma membrane,8.20411846747067e-05,biological_process
+TRIF-dependent toll-like receptor signaling pathway,8.20411846747067e-05,biological_process
+neutrophil migration,8.20411846747067e-05,biological_process
+ventricular cardiac muscle cell action potential,8.20411846747067e-05,biological_process
+protein folding,8.20411846747067e-05,biological_process
+positive regulation of blood pressure,8.20411846747067e-05,biological_process
+cAMP-mediated signaling,8.20411846747067e-05,biological_process
+peptidyl-lysine acetylation,8.20411846747067e-05,biological_process
+heterochromatin assembly,8.20411846747067e-05,biological_process
+peptidyl-lysine deacetylation,8.20411846747067e-05,biological_process
+regulation of transcription from RNA polymerase II promoter in response to iron,8.20411846747067e-05,biological_process
+response to estrogen,8.20411846747067e-05,biological_process
+endothelial cell proliferation,8.20411846747067e-05,biological_process
+erythrocyte homeostasis,8.20411846747067e-05,biological_process
+negative regulation of leukocyte migration,8.20411846747067e-05,biological_process
+regulation of smooth muscle cell apoptotic process,8.20411846747067e-05,biological_process
+regulation of endodeoxyribonuclease activity,8.20411846747067e-05,biological_process
+negative regulation of peptidyl-lysine acetylation,8.20411846747067e-05,biological_process
+pyrimidine dimer repair by nucleotide-excision repair,8.20411846747067e-05,biological_process
+rDNA heterochromatin assembly,8.20411846747067e-05,biological_process
+heterochromatin maintenance,8.20411846747067e-05,biological_process
+protein deacetylation,8.20411846747067e-05,biological_process
+histone deacetylation,8.20411846747067e-05,biological_process
+negative regulation of epithelial cell apoptotic process,8.20411846747067e-05,biological_process
+heme oxidation,8.20411846747067e-05,biological_process
+sodium ion transport,8.20411846747067e-05,biological_process
+regulation of heart contraction,8.20411846747067e-05,biological_process
+inner ear morphogenesis,8.20411846747067e-05,biological_process
+regulation of heart rate by cardiac conduction,8.20411846747067e-05,biological_process
+small GTPase mediated signal transduction,8.20411846747067e-05,biological_process
+negative regulation of mast cell cytokine production,8.20411846747067e-05,biological_process
+regulation of gene expression by genetic imprinting,8.20411846747067e-05,biological_process
+positive regulation of cation channel activity,8.20411846747067e-05,biological_process
+regulation of membrane potential,8.20411846747067e-05,biological_process
+positive regulation of phosphoprotein phosphatase activity,8.20411846747067e-05,biological_process
+cellular chloride ion homeostasis,8.20411846747067e-05,biological_process
+wound healing involved in inflammatory response,8.20411846747067e-05,biological_process
+response to ATP,8.20411846747067e-05,biological_process
+bradykinin catabolic process,8.20411846747067e-05,biological_process
+calcitonin catabolic process,8.20411846747067e-05,biological_process
+positive regulation of adaptive immune response,8.20411846747067e-05,biological_process
+regulation of bile acid biosynthetic process,8.20411846747067e-05,biological_process
+cellular extravasation,8.20411846747067e-05,biological_process
+muscle contraction,8.20411846747067e-05,biological_process
+neutrophil chemotaxis,8.20411846747067e-05,biological_process
+embryonic digit morphogenesis,8.20411846747067e-05,biological_process
+endothelin maturation,8.20411846747067e-05,biological_process
+substance P catabolic process,8.20411846747067e-05,biological_process
+hormone catabolic process,8.20411846747067e-05,biological_process
+positive regulation of receptor recycling,8.20411846747067e-05,biological_process
+regulation of mitotic cell cycle phase transition,8.20411846747067e-05,biological_process
+regulation of catalytic activity,8.20411846747067e-05,biological_process
+pharyngeal system development,8.20411846747067e-05,biological_process
+ventricular cardiac muscle tissue development,8.20411846747067e-05,biological_process
+insulin-like growth factor receptor signaling pathway,8.20411846747067e-05,biological_process
+integrin-mediated signaling pathway,8.20411846747067e-05,biological_process
+"retrograde transport, endosome to Golgi",8.20411846747067e-05,biological_process
+cellular component disassembly involved in execution phase of apoptosis,8.20411846747067e-05,biological_process
+acinar cell differentiation,8.20411846747067e-05,biological_process
+embryonic retina morphogenesis in camera-type eye,8.20411846747067e-05,biological_process
+atrial cardiac muscle tissue morphogenesis,8.20411846747067e-05,biological_process
+venous blood vessel morphogenesis,8.20411846747067e-05,biological_process
+aorta smooth muscle tissue morphogenesis,8.20411846747067e-05,biological_process
+lens fiber cell morphogenesis,8.20411846747067e-05,biological_process
+hypothalamus development,8.20411846747067e-05,biological_process
+anaphase-promoting complex-dependent catabolic process,8.20411846747067e-05,biological_process
+PML body organization,8.20411846747067e-05,biological_process
+postsynapse organization,8.20411846747067e-05,biological_process
+protein depropionylation,8.20411846747067e-05,biological_process
+olfactory placode formation,8.20411846747067e-05,biological_process
+dorsal spinal cord development,8.20411846747067e-05,biological_process
+ventricular cardiac myofibril assembly,8.20411846747067e-05,biological_process
+positive regulation of neural precursor cell proliferation,8.20411846747067e-05,biological_process
+skeletal muscle thin filament assembly,8.20411846747067e-05,biological_process
+histone H4-K12 acetylation,8.20411846747067e-05,biological_process
+actin cytoskeleton organization,8.20411846747067e-05,biological_process
+positive regulation of protein tyrosine kinase activity,8.20411846747067e-05,biological_process
+positive regulation of cell cycle checkpoint,8.20411846747067e-05,biological_process
+endocardium formation,8.20411846747067e-05,biological_process
+positive regulation of forebrain neuron differentiation,8.20411846747067e-05,biological_process
+hepatocyte cell migration,8.20411846747067e-05,biological_process
+cerebellar granule cell differentiation,8.20411846747067e-05,biological_process
+retina morphogenesis in camera-type eye,8.20411846747067e-05,biological_process
+lymphatic endothelial cell fate commitment,8.20411846747067e-05,biological_process
+optic placode formation involved in camera-type eye formation,8.20411846747067e-05,biological_process
+triglyceride mobilization,8.20411846747067e-05,biological_process
+positive regulation of smooth muscle cell differentiation,8.20411846747067e-05,biological_process
+otic placode formation,8.20411846747067e-05,biological_process
+negative regulation of bile acid biosynthetic process,8.20411846747067e-05,biological_process
+branching involved in pancreas morphogenesis,8.20411846747067e-05,biological_process
+positive regulation of adipose tissue development,8.20411846747067e-05,biological_process
+negative regulation of cAMP-dependent protein kinase activity,8.20411846747067e-05,biological_process
+negative regulation of androgen receptor signaling pathway,8.20411846747067e-05,biological_process
+negative regulation of cellular response to testosterone stimulus,8.20411846747067e-05,biological_process
+negative regulation of cellular senescence,8.20411846747067e-05,biological_process
+histone H3-K9 deacetylation,8.20411846747067e-05,biological_process
+behavioral response to starvation,8.20411846747067e-05,biological_process
+negative regulation of histone H3-K14 acetylation,8.20411846747067e-05,biological_process
+histone H3-K9 modification,8.20411846747067e-05,biological_process
+negative regulation of histone H3-K9 trimethylation,8.20411846747067e-05,biological_process
+histone H4-K8 acetylation,8.20411846747067e-05,biological_process
+histone H3 acetylation,8.20411846747067e-05,biological_process
+regulation of centrosome duplication,8.20411846747067e-05,biological_process
+histone H4-K5 acetylation,8.20411846747067e-05,biological_process
+positive regulation of intracellular transport,8.20411846747067e-05,biological_process
+positive regulation of type B pancreatic cell apoptotic process,8.20411846747067e-05,biological_process
+type B pancreatic cell apoptotic process,8.20411846747067e-05,biological_process
+estrous cycle,8.20411846747067e-05,biological_process
+mammary gland epithelial cell differentiation,8.20411846747067e-05,biological_process
+negative regulation of histone H4-K16 acetylation,8.20411846747067e-05,biological_process
+cellular triglyceride homeostasis,8.20411846747067e-05,biological_process
+regulation of protein serine/threonine kinase activity,8.20411846747067e-05,biological_process
+negative regulation of endoplasmic reticulum calcium ion concentration,8.20411846747067e-05,biological_process
+response to laminar fluid shear stress,8.20411846747067e-05,biological_process
+regulation of extracellular matrix disassembly,8.20411846747067e-05,biological_process
+positive regulation of cellular component movement,8.20411846747067e-05,biological_process
+cell motility,8.20411846747067e-05,biological_process
+stress-induced premature senescence,8.20411846747067e-05,biological_process
+DNA synthesis involved in DNA repair,8.20411846747067e-05,biological_process
+positive regulation of macrophage apoptotic process,8.20411846747067e-05,biological_process
+negative regulation of leukocyte cell-cell adhesion,8.20411846747067e-05,biological_process
+hepoxilin biosynthetic process,8.20411846747067e-05,biological_process
+enamel mineralization,8.20411846747067e-05,biological_process
+cellular defense response,8.20411846747067e-05,biological_process
+DNA methylation-dependent heterochromatin assembly,8.20411846747067e-05,biological_process
+positive regulation of macrophage cytokine production,8.20411846747067e-05,biological_process
+negative regulation of phosphorylation,8.20411846747067e-05,biological_process
+nucleic acid phosphodiester bond hydrolysis,8.20411846747067e-05,biological_process
+acetaldehyde metabolic process,8.20411846747067e-05,biological_process
+response to metformin,8.20411846747067e-05,biological_process
+luteinization,8.20411846747067e-05,biological_process
+aorta morphogenesis,8.20411846747067e-05,biological_process
+establishment of protein localization,8.20411846747067e-05,biological_process
+skeletal system morphogenesis,8.20411846747067e-05,biological_process
+cellular response to ionizing radiation,8.20411846747067e-05,biological_process
+positive regulation of mesenchymal cell proliferation,8.20411846747067e-05,biological_process
+antigen processing and presentation of exogenous peptide antigen via MHC class II,8.20411846747067e-05,biological_process
+fructose 6-phosphate metabolic process,8.20411846747067e-05,biological_process
+maintenance of protein location in mitochondrion,8.20411846747067e-05,biological_process
+establishment of protein localization to mitochondrion,8.20411846747067e-05,biological_process
+islet amyloid polypeptide processing,8.20411846747067e-05,biological_process
+regulation of inflammatory response,8.20411846747067e-05,biological_process
+regulation of NIK/NF-kappaB signaling,8.20411846747067e-05,biological_process
+senescence-associated heterochromatin focus assembly,8.20411846747067e-05,biological_process
+negative regulation of chromatin silencing,8.20411846747067e-05,biological_process
+nuclear transport,8.20411846747067e-05,biological_process
+roof of mouth development,8.20411846747067e-05,biological_process
+face morphogenesis,8.20411846747067e-05,biological_process
+ruffle organization,8.20411846747067e-05,biological_process
+negative regulation of interleukin-10 production,8.20411846747067e-05,biological_process
+single strand break repair,8.20411846747067e-05,biological_process
+negative regulation of protein acetylation,8.20411846747067e-05,biological_process
+UV-damage excision repair,8.20411846747067e-05,biological_process
+negative regulation of TOR signaling,8.20411846747067e-05,biological_process
+mannose metabolic process,8.20411846747067e-05,biological_process
+establishment of integrated proviral latency,8.20411846747067e-05,biological_process
+regulation of leukocyte proliferation,8.20411846747067e-05,biological_process
+bicarbonate transport,8.20411846747067e-05,biological_process
+positive regulation of cytokine production involved in immune response,8.20411846747067e-05,biological_process
+oxygen transport,8.20411846747067e-05,biological_process
+phosphatidic acid biosynthetic process,8.20411846747067e-05,biological_process
+positive regulation of epidermal growth factor receptor signaling pathway,8.20411846747067e-05,biological_process
+DNA unwinding involved in DNA replication,8.20411846747067e-05,biological_process
+protein autoprocessing,8.20411846747067e-05,biological_process
+nucleoside triphosphate catabolic process,8.20411846747067e-05,biological_process
+response to muramyl dipeptide,8.20411846747067e-05,biological_process
+regulation of cellular response to heat,8.20411846747067e-05,biological_process
+protein destabilization,8.20411846747067e-05,biological_process
+positive regulation of MHC class II biosynthetic process,8.20411846747067e-05,biological_process
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator,8.20411846747067e-05,biological_process
+"negative regulation of DNA damage response, signal transduction by p53 class mediator",8.20411846747067e-05,biological_process
+tRNA methylation,8.20411846747067e-05,biological_process
+negative regulation of glycogen biosynthetic process,8.20411846747067e-05,biological_process
+insulin processing,8.20411846747067e-05,biological_process
+cellular response to resveratrol,8.20411846747067e-05,biological_process
+flavone metabolic process,8.20411846747067e-05,biological_process
+riboflavin metabolic process,8.20411846747067e-05,biological_process
+inorganic diphosphate transport,8.20411846747067e-05,biological_process
+cellular phosphate ion homeostasis,8.20411846747067e-05,biological_process
+enkephalin processing,8.20411846747067e-05,biological_process
+negative regulation of ATPase-coupled calcium transmembrane transporter activity,8.20411846747067e-05,biological_process
+positive regulation of histone H3-K9 methylation,8.20411846747067e-05,biological_process
+endocytic recycling,8.20411846747067e-05,biological_process
+cellular response to follicle-stimulating hormone stimulus,8.20411846747067e-05,biological_process
+respiratory electron transport chain,8.20411846747067e-05,biological_process
+positive regulation of muscle tissue development,8.20411846747067e-05,biological_process
+positive regulation of progesterone biosynthetic process,8.20411846747067e-05,biological_process
+response to muscle activity,8.20411846747067e-05,biological_process
+RNA splicing,8.20411846747067e-05,biological_process
+galactose metabolic process,8.20411846747067e-05,biological_process
+positive regulation of cellular respiration,8.20411846747067e-05,biological_process
+forebrain development,8.20411846747067e-05,biological_process
+cellular response to ionomycin,8.20411846747067e-05,biological_process
+regulation of potassium ion transport,8.20411846747067e-05,biological_process
+zymogen activation,8.20411846747067e-05,biological_process
+positive regulation of interferon-gamma-mediated signaling pathway,8.20411846747067e-05,biological_process
+cellular response to thyroid hormone stimulus,8.20411846747067e-05,biological_process
+response to norepinephrine,8.20411846747067e-05,biological_process
+positive regulation of glomerular visceral epithelial cell apoptotic process,8.20411846747067e-05,biological_process
+digestion,8.20411846747067e-05,biological_process
+mRNA processing,8.20411846747067e-05,biological_process
+positive regulation of mitochondrial DNA metabolic process,8.20411846747067e-05,biological_process
+cellular response to nitrite,8.20411846747067e-05,biological_process

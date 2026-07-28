@@ -1,0 +1,496 @@
+node,degree_centrality,node_type
+Interleukin-4 and Interleukin-13 signaling,0.000820411846747067,pathway
+Regulation of gene expression in beta cells,0.000820411846747067,pathway
+Transcriptional regulation of white adipocyte differentiation,0.000820411846747067,pathway
+Neutrophil degranulation,0.0007383706620723603,pathway
+ADORA2B mediated anti-inflammatory cytokines production,0.0004922471080482402,pathway
+Regulation of insulin secretion,0.0004922471080482402,pathway
+"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",0.0004922471080482402,pathway
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.0004922471080482402,pathway
+G alpha (s) signalling events,0.0004922471080482402,pathway
+Heme signaling,0.0004102059233735335,pathway
+Peptide ligand-binding receptors,0.0004102059233735335,pathway
+G alpha (q) signalling events,0.0004102059233735335,pathway
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",0.0004102059233735335,pathway
+Interleukin-10 signaling,0.0004102059233735335,pathway
+Detoxification of Reactive Oxygen Species,0.0004102059233735335,pathway
+PIP3 activates AKT signaling,0.0004102059233735335,pathway
+Cellular hexose transport,0.0003281647386988268,pathway
+Signaling by BRAF and RAF fusions,0.0003281647386988268,pathway
+Glucagon-type ligand receptors,0.0003281647386988268,pathway
+G alpha (i) signalling events,0.0003281647386988268,pathway
+Constitutive Signaling by Aberrant PI3K in Cancer,0.0003281647386988268,pathway
+Activation of NF-kappaB in B cells,0.0003281647386988268,pathway
+IRS activation,0.0003281647386988268,pathway
+Signal attenuation,0.0003281647386988268,pathway
+PPARA activates gene expression,0.0003281647386988268,pathway
+RAF/MAP kinase cascade,0.0003281647386988268,pathway
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,0.0003281647386988268,pathway
+Signaling by Leptin,0.0003281647386988268,pathway
+Purinergic signaling in leishmaniasis infection,0.0003281647386988268,pathway
+Downstream TCR signaling,0.0003281647386988268,pathway
+TNFR1-induced proapoptotic signaling,0.0002461235540241201,pathway
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,0.0002461235540241201,pathway
+Regulation of TNFR1 signaling,0.0002461235540241201,pathway
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.0002461235540241201,pathway
+ROS and RNS production in phagocytes,0.0002461235540241201,pathway
+Antigen processing: Ubiquitination & Proteasome degradation,0.0002461235540241201,pathway
+Cytoprotection by HMOX1,0.0002461235540241201,pathway
+MAP2K and MAPK activation,0.0002461235540241201,pathway
+"Synthesis, secretion, and deacylation of Ghrelin",0.0002461235540241201,pathway
+Interleukin-1 signaling,0.0002461235540241201,pathway
+Insulin processing,0.0002461235540241201,pathway
+PI3K Cascade,0.0002461235540241201,pathway
+Ion homeostasis,0.0002461235540241201,pathway
+Regulation of gene expression in early pancreatic precursor cells,0.0002461235540241201,pathway
+FCERI mediated NF-kB activation,0.0002461235540241201,pathway
+The NLRP3 inflammasome,0.0002461235540241201,pathway
+Extra-nuclear estrogen signaling,0.0002461235540241201,pathway
+Glucagon signaling in metabolic regulation,0.0002461235540241201,pathway
+Signaling by RAF1 mutants,0.0002461235540241201,pathway
+Signaling by moderate kinase activity BRAF mutants,0.0002461235540241201,pathway
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.0002461235540241201,pathway
+Signaling downstream of RAS mutants,0.0002461235540241201,pathway
+Signaling by high-kinase activity BRAF mutants,0.0002461235540241201,pathway
+Platelet degranulation ,0.0002461235540241201,pathway
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),0.0002461235540241201,pathway
+Transcriptional Regulation by VENTX,0.0002461235540241201,pathway
+Pre-NOTCH Processing in Golgi,0.0002461235540241201,pathway
+Post-translational protein phosphorylation,0.0002461235540241201,pathway
+CLEC7A/inflammasome pathway,0.0002461235540241201,pathway
+Nuclear Receptor transcription pathway,0.0002461235540241201,pathway
+G alpha (z) signalling events,0.0002461235540241201,pathway
+Degradation of the extracellular matrix,0.0002461235540241201,pathway
+TNFR2 non-canonical NF-kB pathway,0.0002461235540241201,pathway
+Growth hormone receptor signaling,0.0002461235540241201,pathway
+CLEC7A (Dectin-1) signaling,0.0002461235540241201,pathway
+Transcriptional activation of mitochondrial biogenesis,0.0002461235540241201,pathway
+Circadian Clock,0.0002461235540241201,pathway
+Scavenging of heme from plasma,0.0002461235540241201,pathway
+Ion transport by P-type ATPases,0.0001640823693494134,pathway
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),0.0001640823693494134,pathway
+Glycolysis,0.0001640823693494134,pathway
+CD209 (DC-SIGN) signaling,0.0001640823693494134,pathway
+RIP-mediated NFkB activation via ZBP1,0.0001640823693494134,pathway
+Regulated proteolysis of p75NTR,0.0001640823693494134,pathway
+TRAF6 mediated NF-kB activation,0.0001640823693494134,pathway
+NF-kB is activated and signals survival,0.0001640823693494134,pathway
+Senescence-Associated Secretory Phenotype (SASP),0.0001640823693494134,pathway
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,0.0001640823693494134,pathway
+IkBA variant leads to EDA-ID,0.0001640823693494134,pathway
+Interleukin-1 processing,0.0001640823693494134,pathway
+Activation of BAD and translocation to mitochondria ,0.0001640823693494134,pathway
+PKMTs methylate histone lysines,0.0001640823693494134,pathway
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex,0.0001640823693494134,pathway
+Other interleukin signaling,0.0001640823693494134,pathway
+Regulation by c-FLIP,0.0001640823693494134,pathway
+Caspase activation via Death Receptors in the presence of ligand,0.0001640823693494134,pathway
+Dimerization of procaspase-8,0.0001640823693494134,pathway
+Glutamate Neurotransmitter Release Cycle,0.0001640823693494134,pathway
+CASP8 activity is inhibited,0.0001640823693494134,pathway
+FasL/ CD95L signaling,0.0001640823693494134,pathway
+RIPK1-mediated regulated necrosis,0.0001640823693494134,pathway
+Regulation of Glucokinase by Glucokinase Regulatory Protein,0.0001640823693494134,pathway
+Reduction of cytosolic Ca++ levels,0.0001640823693494134,pathway
+IRS-mediated signalling,0.0001640823693494134,pathway
+RORA activates gene expression,0.0001640823693494134,pathway
+Insulin receptor recycling,0.0001640823693494134,pathway
+Interferon gamma signaling,0.0001640823693494134,pathway
+Nitric oxide stimulates guanylate cyclase,0.0001640823693494134,pathway
+Peroxisomal protein import,0.0001640823693494134,pathway
+SOS-mediated signalling,0.0001640823693494134,pathway
+FLT3 Signaling,0.0001640823693494134,pathway
+RHO GTPases Activate NADPH Oxidases,0.0001640823693494134,pathway
+Signaling by Insulin receptor,0.0001640823693494134,pathway
+Insulin receptor signalling cascade,0.0001640823693494134,pathway
+Interleukin-7 signaling,0.0001640823693494134,pathway
+PI3K/AKT activation,0.0001640823693494134,pathway
+HCMV Early Events,0.0001640823693494134,pathway
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0.0001640823693494134,pathway
+IRS-related events triggered by IGF1R,0.0001640823693494134,pathway
+Sulfur amino acid metabolism,0.0001640823693494134,pathway
+Amyloid fiber formation,0.0001640823693494134,pathway
+Oncogene Induced Senescence,0.0001640823693494134,pathway
+RAF activation,0.0001640823693494134,pathway
+tRNA modification in the nucleus and cytosol,0.0001640823693494134,pathway
+Signaling by MRAS-complex mutants,0.0001640823693494134,pathway
+Regulation of RUNX3 expression and activity,0.0001640823693494134,pathway
+Ca2+ pathway,0.0001640823693494134,pathway
+"Adrenaline,noradrenaline inhibits insulin secretion",0.0001640823693494134,pathway
+Ub-specific processing proteases,0.0001640823693494134,pathway
+Apoptotic cleavage of cellular proteins,0.0001640823693494134,pathway
+Caspase-mediated cleavage of cytoskeletal proteins,0.0001640823693494134,pathway
+Regulation of PTEN stability and activity,0.0001640823693494134,pathway
+Integrin cell surface interactions,0.0001640823693494134,pathway
+ABC-family proteins mediated transport,0.0001640823693494134,pathway
+ATP sensitive Potassium channels,0.0001640823693494134,pathway
+Defective ABCC8 can cause hypo- and hyper-glycemias,0.0001640823693494134,pathway
+UCH proteinases,0.0001640823693494134,pathway
+Regulation of RUNX2 expression and activity,0.0001640823693494134,pathway
+Synthesis of PIPs at the plasma membrane,0.0001640823693494134,pathway
+SUMOylation of intracellular receptors,0.0001640823693494134,pathway
+Deactivation of the beta-catenin transactivating complex,0.0001640823693494134,pathway
+TNFs bind their physiological receptors,0.0001640823693494134,pathway
+VEGFR2 mediated vascular permeability,0.0001640823693494134,pathway
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.0001640823693494134,pathway
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,0.0001640823693494134,pathway
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,0.0001640823693494134,pathway
+"Metabolism of ingested SeMet, Sec, MeSec into H2Se",0.0001640823693494134,pathway
+Assembly of active LPL and LIPC lipase complexes,0.0001640823693494134,pathway
+G beta:gamma signalling through PI3Kgamma,0.0001640823693494134,pathway
+Methylation,0.0001640823693494134,pathway
+TNFR1-induced NFkappaB signaling pathway,0.0001640823693494134,pathway
+TNFR1-mediated ceramide production,0.0001640823693494134,pathway
+TNF signaling,0.0001640823693494134,pathway
+The NLRP1 inflammasome,0.0001640823693494134,pathway
+Dectin-1 mediated noncanonical NF-kB signaling,0.0001640823693494134,pathway
+Vasopressin regulates renal water homeostasis via Aquaporins,0.0001640823693494134,pathway
+Calcitonin-like ligand receptors,8.20411846747067e-05,pathway
+Estrogen-dependent gene expression,8.20411846747067e-05,pathway
+Defective GCK causes maturity-onset diabetes of the young 2 (MODY2),8.20411846747067e-05,pathway
+RUNX3 regulates BCL2L11 (BIM) transcription,8.20411846747067e-05,pathway
+FOXO-mediated transcription of cell death genes,8.20411846747067e-05,pathway
+Activation of BIM and translocation to mitochondria ,8.20411846747067e-05,pathway
+Cyclin D associated events in G1,8.20411846747067e-05,pathway
+Regulation of RUNX1 Expression and Activity,8.20411846747067e-05,pathway
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",8.20411846747067e-05,pathway
+NRAGE signals death through JNK,8.20411846747067e-05,pathway
+AKT-mediated inactivation of FOXO1A,8.20411846747067e-05,pathway
+Activated NTRK3 signals through PI3K,8.20411846747067e-05,pathway
+Carnitine metabolism,8.20411846747067e-05,pathway
+Signaling by Retinoic Acid,8.20411846747067e-05,pathway
+Choline catabolism,8.20411846747067e-05,pathway
+Disinhibition of SNARE formation,8.20411846747067e-05,pathway
+Defective OGG1 Substrate Processing,8.20411846747067e-05,pathway
+NOTCH2 intracellular domain regulates transcription,8.20411846747067e-05,pathway
+Defective LFNG causes SCDO3,8.20411846747067e-05,pathway
+Defective OGG1 Localization,8.20411846747067e-05,pathway
+Zinc efflux and compartmentalization by the SLC30 family,8.20411846747067e-05,pathway
+Adenylate cyclase activating pathway,8.20411846747067e-05,pathway
+Stimulation of the cell death response by PAK-2p34,8.20411846747067e-05,pathway
+Apoptotic cleavage of cell adhesion  proteins,8.20411846747067e-05,pathway
+Defective OGG1 Substrate Binding,8.20411846747067e-05,pathway
+Pre-NOTCH Transcription and Translation,8.20411846747067e-05,pathway
+NOTCH4 Intracellular Domain Regulates Transcription,8.20411846747067e-05,pathway
+Pre-NOTCH Processing in the Endoplasmic Reticulum,8.20411846747067e-05,pathway
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine,8.20411846747067e-05,pathway
+Cleavage of the damaged pyrimidine ,8.20411846747067e-05,pathway
+Recognition and association of DNA glycosylase with site containing an affected purine,8.20411846747067e-05,pathway
+Cleavage of the damaged purine,8.20411846747067e-05,pathway
+"SMAC, XIAP-regulated apoptotic response",8.20411846747067e-05,pathway
+Pyroptosis,8.20411846747067e-05,pathway
+Hedgehog 'off' state,8.20411846747067e-05,pathway
+Adenylate cyclase inhibitory pathway,8.20411846747067e-05,pathway
+Displacement of DNA glycosylase by APEX1,8.20411846747067e-05,pathway
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,8.20411846747067e-05,pathway
+Caspase activation via Dependence Receptors in the absence of ligand,8.20411846747067e-05,pathway
+PDE3B signalling,8.20411846747067e-05,pathway
+Inhibition of TSC complex formation by PKB,8.20411846747067e-05,pathway
+AKT phosphorylates targets in the cytosol,8.20411846747067e-05,pathway
+AKT phosphorylates targets in the nucleus,8.20411846747067e-05,pathway
+Negative regulation of the PI3K/AKT network,8.20411846747067e-05,pathway
+FCGR3A-mediated IL10 synthesis,8.20411846747067e-05,pathway
+Activation of AKT2,8.20411846747067e-05,pathway
+Regulation of TP53 Activity through Association with Co-factors,8.20411846747067e-05,pathway
+PKA activation,8.20411846747067e-05,pathway
+PKA activation in glucagon signalling,8.20411846747067e-05,pathway
+Downregulation of ERBB2:ERBB3 signaling,8.20411846747067e-05,pathway
+WNT5A-dependent internalization of FZD4,8.20411846747067e-05,pathway
+Depolymerisation of the Nuclear Lamina,8.20411846747067e-05,pathway
+Trafficking of GluR2-containing AMPA receptors,8.20411846747067e-05,pathway
+Constitutive Signaling by AKT1 E17K in Cancer,8.20411846747067e-05,pathway
+Response to elevated platelet cytosolic Ca2+,8.20411846747067e-05,pathway
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells,8.20411846747067e-05,pathway
+WNT5:FZD7-mediated leishmania damping,8.20411846747067e-05,pathway
+CDC42 GTPase cycle,8.20411846747067e-05,pathway
+RAC1 GTPase cycle,8.20411846747067e-05,pathway
+VEGFR2 mediated cell proliferation,8.20411846747067e-05,pathway
+CTLA4 inhibitory signaling,8.20411846747067e-05,pathway
+Regulation of TP53 Degradation,8.20411846747067e-05,pathway
+Degradation of cysteine and homocysteine,8.20411846747067e-05,pathway
+RAC2 GTPase cycle,8.20411846747067e-05,pathway
+RAC3 GTPase cycle,8.20411846747067e-05,pathway
+NOTCH2 Activation and Transmission of Signal to the Nucleus,8.20411846747067e-05,pathway
+RAB GEFs exchange GTP for GDP on RABs,8.20411846747067e-05,pathway
+RUNX2 regulates genes involved in cell migration,8.20411846747067e-05,pathway
+Regulation of localization of FOXO transcription factors,8.20411846747067e-05,pathway
+CD28 dependent PI3K/Akt signaling,8.20411846747067e-05,pathway
+Regulation of TP53 Activity through Acetylation,8.20411846747067e-05,pathway
+VEGFA-VEGFR2 Pathway,8.20411846747067e-05,pathway
+Cross-presentation of particulate exogenous antigens (phagosomes),8.20411846747067e-05,pathway
+Cyclin E associated events during G1/S transition ,8.20411846747067e-05,pathway
+Cyclin A:Cdk2-associated events at S phase entry,8.20411846747067e-05,pathway
+Sperm Motility And Taxes,8.20411846747067e-05,pathway
+Notch-HLH transcription pathway,8.20411846747067e-05,pathway
+TP53 Regulates Metabolic Genes,8.20411846747067e-05,pathway
+COPI-mediated anterograde transport,8.20411846747067e-05,pathway
+NGF-stimulated transcription,8.20411846747067e-05,pathway
+GRB2 events in EGFR signaling,8.20411846747067e-05,pathway
+GAB1 signalosome,8.20411846747067e-05,pathway
+SHC1 events in EGFR signaling,8.20411846747067e-05,pathway
+Signaling by ERBB2 TMD/JMD mutants,8.20411846747067e-05,pathway
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,8.20411846747067e-05,pathway
+Signaling by ERBB4,8.20411846747067e-05,pathway
+EGFR interacts with phospholipase C-gamma,8.20411846747067e-05,pathway
+PI3K events in ERBB2 signaling,8.20411846747067e-05,pathway
+GRB2 events in ERBB2 signaling,8.20411846747067e-05,pathway
+EGFR downregulation,8.20411846747067e-05,pathway
+Signaling by ERBB2 KD Mutants,8.20411846747067e-05,pathway
+Signaling by ERBB2 ECD mutants,8.20411846747067e-05,pathway
+Inhibition of Signaling by Overexpressed EGFR,8.20411846747067e-05,pathway
+Constitutive Signaling by EGFRvIII,8.20411846747067e-05,pathway
+Signaling by ERBB2,8.20411846747067e-05,pathway
+The fatty acid cycling model,8.20411846747067e-05,pathway
+SHC1 events in ERBB2 signaling,8.20411846747067e-05,pathway
+PLCG1 events in ERBB2 signaling,8.20411846747067e-05,pathway
+The proton buffering model,8.20411846747067e-05,pathway
+ATF4 activates genes in response to endoplasmic reticulum  stress,8.20411846747067e-05,pathway
+Response of EIF2AK4 (GCN2) to amino acid deficiency,8.20411846747067e-05,pathway
+Response of EIF2AK1 (HRI) to heme deficiency,8.20411846747067e-05,pathway
+Cysteine formation from homocysteine,8.20411846747067e-05,pathway
+MAP3K8 (TPL2)-dependent MAPK1/3 activation,8.20411846747067e-05,pathway
+Dopamine Neurotransmitter Release Cycle,8.20411846747067e-05,pathway
+Intestinal hexose absorption,8.20411846747067e-05,pathway
+Triglyceride catabolism,8.20411846747067e-05,pathway
+Sensory processing of sound by inner hair cells of the cochlea,8.20411846747067e-05,pathway
+"GABA synthesis, release, reuptake and degradation",8.20411846747067e-05,pathway
+Acetylcholine Neurotransmitter Release Cycle,8.20411846747067e-05,pathway
+Synthesis of PA,8.20411846747067e-05,pathway
+Norepinephrine Neurotransmitter Release Cycle,8.20411846747067e-05,pathway
+Serotonin Neurotransmitter Release Cycle,8.20411846747067e-05,pathway
+Toxicity of botulinum toxin type A (botA),8.20411846747067e-05,pathway
+Toxicity of botulinum toxin type C (botC),8.20411846747067e-05,pathway
+Toxicity of botulinum toxin type E (botE),8.20411846747067e-05,pathway
+ERBB2 Regulates Cell Motility,8.20411846747067e-05,pathway
+Downregulation of ERBB2 signaling,8.20411846747067e-05,pathway
+Activation of C3 and C5,8.20411846747067e-05,pathway
+Cargo recognition for clathrin-mediated endocytosis,8.20411846747067e-05,pathway
+Clathrin-mediated endocytosis,8.20411846747067e-05,pathway
+PTK6 promotes HIF1A stabilization,8.20411846747067e-05,pathway
+Alternative complement activation,8.20411846747067e-05,pathway
+Regulation of Complement cascade,8.20411846747067e-05,pathway
+TP53 Regulates Transcription of Death Receptors and Ligands,8.20411846747067e-05,pathway
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,8.20411846747067e-05,pathway
+NOTCH3 Activation and Transmission of Signal to the Nucleus,8.20411846747067e-05,pathway
+Signal transduction by L1,8.20411846747067e-05,pathway
+Signaling by EGFR,8.20411846747067e-05,pathway
+ERBB2 Activates PTK6 Signaling,8.20411846747067e-05,pathway
+EGFR Transactivation by Gastrin,8.20411846747067e-05,pathway
+Signalling to p38 via RIT and RIN,8.20411846747067e-05,pathway
+Spry regulation of FGF signaling,8.20411846747067e-05,pathway
+Frs2-mediated activation,8.20411846747067e-05,pathway
+ARMS-mediated activation,8.20411846747067e-05,pathway
+Negative regulation of MAPK pathway,8.20411846747067e-05,pathway
+Negative feedback regulation of MAPK pathway,8.20411846747067e-05,pathway
+Synthesis of IP3 and IP4 in the cytosol,8.20411846747067e-05,pathway
+Interleukin receptor SHC signaling,8.20411846747067e-05,pathway
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,8.20411846747067e-05,pathway
+Reversal of alkylation damage by DNA dioxygenases,8.20411846747067e-05,pathway
+Abacavir transmembrane transport,8.20411846747067e-05,pathway
+Antimicrobial peptides,8.20411846747067e-05,pathway
+Organic cation transport,8.20411846747067e-05,pathway
+Defective MAT1A causes MATD,8.20411846747067e-05,pathway
+Chylomicron clearance,8.20411846747067e-05,pathway
+Signaling by BMP,8.20411846747067e-05,pathway
+Integrin signaling,8.20411846747067e-05,pathway
+Regulation of IFNG signaling,8.20411846747067e-05,pathway
+PTK6 Down-Regulation,8.20411846747067e-05,pathway
+Regulation of IFNA signaling,8.20411846747067e-05,pathway
+MECP2 regulates neuronal receptors and channels,8.20411846747067e-05,pathway
+Negative regulation of MET activity,8.20411846747067e-05,pathway
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,8.20411846747067e-05,pathway
+Astrocytic Glutamate-Glutamine Uptake And Metabolism,8.20411846747067e-05,pathway
+Effects of PIP2 hydrolysis,8.20411846747067e-05,pathway
+Transport of inorganic cations/anions and amino acids/oligopeptides,8.20411846747067e-05,pathway
+Phase 4 - resting membrane potential,8.20411846747067e-05,pathway
+AMPK inhibits chREBP transcriptional activation activity,8.20411846747067e-05,pathway
+Erythropoietin activates STAT5,8.20411846747067e-05,pathway
+Erythropoietin activates RAS,8.20411846747067e-05,pathway
+Generic Transcription Pathway,8.20411846747067e-05,pathway
+Synthesis of Dolichyl-phosphate,8.20411846747067e-05,pathway
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,8.20411846747067e-05,pathway
+TGF-beta receptor signaling activates SMADs,8.20411846747067e-05,pathway
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),8.20411846747067e-05,pathway
+Syndecan interactions,8.20411846747067e-05,pathway
+RUNX3 regulates p14-ARF,8.20411846747067e-05,pathway
+Defective DHDDS causes retinitis pigmentosa 59,8.20411846747067e-05,pathway
+Influenza Virus Induced Apoptosis,8.20411846747067e-05,pathway
+Cell surface interactions at the vascular wall,8.20411846747067e-05,pathway
+Molecules associated with elastic fibres,8.20411846747067e-05,pathway
+Downregulation of TGF-beta receptor signaling,8.20411846747067e-05,pathway
+TGFBR2 MSI Frameshift Mutants in Cancer,8.20411846747067e-05,pathway
+SMAD2/3 Phosphorylation Motif Mutants in Cancer,8.20411846747067e-05,pathway
+ECM proteoglycans,8.20411846747067e-05,pathway
+CLEC7A (Dectin-1) induces NFAT activation,8.20411846747067e-05,pathway
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs),8.20411846747067e-05,pathway
+FCERI mediated Ca+2 mobilization,8.20411846747067e-05,pathway
+Calcineurin activates NFAT,8.20411846747067e-05,pathway
+TGFBR2 Kinase Domain Mutants in Cancer,8.20411846747067e-05,pathway
+RUNX3 regulates CDKN1A transcription,8.20411846747067e-05,pathway
+Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells,8.20411846747067e-05,pathway
+SHC-mediated cascade:FGFR1,8.20411846747067e-05,pathway
+Downstream signaling of activated FGFR1,8.20411846747067e-05,pathway
+Phospholipase C-mediated cascade: FGFR1,8.20411846747067e-05,pathway
+Class A/1 (Rhodopsin-like receptors),8.20411846747067e-05,pathway
+FRS-mediated FGFR1 signaling,8.20411846747067e-05,pathway
+Negative regulation of FGFR1 signaling,8.20411846747067e-05,pathway
+PI-3K cascade:FGFR1,8.20411846747067e-05,pathway
+FGFR1c and Klotho ligand binding and activation,8.20411846747067e-05,pathway
+"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",8.20411846747067e-05,pathway
+Vitamin C (ascorbate) metabolism,8.20411846747067e-05,pathway
+Lactose synthesis,8.20411846747067e-05,pathway
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,8.20411846747067e-05,pathway
+Binding of TCF/LEF:CTNNB1 to target gene promoters,8.20411846747067e-05,pathway
+Formation of the beta-catenin:TCF transactivating complex,8.20411846747067e-05,pathway
+RUNX3 regulates WNT signaling,8.20411846747067e-05,pathway
+Repression of WNT target genes,8.20411846747067e-05,pathway
+Signaling by TCF7L2 mutants,8.20411846747067e-05,pathway
+TGFBR1 LBD Mutants in Cancer,8.20411846747067e-05,pathway
+TGFBR1 KD Mutants in Cancer,8.20411846747067e-05,pathway
+Regulation of lipid metabolism by PPARalpha,8.20411846747067e-05,pathway
+Signaling by Erythropoietin,8.20411846747067e-05,pathway
+Activation of Matrix Metalloproteinases,8.20411846747067e-05,pathway
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K),8.20411846747067e-05,pathway
+Activation of gene expression by SREBF (SREBP),8.20411846747067e-05,pathway
+"BMAL1:CLOCK,NPAS2 activates circadian gene expression",8.20411846747067e-05,pathway
+O-glycosylation of TSR domain-containing proteins,8.20411846747067e-05,pathway
+"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",8.20411846747067e-05,pathway
+eNOS activation,8.20411846747067e-05,pathway
+NOSIP mediated eNOS trafficking,8.20411846747067e-05,pathway
+NOSTRIN mediated eNOS trafficking,8.20411846747067e-05,pathway
+Erythropoietin activates Phospholipase C gamma (PLCG),8.20411846747067e-05,pathway
+Integration of viral DNA into host genomic DNA,8.20411846747067e-05,pathway
+Inhibition of nitric oxide production,8.20411846747067e-05,pathway
+Maturation of spike protein,8.20411846747067e-05,pathway
+N-Glycan antennae elongation,8.20411846747067e-05,pathway
+Termination of O-glycan biosynthesis,8.20411846747067e-05,pathway
+Tie2 Signaling,8.20411846747067e-05,pathway
+Glutathione conjugation,8.20411846747067e-05,pathway
+Sialic acid metabolism,8.20411846747067e-05,pathway
+Maturation of protein 3a,8.20411846747067e-05,pathway
+XBP1(S) activates chaperone genes,8.20411846747067e-05,pathway
+Thrombin signalling through proteinase activated receptors (PARs),8.20411846747067e-05,pathway
+Presynaptic function of Kainate receptors,8.20411846747067e-05,pathway
+G alpha (12/13) signalling events,8.20411846747067e-05,pathway
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,8.20411846747067e-05,pathway
+G beta:gamma signalling through CDC42,8.20411846747067e-05,pathway
+G beta:gamma signalling through PLC beta,8.20411846747067e-05,pathway
+ADP signalling through P2Y purinoceptor 1,8.20411846747067e-05,pathway
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),8.20411846747067e-05,pathway
+Aflatoxin activation and detoxification,8.20411846747067e-05,pathway
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),8.20411846747067e-05,pathway
+Synthesis of 5-eicosatetraenoic acids,8.20411846747067e-05,pathway
+Synthesis of 12-eicosatetraenoic acid derivatives,8.20411846747067e-05,pathway
+Biosynthesis of maresin-like SPMs,8.20411846747067e-05,pathway
+RAS processing,8.20411846747067e-05,pathway
+STAT5 activation downstream of FLT3 ITD mutants,8.20411846747067e-05,pathway
+Synthesis of 15-eicosatetraenoic acid derivatives,8.20411846747067e-05,pathway
+SUMOylation of immune response proteins,8.20411846747067e-05,pathway
+Biosynthesis of protectins,8.20411846747067e-05,pathway
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,8.20411846747067e-05,pathway
+G-protein activation,8.20411846747067e-05,pathway
+Degradation of GLI1 by the proteasome,8.20411846747067e-05,pathway
+Hh mutants are degraded by ERAD,8.20411846747067e-05,pathway
+Regulation of expression of SLITs and ROBOs,8.20411846747067e-05,pathway
+Degradation of GLI2 by the proteasome,8.20411846747067e-05,pathway
+GLI3 is processed to GLI3R by the proteasome,8.20411846747067e-05,pathway
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,8.20411846747067e-05,pathway
+ROS sensing by NFE2L2,8.20411846747067e-05,pathway
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,8.20411846747067e-05,pathway
+The role of GTSE1 in G2/M progression after G2 checkpoint,8.20411846747067e-05,pathway
+NADE modulates death signalling,8.20411846747067e-05,pathway
+TRAIL  signaling,8.20411846747067e-05,pathway
+TLR3-mediated TICAM1-dependent programmed cell death,8.20411846747067e-05,pathway
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10,8.20411846747067e-05,pathway
+Defective RIPK1-mediated regulated necrosis,8.20411846747067e-05,pathway
+Microbial modulation of RIPK1-mediated regulated necrosis,8.20411846747067e-05,pathway
+Regulation of necroptotic cell death,8.20411846747067e-05,pathway
+TRIF-mediated programmed cell death,8.20411846747067e-05,pathway
+NOD1/2 Signaling Pathway,8.20411846747067e-05,pathway
+"Activation, myristolyation of BID and translocation to mitochondria",8.20411846747067e-05,pathway
+Orc1 removal from chromatin,8.20411846747067e-05,pathway
+Hedgehog ligand biogenesis,8.20411846747067e-05,pathway
+Degradation of DVL,8.20411846747067e-05,pathway
+Asymmetric localization of PCP proteins,8.20411846747067e-05,pathway
+Signaling by Hippo,8.20411846747067e-05,pathway
+Activation of caspases through apoptosome-mediated cleavage,8.20411846747067e-05,pathway
+SMAC (DIABLO) binds to IAPs ,8.20411846747067e-05,pathway
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes ,8.20411846747067e-05,pathway
+Apoptosis induced DNA fragmentation,8.20411846747067e-05,pathway
+Apoptotic execution phase,8.20411846747067e-05,pathway
+Regulation of HMOX1 expression and activity,8.20411846747067e-05,pathway
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,8.20411846747067e-05,pathway
+Iron uptake and transport,8.20411846747067e-05,pathway
+Post-translational modification: synthesis of GPI-anchored proteins,8.20411846747067e-05,pathway
+G beta:gamma signalling through BTK,8.20411846747067e-05,pathway
+ADP signalling through P2Y purinoceptor 12,8.20411846747067e-05,pathway
+Activation of G protein gated Potassium channels,8.20411846747067e-05,pathway
+Heme degradation,8.20411846747067e-05,pathway
+Thromboxane signalling through TP receptor,8.20411846747067e-05,pathway
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,8.20411846747067e-05,pathway
+Prostacyclin signalling through prostacyclin receptor,8.20411846747067e-05,pathway
+CDT1 association with the CDC6:ORC:origin complex,8.20411846747067e-05,pathway
+Regulation of RAS by GAPs,8.20411846747067e-05,pathway
+Voltage gated Potassium channels,8.20411846747067e-05,pathway
+Phase 3 - rapid repolarisation,8.20411846747067e-05,pathway
+Phase 2 - plateau phase,8.20411846747067e-05,pathway
+SIRT1 negatively regulates rRNA expression,8.20411846747067e-05,pathway
+Regulation of activated PAK-2p34 by proteasome mediated degradation,8.20411846747067e-05,pathway
+Degradation of AXIN,8.20411846747067e-05,pathway
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,8.20411846747067e-05,pathway
+NIK-->noncanonical NF-kB signaling,8.20411846747067e-05,pathway
+Laminin interactions,8.20411846747067e-05,pathway
+Other semaphorin interactions,8.20411846747067e-05,pathway
+Platelet Adhesion to exposed collagen,8.20411846747067e-05,pathway
+CHL1 interactions,8.20411846747067e-05,pathway
+Smooth Muscle Contraction,8.20411846747067e-05,pathway
+Separation of Sister Chromatids,8.20411846747067e-05,pathway
+WNT ligand biogenesis and trafficking,8.20411846747067e-05,pathway
+Negative regulation of NOTCH4 signaling,8.20411846747067e-05,pathway
+Neddylation,8.20411846747067e-05,pathway
+CDK-mediated phosphorylation and removal of Cdc6,8.20411846747067e-05,pathway
+G2/M Checkpoints,8.20411846747067e-05,pathway
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,8.20411846747067e-05,pathway
+Ubiquitin-dependent degradation of Cyclin D,8.20411846747067e-05,pathway
+Hedgehog 'on' state,8.20411846747067e-05,pathway
+Regulation of ornithine decarboxylase (ODC),8.20411846747067e-05,pathway
+AUF1 (hnRNP D0) binds and destabilizes mRNA,8.20411846747067e-05,pathway
+Autodegradation of the E3 ubiquitin ligase COP1,8.20411846747067e-05,pathway
+Regulation of HSF1-mediated heat shock response,8.20411846747067e-05,pathway
+Regulation of FOXO transcriptional activity by acetylation,8.20411846747067e-05,pathway
+HATs acetylate histones,8.20411846747067e-05,pathway
+TWIK-related alkaline pH activated K+ channel (TALK),8.20411846747067e-05,pathway
+MECP2 regulates transcription factors,8.20411846747067e-05,pathway
+Regulation of PTEN gene transcription,8.20411846747067e-05,pathway
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation,8.20411846747067e-05,pathway
+Generation of second messenger molecules,8.20411846747067e-05,pathway
+Autointegration results in viral DNA circles,8.20411846747067e-05,pathway
+PD-1 signaling,8.20411846747067e-05,pathway
+Formation of Senescence-Associated Heterochromatin Foci (SAHF),8.20411846747067e-05,pathway
+Erythrocytes take up oxygen and release carbon dioxide,8.20411846747067e-05,pathway
+Erythrocytes take up carbon dioxide and release oxygen,8.20411846747067e-05,pathway
+Phosphorylation of CD3 and TCR zeta chains,8.20411846747067e-05,pathway
+Translocation of ZAP-70 to Immunological synapse,8.20411846747067e-05,pathway
+MHC class II antigen presentation,8.20411846747067e-05,pathway
+Vitamin B2 (riboflavin) metabolism,8.20411846747067e-05,pathway
+SUMOylation of transcription cofactors,8.20411846747067e-05,pathway
+Defective HK1 causes hexokinase deficiency (HK deficiency),8.20411846747067e-05,pathway
+APOBEC3G mediated resistance to HIV-1 infection,8.20411846747067e-05,pathway
+Vpr-mediated nuclear import of PICs,8.20411846747067e-05,pathway
+Integration of provirus,8.20411846747067e-05,pathway
+2-LTR circle formation,8.20411846747067e-05,pathway
+Vitamin B5 (pantothenate) metabolism,8.20411846747067e-05,pathway
+RET signaling,8.20411846747067e-05,pathway
+MAPK6/MAPK4 signaling,8.20411846747067e-05,pathway
+Defective CFTR causes cystic fibrosis,8.20411846747067e-05,pathway
+Cross-presentation of soluble exogenous antigens (endosomes),8.20411846747067e-05,pathway
+Autodegradation of Cdh1 by Cdh1:APC/C,8.20411846747067e-05,pathway
+SCF-beta-TrCP mediated degradation of Emi1,8.20411846747067e-05,pathway
+APC/C:Cdc20 mediated degradation of Securin,8.20411846747067e-05,pathway
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,8.20411846747067e-05,pathway
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,8.20411846747067e-05,pathway
+Vpu mediated degradation of CD4,8.20411846747067e-05,pathway
+Vif-mediated degradation of APOBEC3G,8.20411846747067e-05,pathway
+Degradation of beta-catenin by the destruction complex,8.20411846747067e-05,pathway
+ER-Phagosome pathway,8.20411846747067e-05,pathway
+SCF(Skp2)-mediated degradation of p27/p21,8.20411846747067e-05,pathway

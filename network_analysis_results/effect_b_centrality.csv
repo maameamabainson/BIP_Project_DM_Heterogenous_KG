@@ -1,0 +1,1357 @@
+node,betweeness_centrality,node_type
+Increased antibiotic exposure,0.1915215700688847,effect/phenotype
+Recurrent bacterial infections,0.12404516952464101,effect/phenotype
+Increased risk of pathogen mutation,0.06740165615913188,effect/phenotype
+Hyperglycemia,0.067387235482358,effect/phenotype
+Recurrent bacterial skin infections,0.06174695689760509,effect/phenotype
+Recurrent infections,0.0019181476464023507,effect/phenotype
+Peripheral neuropathy,0.0004910108822969243,effect/phenotype
+obesity disorder,0.0001557579414350164,effect/phenotype
+Autosomal dominant inheritance,0.00015367576682996013,effect/phenotype
+Recurrent streptococcus pneumoniae infections,3.258866271892341e-05,effect/phenotype
+Recurrent Staphylococcus aureus infections,2.6458005795825384e-05,effect/phenotype
+Recurrent Klebsiella infections,2.576944626075777e-05,effect/phenotype
+Insulin resistance,7.131736630444036e-06,effect/phenotype
+Recurrent lower respiratory tract infections,4.900349529576195e-06,effect/phenotype
+Glucose intolerance,4.183508063286037e-06,effect/phenotype
+Recurrent sinopulmonary infections,9.660070389547131e-07,effect/phenotype
+Increased body weight,8.025514248642173e-07,effect/phenotype
+Abnormality of the dentition,6.973635323514615e-07,effect/phenotype
+Respiratory tract infection,9.541765597588161e-08,effect/phenotype
+Adult onset,7.089587536204763e-08,effect/phenotype
+Skin ulcer,1.0497635449765752e-08,effect/phenotype
+Cachexia,0.0,effect/phenotype
+Fasting hypoglycemia,0.0,effect/phenotype
+Cerebral edema,0.0,effect/phenotype
+Nausea,0.0,effect/phenotype
+Cardiorespiratory arrest,0.0,effect/phenotype
+Fever,0.0,effect/phenotype
+Poor wound healing,0.0,effect/phenotype
+Recurrent ear infections,0.0,effect/phenotype
+Recurrent mycobacterial infections,0.0,effect/phenotype
+Recurrent gram-negative bacterial infections,0.0,effect/phenotype
+Recurrent streptococcal infections,0.0,effect/phenotype
+Recurrent respiratory infections,0.0,effect/phenotype
+Pain,0.0,effect/phenotype
+Ventricular extrasystoles,0.0,effect/phenotype
+Globozoospermia,0.0,effect/phenotype
+Intrauterine growth retardation,0.0,effect/phenotype
+Hypoxemia,0.0,effect/phenotype
+Abnormality of chromosome stability,0.0,effect/phenotype
+Edema,0.0,effect/phenotype
+Anasarca,0.0,effect/phenotype
+Albuminuria,0.0,effect/phenotype
+Skeletal muscle atrophy,0.0,effect/phenotype
+Pulmonary edema,0.0,effect/phenotype
+Allergy,0.0,effect/phenotype
+Abnormal glucose homeostasis,0.0,effect/phenotype
+Abnormal peripheral nervous system morphology,0.0,effect/phenotype
+Abnormal waist to hip ratio,0.0,effect/phenotype
+Decreased liver function,0.0,effect/phenotype
+Elevated hepatic transaminase,0.0,effect/phenotype
+Hearing impairment,0.0,effect/phenotype
+Mode of inheritance,0.0,effect/phenotype
+Cerebral hemorrhage,0.0,effect/phenotype
+Focal-onset seizure,0.0,effect/phenotype
+Seizure,0.0,effect/phenotype
+Allodynia,0.0,effect/phenotype
+Bradycardia,0.0,effect/phenotype
+Cardiomegaly,0.0,effect/phenotype
+Preeclampsia,0.0,effect/phenotype
+Toxemia of pregnancy,0.0,effect/phenotype
+Premature birth,0.0,effect/phenotype
+Arrhythmia,0.0,effect/phenotype
+Pulmonary arterial hypertension,0.0,effect/phenotype
+Urinary retention,0.0,effect/phenotype
+Neonatal insulin-dependent diabetes mellitus,0.0,effect/phenotype
+Recurrent staphylococcal infections,0.0,effect/phenotype
+Abnormality of extrapyramidal motor function,0.0,effect/phenotype
+Recurrent upper respiratory tract infections,0.0,effect/phenotype
+Recurrent Serratia marcescens infections,0.0,effect/phenotype
+Recurrent infections due to aspiration,0.0,effect/phenotype
+Recurrent Burkholderia cepacia infections,0.0,effect/phenotype
+Respiratory infections in early life,0.0,effect/phenotype
+Reticulocytosis,0.0,effect/phenotype
+Maternal diabetes,0.0,effect/phenotype
+Endocardial fibrosis,0.0,effect/phenotype
+Methylmalonic acidemia,0.0,effect/phenotype
+Chromosome breakage,0.0,effect/phenotype
+Recurrent mycobacterium avium complex infections,0.0,effect/phenotype
+Recurrent systemic pyogenic infections,0.0,effect/phenotype
+Recurrent Haemophilus influenzae infections,0.0,effect/phenotype
+Recurrent Neisserial infections,0.0,effect/phenotype
+Recurrent bronchopulmonary infections,0.0,effect/phenotype
+Recurrent acute respiratory tract infection,0.0,effect/phenotype
+Spontaneous abortion,0.0,effect/phenotype
+Cardiogenic shock,0.0,effect/phenotype
+Abnormality of connective tissue,0.0,effect/phenotype
+Bloodstream infectious agent,0.0,effect/phenotype
+Abnormality of the urinary system physiology,0.0,effect/phenotype
+Abnormality of the gingiva,0.0,effect/phenotype
+Coma,0.0,effect/phenotype
+Paralysis,0.0,effect/phenotype
+Colonic inertia,0.0,effect/phenotype
+Abnormal facial shape,0.0,effect/phenotype
+Abnormality of redox activity,0.0,effect/phenotype
+Abnormality of the auditory canal,0.0,effect/phenotype
+Abnormal blood glucose concentration,0.0,effect/phenotype
+Abnormality of musculoskeletal physiology,0.0,effect/phenotype
+Hepatomegaly,0.0,effect/phenotype
+Splenomegaly,0.0,effect/phenotype
+Abnormality of the endocrine system,0.0,effect/phenotype
+Hyperkinetic movements,0.0,effect/phenotype
+Postprandial hyperglycemia,0.0,effect/phenotype
+Tachycardia,0.0,effect/phenotype
+Hypothermia,0.0,effect/phenotype
+Astrocytosis,0.0,effect/phenotype
+Gliosis,0.0,effect/phenotype
+Short toe,0.0,effect/phenotype
+High urinary gonadotropin level,0.0,effect/phenotype
+Increased upper to lower segment ratio,0.0,effect/phenotype
+Abnormal forearm bone morphology,0.0,effect/phenotype
+Enlarged thorax,0.0,effect/phenotype
+Short sternum,0.0,effect/phenotype
+Melanocytic nevus,0.0,effect/phenotype
+Atypical scarring of skin,0.0,effect/phenotype
+Neoplasm of the anterior pituitary,0.0,effect/phenotype
+Intracranial cystic lesion,0.0,effect/phenotype
+Headache,0.0,effect/phenotype
+Abnormality of the ovary,0.0,effect/phenotype
+Abnormality of the nasal bone,0.0,effect/phenotype
+Polydipsia,0.0,effect/phenotype
+Dyssynergia,0.0,effect/phenotype
+Myotonia,0.0,effect/phenotype
+Sensory ataxia,0.0,effect/phenotype
+Polyuria,0.0,effect/phenotype
+Papilledema,0.0,effect/phenotype
+Nausea and vomiting,0.0,effect/phenotype
+Incoordination,0.0,effect/phenotype
+Stomatocytosis,0.0,effect/phenotype
+Paroxysmal choreoathetosis,0.0,effect/phenotype
+Recurrent skin infections,0.0,effect/phenotype
+Aortic arch aneurysm,0.0,effect/phenotype
+Hypopituitarism,0.0,effect/phenotype
+Abnormal hypothalamus morphology,0.0,effect/phenotype
+Slow decrease in visual acuity,0.0,effect/phenotype
+Enlarged pituitary gland,0.0,effect/phenotype
+Spastic gait,0.0,effect/phenotype
+Steppage gait,0.0,effect/phenotype
+Truncal ataxia,0.0,effect/phenotype
+Waddling gait,0.0,effect/phenotype
+Mitochondrial myopathy,0.0,effect/phenotype
+Skeletal myopathy,0.0,effect/phenotype
+Dementia,0.0,effect/phenotype
+Progressive proximal muscle weakness,0.0,effect/phenotype
+Mitochondrial inheritance,0.0,effect/phenotype
+Proximal amyotrophy,0.0,effect/phenotype
+Bilateral tonic-clonic seizure with focal onset,0.0,effect/phenotype
+Delirium,0.0,effect/phenotype
+Achilles tendon contracture,0.0,effect/phenotype
+Peripheral axonal neuropathy,0.0,effect/phenotype
+Myoclonic seizure,0.0,effect/phenotype
+Abnormality of the urinary system,0.0,effect/phenotype
+Abnormality of the nervous system,0.0,effect/phenotype
+Abnormality of limbs,0.0,effect/phenotype
+Bilateral ptosis,0.0,effect/phenotype
+Abnormality of the frontal bone,0.0,effect/phenotype
+Vertigo,0.0,effect/phenotype
+Abnormal spermatogenesis,0.0,effect/phenotype
+Hyperactive deep tendon reflexes,0.0,effect/phenotype
+Postural instability,0.0,effect/phenotype
+Head tremor,0.0,effect/phenotype
+Abnormality of ocular abduction,0.0,effect/phenotype
+Adducted thumb,0.0,effect/phenotype
+Limb dysmetria,0.0,effect/phenotype
+Difficulty running,0.0,effect/phenotype
+Weakness of facial musculature,0.0,effect/phenotype
+Tip-toe gait,0.0,effect/phenotype
+EMG: myopathic abnormalities,0.0,effect/phenotype
+Pustule,0.0,effect/phenotype
+Retinal vasculitis,0.0,effect/phenotype
+Pelvic girdle muscle weakness,0.0,effect/phenotype
+Chronic sensorineural polyneuropathy,0.0,effect/phenotype
+Congenital peripheral neuropathy,0.0,effect/phenotype
+Demyelinating peripheral neuropathy,0.0,effect/phenotype
+Increased waist to hip ratio,0.0,effect/phenotype
+Functional motor deficit,0.0,effect/phenotype
+Impaired proprioception,0.0,effect/phenotype
+Abnormal motor evoked potentials,0.0,effect/phenotype
+Broad philtrum,0.0,effect/phenotype
+Proximal muscle weakness,0.0,effect/phenotype
+Exercise intolerance,0.0,effect/phenotype
+Shoulder girdle muscle weakness,0.0,effect/phenotype
+Difficulty climbing stairs,0.0,effect/phenotype
+Wide nasal base,0.0,effect/phenotype
+Pituitary hypothyroidism,0.0,effect/phenotype
+Sternocleidomastoid amyotrophy,0.0,effect/phenotype
+Prominent metopic ridge,0.0,effect/phenotype
+Dehydration,0.0,effect/phenotype
+Severe failure to thrive,0.0,effect/phenotype
+Recurrent cutaneous fungal infections,0.0,effect/phenotype
+Respiratory distress,0.0,effect/phenotype
+Eyelid coloboma,0.0,effect/phenotype
+Hypoplasia of the fovea,0.0,effect/phenotype
+Paresthesia,0.0,effect/phenotype
+Decreased body weight,0.0,effect/phenotype
+Weight loss,0.0,effect/phenotype
+Right ventricular outlet tract obstruction,0.0,effect/phenotype
+Hyperkalemia,0.0,effect/phenotype
+Dysesthesia,0.0,effect/phenotype
+Phonic tics,0.0,effect/phenotype
+Unsteady gait,0.0,effect/phenotype
+Shuffling gait,0.0,effect/phenotype
+Scissor gait,0.0,effect/phenotype
+Short stature,0.0,effect/phenotype
+Motor tics,0.0,effect/phenotype
+Ketonuria,0.0,effect/phenotype
+Tritanomaly,0.0,effect/phenotype
+Cystoid macular degeneration,0.0,effect/phenotype
+Red-green dyschromatopsia,0.0,effect/phenotype
+Posterior staphyloma,0.0,effect/phenotype
+Cone dystrophy,0.0,effect/phenotype
+Retinal thinning,0.0,effect/phenotype
+Renal insufficiency,0.0,effect/phenotype
+Hyperextensibility of the finger joints,0.0,effect/phenotype
+Broad-based gait,0.0,effect/phenotype
+Profound hearing impairment,0.0,effect/phenotype
+Peripheral retinal atrophy,0.0,effect/phenotype
+Cone/cone-rod dystrophy,0.0,effect/phenotype
+Cystoid macular edema,0.0,effect/phenotype
+Peripapillary chorioretinal atrophy,0.0,effect/phenotype
+Central scotoma,0.0,effect/phenotype
+Fundus atrophy,0.0,effect/phenotype
+Progressive night blindness,0.0,effect/phenotype
+Retinal detachment,0.0,effect/phenotype
+Progressive visual field defects,0.0,effect/phenotype
+Photopsia,0.0,effect/phenotype
+EEG abnormality,0.0,effect/phenotype
+Developmental regression,0.0,effect/phenotype
+Periorbital fullness,0.0,effect/phenotype
+Self-injurious behavior,0.0,effect/phenotype
+Choreoathetosis,0.0,effect/phenotype
+Regional abnormality of skin,0.0,effect/phenotype
+Abnormal hair whorl,0.0,effect/phenotype
+Broad hallux,0.0,effect/phenotype
+Hypointensity of cerebral white matter on MRI,0.0,effect/phenotype
+High-frequency hearing impairment,0.0,effect/phenotype
+Broad columella,0.0,effect/phenotype
+Areflexia,0.0,effect/phenotype
+Abnormal dermatoglyphics,0.0,effect/phenotype
+Thick nasal alae,0.0,effect/phenotype
+2-3 toe syndactyly,0.0,effect/phenotype
+Meckel diverticulum,0.0,effect/phenotype
+Long palpebral fissure,0.0,effect/phenotype
+Severe postnatal growth retardation,0.0,effect/phenotype
+Downturned corners of mouth,0.0,effect/phenotype
+Depressed nasal tip,0.0,effect/phenotype
+Dandy-Walker malformation,0.0,effect/phenotype
+Decreased muscle mass,0.0,effect/phenotype
+Small forehead,0.0,effect/phenotype
+Hypoplasia of the maxilla,0.0,effect/phenotype
+Low frustration tolerance,0.0,effect/phenotype
+Retinal flecks,0.0,effect/phenotype
+Left ventricular noncompaction,0.0,effect/phenotype
+Persistent head lag,0.0,effect/phenotype
+Deviated nasal septum,0.0,effect/phenotype
+Poor head control,0.0,effect/phenotype
+Lower extremity joint dislocation,0.0,effect/phenotype
+Brain abscess,0.0,effect/phenotype
+Unusual skin infection,0.0,effect/phenotype
+"Macroorchidism, postpubertal",0.0,effect/phenotype
+"Ambiguous genitalia, female",0.0,effect/phenotype
+Tall stature,0.0,effect/phenotype
+Macrotia,0.0,effect/phenotype
+Narrow nasal bridge,0.0,effect/phenotype
+Dysplastic corpus callosum,0.0,effect/phenotype
+Right ventricular hypertrophy,0.0,effect/phenotype
+Retractile testis,0.0,effect/phenotype
+Abnormal cortical gyration,0.0,effect/phenotype
+Increased head circumference,0.0,effect/phenotype
+Impulsivity,0.0,effect/phenotype
+Pineal cyst,0.0,effect/phenotype
+Neonatal hypotonia,0.0,effect/phenotype
+Slender build,0.0,effect/phenotype
+Abnormal cerebral white matter morphology,0.0,effect/phenotype
+Slender toe,0.0,effect/phenotype
+Impaired social interactions,0.0,effect/phenotype
+Decreased serum testosterone level,0.0,effect/phenotype
+Visual impairment,0.0,effect/phenotype
+Speech apraxia,0.0,effect/phenotype
+Thick corpus callosum,0.0,effect/phenotype
+Retinal arteriolar constriction,0.0,effect/phenotype
+Bicuspid aortic valve,0.0,effect/phenotype
+Abnormal light-adapted flicker electroretinogram,0.0,effect/phenotype
+Intrahepatic bile duct dilatation,0.0,effect/phenotype
+Photoreceptor layer loss on macular OCT,0.0,effect/phenotype
+Posterior polar cataract,0.0,effect/phenotype
+Hyperautofluorescent retinal lesion,0.0,effect/phenotype
+Progressive visual loss,0.0,effect/phenotype
+Postaxial polydactyly,0.0,effect/phenotype
+Abnormal lung morphology,0.0,effect/phenotype
+Pallor,0.0,effect/phenotype
+Abnormal electroretinogram,0.0,effect/phenotype
+Macular coloboma,0.0,effect/phenotype
+Peripapillary atrophy,0.0,effect/phenotype
+Geographic atrophy,0.0,effect/phenotype
+Cortical cataract,0.0,effect/phenotype
+Abnormal light- and dark-adapted electroretinogram,0.0,effect/phenotype
+Decreased light- and dark-adapted electroretinogram amplitude,0.0,effect/phenotype
+Synostosis involving the 1st metacarpal,0.0,effect/phenotype
+Drusen,0.0,effect/phenotype
+Recurrent fractures,0.0,effect/phenotype
+Long palm,0.0,effect/phenotype
+Reduced tendon reflexes,0.0,effect/phenotype
+Long fingers,0.0,effect/phenotype
+Long hallux,0.0,effect/phenotype
+Prominent protruding coccyx,0.0,effect/phenotype
+Color vision defect,0.0,effect/phenotype
+Thickened helices,0.0,effect/phenotype
+Toenail dysplasia,0.0,effect/phenotype
+Abnormality of the septum pellucidum,0.0,effect/phenotype
+Oral-pharyngeal dysphagia,0.0,effect/phenotype
+Undetectable electroretinogram,0.0,effect/phenotype
+Wide intermamillary distance,0.0,effect/phenotype
+Rod-cone dystrophy,0.0,effect/phenotype
+Gait imbalance,0.0,effect/phenotype
+Chorioretinal degeneration,0.0,effect/phenotype
+Macular degeneration,0.0,effect/phenotype
+Peripheral visual field loss,0.0,effect/phenotype
+Talipes cavus equinovarus,0.0,effect/phenotype
+Mucosal telangiectasiae,0.0,effect/phenotype
+Parotitis,0.0,effect/phenotype
+Osteomyelitis leading to amputation due to slow healing fractures,0.0,effect/phenotype
+Mandibular osteomyelitis,0.0,effect/phenotype
+Abnormal heart morphology,0.0,effect/phenotype
+Clinodactyly of the 2nd toe,0.0,effect/phenotype
+Shortening of all distal phalanges of the fingers,0.0,effect/phenotype
+Moderate sensorineural hearing impairment,0.0,effect/phenotype
+Mild neurosensory hearing impairment,0.0,effect/phenotype
+Ectopic kidney,0.0,effect/phenotype
+Sparse body hair,0.0,effect/phenotype
+Widened subarachnoid space,0.0,effect/phenotype
+Increased serum lactate,0.0,effect/phenotype
+Thick vermilion border,0.0,effect/phenotype
+Facial asymmetry,0.0,effect/phenotype
+Nail dysplasia,0.0,effect/phenotype
+Poor speech,0.0,effect/phenotype
+Narrow face,0.0,effect/phenotype
+Facial palsy,0.0,effect/phenotype
+Delayed gross motor development,0.0,effect/phenotype
+Thickened ears,0.0,effect/phenotype
+Toe syndactyly,0.0,effect/phenotype
+Hyperhidrosis,0.0,effect/phenotype
+Down-sloping shoulders,0.0,effect/phenotype
+Hypsarrhythmia,0.0,effect/phenotype
+Generalized myoclonic seizure,0.0,effect/phenotype
+Generalized non-motor (absence) seizure,0.0,effect/phenotype
+Foot osteomyelitis,0.0,effect/phenotype
+Incomplete penetrance,0.0,effect/phenotype
+Status epilepticus,0.0,effect/phenotype
+Lower limb hyperreflexia,0.0,effect/phenotype
+Supernumerary nipple,0.0,effect/phenotype
+Congenital hip dislocation,0.0,effect/phenotype
+Large fontanelles,0.0,effect/phenotype
+Eczema,0.0,effect/phenotype
+Decreased HDL cholesterol concentration,0.0,effect/phenotype
+Urinary incontinence,0.0,effect/phenotype
+Plagiocephaly,0.0,effect/phenotype
+Diastema,0.0,effect/phenotype
+Abnormality of dental morphology,0.0,effect/phenotype
+Incomprehensible speech,0.0,effect/phenotype
+Abnormal parotid gland morphology,0.0,effect/phenotype
+Sacral dimple,0.0,effect/phenotype
+Neurological speech impairment,0.0,effect/phenotype
+Short palm,0.0,effect/phenotype
+Growth abnormality,0.0,effect/phenotype
+Broad neck,0.0,effect/phenotype
+Abnormality of the basal ganglia,0.0,effect/phenotype
+Abnormality of eye movement,0.0,effect/phenotype
+Hypoplasia of the musculature,0.0,effect/phenotype
+Large forehead,0.0,effect/phenotype
+Broad face,0.0,effect/phenotype
+High myopia,0.0,effect/phenotype
+Prominent coccyx,0.0,effect/phenotype
+Webbed neck,0.0,effect/phenotype
+Narrow palm,0.0,effect/phenotype
+Abnormal hair pattern,0.0,effect/phenotype
+Cough,0.0,effect/phenotype
+Shock,0.0,effect/phenotype
+Abnormality of the spleen,0.0,effect/phenotype
+Septic arthritis,0.0,effect/phenotype
+Acute infectious pneumonia,0.0,effect/phenotype
+Carbuncle,0.0,effect/phenotype
+Furuncle,0.0,effect/phenotype
+Infertility,0.0,effect/phenotype
+Premature coronary artery atherosclerosis,0.0,effect/phenotype
+Small fontanelle,0.0,effect/phenotype
+Hypoplastic nasal bridge,0.0,effect/phenotype
+Apneic episodes in infancy,0.0,effect/phenotype
+Developmental cataract,0.0,effect/phenotype
+Triphalangeal thumb,0.0,effect/phenotype
+Almond-shaped palpebral fissure,0.0,effect/phenotype
+Increased LDL cholesterol concentration,0.0,effect/phenotype
+Equinovarus deformity,0.0,effect/phenotype
+"Intellectual disability, profound",0.0,effect/phenotype
+Abnormality of chromosome segregation,0.0,effect/phenotype
+Hernia of the abdominal wall,0.0,effect/phenotype
+Brain atrophy,0.0,effect/phenotype
+Sleep-wake cycle disturbance,0.0,effect/phenotype
+Trigonocephaly,0.0,effect/phenotype
+Overlapping toe,0.0,effect/phenotype
+Short digit,0.0,effect/phenotype
+Round face,0.0,effect/phenotype
+Ebstein anomaly of the tricuspid valve,0.0,effect/phenotype
+Rocker bottom foot,0.0,effect/phenotype
+Pes planus,0.0,effect/phenotype
+Tetraparesis,0.0,effect/phenotype
+Shawl scrotum,0.0,effect/phenotype
+Abnormality of earlobe,0.0,effect/phenotype
+Cerebellar vermis hypoplasia,0.0,effect/phenotype
+Small nail,0.0,effect/phenotype
+Esotropia,0.0,effect/phenotype
+Triangular face,0.0,effect/phenotype
+Sleep disturbance,0.0,effect/phenotype
+Stereotypy,0.0,effect/phenotype
+Epicanthus inversus,0.0,effect/phenotype
+Cupped ear,0.0,effect/phenotype
+Low posterior hairline,0.0,effect/phenotype
+Chorioretinal atrophy,0.0,effect/phenotype
+Severe muscular hypotonia,0.0,effect/phenotype
+"Intellectual disability, progressive",0.0,effect/phenotype
+Talipes calcaneovarus,0.0,effect/phenotype
+Spastic diplegia,0.0,effect/phenotype
+Tricuspid regurgitation,0.0,effect/phenotype
+Pseudobulbar paralysis,0.0,effect/phenotype
+Caesarian section,0.0,effect/phenotype
+Sparse hair,0.0,effect/phenotype
+Contractures of the large joints,0.0,effect/phenotype
+Poor coordination,0.0,effect/phenotype
+Alacrima,0.0,effect/phenotype
+Cubitus valgus,0.0,effect/phenotype
+Camptodactyly of finger,0.0,effect/phenotype
+External ophthalmoplegia,0.0,effect/phenotype
+Non-midline cleft lip,0.0,effect/phenotype
+Visual loss,0.0,effect/phenotype
+Misalignment of teeth,0.0,effect/phenotype
+Distal lower limb amyotrophy,0.0,effect/phenotype
+Nasolacrimal duct obstruction,0.0,effect/phenotype
+Visual field defect,0.0,effect/phenotype
+Posterior subcapsular cataract,0.0,effect/phenotype
+Attenuation of retinal blood vessels,0.0,effect/phenotype
+Immotile cilia,0.0,effect/phenotype
+Delayed ability to walk,0.0,effect/phenotype
+Furrowed tongue,0.0,effect/phenotype
+"Intellectual disability, severe",0.0,effect/phenotype
+Lower limb hypertonia,0.0,effect/phenotype
+Aggressive behavior,0.0,effect/phenotype
+Broad chin,0.0,effect/phenotype
+Macular atrophy,0.0,effect/phenotype
+Undetectable light- and dark-adapted electroretinogram,0.0,effect/phenotype
+Macular edema,0.0,effect/phenotype
+Distal muscle weakness,0.0,effect/phenotype
+Progressive spastic paraplegia,0.0,effect/phenotype
+Myoclonus,0.0,effect/phenotype
+Talipes equinovarus,0.0,effect/phenotype
+Abnormal cardiac ventricular function,0.0,effect/phenotype
+Patchy alopecia,0.0,effect/phenotype
+Hyperactive patellar reflex,0.0,effect/phenotype
+Arnold-Chiari type I malformation,0.0,effect/phenotype
+Generalized-onset seizure,0.0,effect/phenotype
+Bilateral cryptorchidism,0.0,effect/phenotype
+Anterior pituitary hypoplasia,0.0,effect/phenotype
+"High, narrow palate",0.0,effect/phenotype
+Infantile constant exotropia,0.0,effect/phenotype
+Restlessness,0.0,effect/phenotype
+Abnormality of movement,0.0,effect/phenotype
+Erectile dysfunction,0.0,effect/phenotype
+Elevated serum creatine kinase,0.0,effect/phenotype
+Sensory neuropathy,0.0,effect/phenotype
+Abnormality of the mouth,0.0,effect/phenotype
+Oligomenorrhea,0.0,effect/phenotype
+Difficulty walking,0.0,effect/phenotype
+Distal amyotrophy,0.0,effect/phenotype
+Difficulty standing,0.0,effect/phenotype
+Horizontal nystagmus,0.0,effect/phenotype
+Aplasia/Hypoplasia of the mandible,0.0,effect/phenotype
+Cholestatic liver disease,0.0,effect/phenotype
+Prolonged QT interval,0.0,effect/phenotype
+Inverted nipples,0.0,effect/phenotype
+Hypoplastic toenails,0.0,effect/phenotype
+Proportionate tall stature,0.0,effect/phenotype
+Scanning speech,0.0,effect/phenotype
+Poor fine motor coordination,0.0,effect/phenotype
+Muscle spasm,0.0,effect/phenotype
+Fasciculations,0.0,effect/phenotype
+Calf muscle hypertrophy,0.0,effect/phenotype
+EMG: neuropathic changes,0.0,effect/phenotype
+Dysmetric saccades,0.0,effect/phenotype
+Limb muscle weakness,0.0,effect/phenotype
+Splayed toes,0.0,effect/phenotype
+Madelung deformity,0.0,effect/phenotype
+Nevus,0.0,effect/phenotype
+Reduced bone mineral density,0.0,effect/phenotype
+Numerous congenital melanocytic nevi,0.0,effect/phenotype
+External ear malformation,0.0,effect/phenotype
+Neck pterygia,0.0,effect/phenotype
+Short 4th metacarpal,0.0,effect/phenotype
+Aplasia/Hypoplasia of the nipples,0.0,effect/phenotype
+Enlargement of the distal femoral epiphysis,0.0,effect/phenotype
+Increased serum insulin-like growth factor 1,0.0,effect/phenotype
+Growth hormone excess,0.0,effect/phenotype
+Premature pubarche,0.0,effect/phenotype
+Hypertrophic cardiomyopathy,0.0,effect/phenotype
+Abnormal nervous system physiology,0.0,effect/phenotype
+Cystic hygroma,0.0,effect/phenotype
+Impaired vibratory sensation,0.0,effect/phenotype
+Bitemporal hemianopia,0.0,effect/phenotype
+Abnormal visual field test,0.0,effect/phenotype
+Central adrenal insufficiency,0.0,effect/phenotype
+Horseshoe kidney,0.0,effect/phenotype
+Dermatoglyphic ridges abnormal,0.0,effect/phenotype
+Abnormal involuntary eye movements,0.0,effect/phenotype
+Inferior vermis hypoplasia,0.0,effect/phenotype
+Irregular proximal tibial epiphyses,0.0,effect/phenotype
+Pulmonary valve atresia,0.0,effect/phenotype
+Square face,0.0,effect/phenotype
+Gaze-evoked nystagmus,0.0,effect/phenotype
+Polyneuropathy,0.0,effect/phenotype
+Abnormality of the distal phalanx of the thumb,0.0,effect/phenotype
+Monotonic speech,0.0,effect/phenotype
+Shyness,0.0,effect/phenotype
+Hypomimic face,0.0,effect/phenotype
+Deep philtrum,0.0,effect/phenotype
+Abnormally large globe,0.0,effect/phenotype
+Cortical dysplasia,0.0,effect/phenotype
+Optic nerve hypoplasia,0.0,effect/phenotype
+Hyporeflexia,0.0,effect/phenotype
+Synophrys,0.0,effect/phenotype
+Long toe,0.0,effect/phenotype
+Abnormal left ventricle morphology,0.0,effect/phenotype
+Holoprosencephaly,0.0,effect/phenotype
+Macroorchidism,0.0,effect/phenotype
+Hydrocele testis,0.0,effect/phenotype
+Arachnodactyly,0.0,effect/phenotype
+Delayed fine motor development,0.0,effect/phenotype
+Decreased fertility,0.0,effect/phenotype
+Dysphonia,0.0,effect/phenotype
+Mild microcephaly,0.0,effect/phenotype
+Cerebral ischemia,0.0,effect/phenotype
+Lower limb spasticity,0.0,effect/phenotype
+Gaze-evoked horizontal nystagmus,0.0,effect/phenotype
+Truncal titubation,0.0,effect/phenotype
+Diplopia,0.0,effect/phenotype
+Spinal deformities,0.0,effect/phenotype
+Bulbar palsy,0.0,effect/phenotype
+Insulin-dependent but ketosis-resistant diabetes,0.0,effect/phenotype
+Mixed demyelinating and axonal polyneuropathy,0.0,effect/phenotype
+Episodic peripheral neuropathy,0.0,effect/phenotype
+Progressive peripheral neuropathy,0.0,effect/phenotype
+Plantar warts,0.0,effect/phenotype
+Abnormality of the autonomic nervous system,0.0,effect/phenotype
+Premature graying of hair,0.0,effect/phenotype
+Increased adipose tissue,0.0,effect/phenotype
+Interictal epileptiform activity,0.0,effect/phenotype
+Reduced C-peptide level,0.0,effect/phenotype
+Athetosis,0.0,effect/phenotype
+Delayed menarche,0.0,effect/phenotype
+Parietal cortical atrophy,0.0,effect/phenotype
+Corpus callosum atrophy,0.0,effect/phenotype
+Mononeuropathy,0.0,effect/phenotype
+Weakness of orbicularis oculi muscle,0.0,effect/phenotype
+Sex-limited autosomal dominant,0.0,effect/phenotype
+Autosomal dominant somatic cell mutation,0.0,effect/phenotype
+Autosomal dominant inheritance with paternal imprinting,0.0,effect/phenotype
+Autosomal dominant inheritance with maternal imprinting,0.0,effect/phenotype
+Autosomal dominant germline de novo mutation,0.0,effect/phenotype
+Vestibular dysfunction,0.0,effect/phenotype
+Hypoplasia of the thymus,0.0,effect/phenotype
+Elevated alpha-fetoprotein,0.0,effect/phenotype
+Motor polyneuropathy,0.0,effect/phenotype
+Abnormal muscle tone,0.0,effect/phenotype
+Childhood-onset truncal obesity,0.0,effect/phenotype
+Macular dystrophy,0.0,effect/phenotype
+Abnormal chorioretinal morphology,0.0,effect/phenotype
+Prematurely aged appearance,0.0,effect/phenotype
+Aplasia/Hypoplasia of the skin,0.0,effect/phenotype
+Decreased activity of mitochondrial complex IV,0.0,effect/phenotype
+Palmar warts,0.0,effect/phenotype
+Late onset,0.0,effect/phenotype
+Sensorimotor polyneuropathy affecting arms more than legs,0.0,effect/phenotype
+Chronic furunculosis,0.0,effect/phenotype
+Recurrent bronchitis,0.0,effect/phenotype
+Verrucae,0.0,effect/phenotype
+Abnormal hair morphology,0.0,effect/phenotype
+Chronic fatigue,0.0,effect/phenotype
+Thickened nuchal skin fold,0.0,effect/phenotype
+Short 5th metacarpal,0.0,effect/phenotype
+Very long chain fatty acid accumulation,0.0,effect/phenotype
+Hypoketotic hypoglycemia,0.0,effect/phenotype
+Increased susceptibility to fractures,0.0,effect/phenotype
+Mental deterioration,0.0,effect/phenotype
+Oculomotor apraxia,0.0,effect/phenotype
+Postural tremor,0.0,effect/phenotype
+Hypoglycemic seizures,0.0,effect/phenotype
+Pituitary prolactin cell adenoma,0.0,effect/phenotype
+Positive Romberg sign,0.0,effect/phenotype
+Sensorimotor neuropathy,0.0,effect/phenotype
+Poor motor coordination,0.0,effect/phenotype
+Diffuse cerebral atrophy,0.0,effect/phenotype
+Saccadic smooth pursuit,0.0,effect/phenotype
+Ophthalmoplegia,0.0,effect/phenotype
+Proportionate short stature,0.0,effect/phenotype
+Hand tremor,0.0,effect/phenotype
+Gonadoblastoma,0.0,effect/phenotype
+Gastrointestinal angiodysplasia,0.0,effect/phenotype
+Hyperconvex fingernails,0.0,effect/phenotype
+Adult-onset night blindness,0.0,effect/phenotype
+Vitreous floaters,0.0,effect/phenotype
+Distal sensory impairment,0.0,effect/phenotype
+Asteroid hyalosis,0.0,effect/phenotype
+Impaired use of nonverbal behaviors,0.0,effect/phenotype
+Brisk reflexes,0.0,effect/phenotype
+Secondary amenorrhea,0.0,effect/phenotype
+Shield chest,0.0,effect/phenotype
+Hypermobility of toe joints,0.0,effect/phenotype
+Aortic dissection,0.0,effect/phenotype
+Sudden loss of visual acuity,0.0,effect/phenotype
+Hypoplastic left heart,0.0,effect/phenotype
+Arterial dissection,0.0,effect/phenotype
+Impaired visuospatial constructive cognition,0.0,effect/phenotype
+Acute episodes of neuropathic symptoms,0.0,effect/phenotype
+Recurrent sinusitis,0.0,effect/phenotype
+Entrapment neuropathy,0.0,effect/phenotype
+Hypermetric saccades,0.0,effect/phenotype
+Cognitive impairment,0.0,effect/phenotype
+Nonprogressive,0.0,effect/phenotype
+Hypometric saccades,0.0,effect/phenotype
+Pituitary growth hormone cell adenoma,0.0,effect/phenotype
+Abnormal retinal vascular morphology,0.0,effect/phenotype
+Enlarged cisterna magna,0.0,effect/phenotype
+Fasting hyperinsulinemia,0.0,effect/phenotype
+Diffuse cerebellar atrophy,0.0,effect/phenotype
+Abnormal head movements,0.0,effect/phenotype
+Dysdiadochokinesis,0.0,effect/phenotype
+Mydriasis,0.0,effect/phenotype
+Progressive gait ataxia,0.0,effect/phenotype
+Progressive cerebellar ataxia,0.0,effect/phenotype
+Motor axonal neuropathy,0.0,effect/phenotype
+Abnormal circulating phytanic acid concentration,0.0,effect/phenotype
+Jerky ocular pursuit movements,0.0,effect/phenotype
+Urinary bladder sphincter dysfunction,0.0,effect/phenotype
+Abnormality of ocular smooth pursuit,0.0,effect/phenotype
+Sensory impairment,0.0,effect/phenotype
+Leg muscle stiffness,0.0,effect/phenotype
+Downbeat nystagmus,0.0,effect/phenotype
+Tortuosity of conjunctival vessels,0.0,effect/phenotype
+Nonprogressive cerebellar ataxia,0.0,effect/phenotype
+Exotropia,0.0,effect/phenotype
+Lactic acidosis,0.0,effect/phenotype
+Progressive psychomotor deterioration,0.0,effect/phenotype
+Ragged-red muscle fibers,0.0,effect/phenotype
+Multiple mononeuropathy,0.0,effect/phenotype
+EMG abnormality,0.0,effect/phenotype
+Enuresis,0.0,effect/phenotype
+Rheumatoid arthritis,0.0,effect/phenotype
+Keratoconjunctivitis sicca,0.0,effect/phenotype
+Nail dystrophy,0.0,effect/phenotype
+Adrenal insufficiency,0.0,effect/phenotype
+Nephrocalcinosis,0.0,effect/phenotype
+Primary adrenal insufficiency,0.0,effect/phenotype
+Absence of secondary sex characteristics,0.0,effect/phenotype
+Lumbar hypertrichosis,0.0,effect/phenotype
+Opacification of the corneal stroma,0.0,effect/phenotype
+Adrenal hyperplasia,0.0,effect/phenotype
+Tubulointerstitial nephritis,0.0,effect/phenotype
+Calcaneovalgus deformity,0.0,effect/phenotype
+Left ventricular hypertrophy,0.0,effect/phenotype
+Hyporeflexia of lower limbs,0.0,effect/phenotype
+Bulbous nose,0.0,effect/phenotype
+Biliary cirrhosis,0.0,effect/phenotype
+Abnormal fingernail morphology,0.0,effect/phenotype
+Graves disease,0.0,effect/phenotype
+Abnormality of exocrine pancreas physiology,0.0,effect/phenotype
+Glycosuria,0.0,effect/phenotype
+Weak voice,0.0,effect/phenotype
+Non-caseating epithelioid cell granulomatosis,0.0,effect/phenotype
+Abnormal blistering of the skin,0.0,effect/phenotype
+Abnormal pulmonary Interstitial morphology,0.0,effect/phenotype
+Pes cavus,0.0,effect/phenotype
+High forehead,0.0,effect/phenotype
+Delayed puberty,0.0,effect/phenotype
+Open mouth,0.0,effect/phenotype
+Chronic constipation,0.0,effect/phenotype
+Mild global developmental delay,0.0,effect/phenotype
+Obsessive-compulsive behavior,0.0,effect/phenotype
+Perseveration,0.0,effect/phenotype
+Neonatal hyperbilirubinemia,0.0,effect/phenotype
+Coronal craniosynostosis,0.0,effect/phenotype
+Abnormal vena cava morphology,0.0,effect/phenotype
+Involuntary movements,0.0,effect/phenotype
+Unilateral ptosis,0.0,effect/phenotype
+Asymmetry of the ears,0.0,effect/phenotype
+Focal motor seizure,0.0,effect/phenotype
+Sparse eyebrow,0.0,effect/phenotype
+Severe global developmental delay,0.0,effect/phenotype
+Drooling,0.0,effect/phenotype
+Psychomotor retardation,0.0,effect/phenotype
+Submucous cleft soft palate,0.0,effect/phenotype
+Localized periodontitis,0.0,effect/phenotype
+Testicular atrophy,0.0,effect/phenotype
+Peripheral pulmonary artery stenosis,0.0,effect/phenotype
+Unilateral vocal cord paralysis,0.0,effect/phenotype
+Hashimoto thyroiditis,0.0,effect/phenotype
+Progressive spasticity,0.0,effect/phenotype
+Absent Achilles reflex,0.0,effect/phenotype
+Inability to walk,0.0,effect/phenotype
+Anal atresia,0.0,effect/phenotype
+Frontal balding,0.0,effect/phenotype
+Gait disturbance,0.0,effect/phenotype
+Dilated fourth ventricle,0.0,effect/phenotype
+Low hanging columella,0.0,effect/phenotype
+Long face,0.0,effect/phenotype
+Clubbing of toes,0.0,effect/phenotype
+Recurrent cutaneous abscess formation,0.0,effect/phenotype
+Adenoma sebaceum,0.0,effect/phenotype
+Cerebral calcification,0.0,effect/phenotype
+Cerebellar vermis atrophy,0.0,effect/phenotype
+Extrapyramidal muscular rigidity,0.0,effect/phenotype
+Preauricular pit,0.0,effect/phenotype
+Everted lower lip vermilion,0.0,effect/phenotype
+Rigidity,0.0,effect/phenotype
+Failure to thrive in infancy,0.0,effect/phenotype
+Palpebral edema,0.0,effect/phenotype
+Oral cleft,0.0,effect/phenotype
+Death in childhood,0.0,effect/phenotype
+Blindness,0.0,effect/phenotype
+Severely reduced visual acuity,0.0,effect/phenotype
+Restricted large joint movement,0.0,effect/phenotype
+Tented upper lip vermilion,0.0,effect/phenotype
+Gastrostomy tube feeding in infancy,0.0,effect/phenotype
+Striae distensae,0.0,effect/phenotype
+Hyperactivity,0.0,effect/phenotype
+Aplasia/Hypoplasia of the cerebellum,0.0,effect/phenotype
+Mitral stenosis,0.0,effect/phenotype
+Double outlet right ventricle,0.0,effect/phenotype
+Aphasia,0.0,effect/phenotype
+Bilateral tonic-clonic seizure,0.0,effect/phenotype
+Small earlobe,0.0,effect/phenotype
+Bradykinesia,0.0,effect/phenotype
+Apraxia,0.0,effect/phenotype
+Agraphesthesia,0.0,effect/phenotype
+Short nose,0.0,effect/phenotype
+"Intellectual disability, moderate",0.0,effect/phenotype
+Hypertonia,0.0,effect/phenotype
+Delayed social development,0.0,effect/phenotype
+Preauricular skin tag,0.0,effect/phenotype
+Action tremor,0.0,effect/phenotype
+Male hypogonadism,0.0,effect/phenotype
+Secondary microcephaly,0.0,effect/phenotype
+Dyskinesia,0.0,effect/phenotype
+Broad nasal tip,0.0,effect/phenotype
+Poor suck,0.0,effect/phenotype
+Dysphagia,0.0,effect/phenotype
+Left ventricular noncompaction cardiomyopathy,0.0,effect/phenotype
+Hypogonadism,0.0,effect/phenotype
+Joint contracture of the 5th finger,0.0,effect/phenotype
+Increased circulating gonadotropin level,0.0,effect/phenotype
+Sandal gap,0.0,effect/phenotype
+Thick lower lip vermilion,0.0,effect/phenotype
+Thoracic kyphosis,0.0,effect/phenotype
+Poor eye contact,0.0,effect/phenotype
+Muscle weakness,0.0,effect/phenotype
+Cutaneous abscess,0.0,effect/phenotype
+Intention tremor,0.0,effect/phenotype
+Dilation of lateral ventricles,0.0,effect/phenotype
+Atonic seizure,0.0,effect/phenotype
+Frequent falls,0.0,effect/phenotype
+Wide mouth,0.0,effect/phenotype
+Abnormal eyelash morphology,0.0,effect/phenotype
+Nephrolithiasis,0.0,effect/phenotype
+Narcolepsy,0.0,effect/phenotype
+Cataplexy,0.0,effect/phenotype
+Hypoplasia of the pons,0.0,effect/phenotype
+Abnormality of the Leydig cells,0.0,effect/phenotype
+Abnormal putamen morphology,0.0,effect/phenotype
+Constriction of peripheral visual field,0.0,effect/phenotype
+Paroxysmal drowsiness,0.0,effect/phenotype
+Hepatic failure,0.0,effect/phenotype
+Permanent atrial fibrillation,0.0,effect/phenotype
+Large for gestational age,0.0,effect/phenotype
+Excessive daytime somnolence,0.0,effect/phenotype
+Abnormal corpus callosum morphology,0.0,effect/phenotype
+Vomiting,0.0,effect/phenotype
+Abnormal globus pallidus morphology,0.0,effect/phenotype
+Basal ganglia necrosis,0.0,effect/phenotype
+Aplasia/Hypoplasia of the spleen,0.0,effect/phenotype
+Hypoinsulinemia,0.0,effect/phenotype
+Elevated hemoglobin A1c,0.0,effect/phenotype
+Nephropathy,0.0,effect/phenotype
+Abnormality of the optic nerve,0.0,effect/phenotype
+Fat malabsorption,0.0,effect/phenotype
+Neonatal hypoglycemia,0.0,effect/phenotype
+Polymicrogyria,0.0,effect/phenotype
+Mood swings,0.0,effect/phenotype
+Abnormality of the musculature,0.0,effect/phenotype
+Hyporeflexia of upper limbs,0.0,effect/phenotype
+Simplified gyral pattern,0.0,effect/phenotype
+Abnormal position of hair whorl,0.0,effect/phenotype
+Retinopathy,0.0,effect/phenotype
+Oval face,0.0,effect/phenotype
+Hallux valgus,0.0,effect/phenotype
+Macrogyria,0.0,effect/phenotype
+Alcoholism,0.0,effect/phenotype
+Celiac disease,0.0,effect/phenotype
+Bilateral basal ganglia lesions,0.0,effect/phenotype
+Abnormality of the thyroid gland,0.0,effect/phenotype
+Abnormal C-peptide level,0.0,effect/phenotype
+Xerostomia,0.0,effect/phenotype
+Blepharitis,0.0,effect/phenotype
+Abnormal calcium-phosphate regulating hormone level,0.0,effect/phenotype
+Alopecia universalis,0.0,effect/phenotype
+Blurred vision,0.0,effect/phenotype
+Autistic behavior,0.0,effect/phenotype
+Hydronephrosis,0.0,effect/phenotype
+Hostility,0.0,effect/phenotype
+Anterior pituitary dysgenesis,0.0,effect/phenotype
+Abnormal insulin level,0.0,effect/phenotype
+Intracranial hemorrhage,0.0,effect/phenotype
+Metabolic acidosis,0.0,effect/phenotype
+Abnormal caudate nucleus morphology,0.0,effect/phenotype
+Abnormal morphology of the cerebellar cortex,0.0,effect/phenotype
+Abnormal toenail morphology,0.0,effect/phenotype
+Abnormal oral glucose tolerance,0.0,effect/phenotype
+Preaxial hand polydactyly,0.0,effect/phenotype
+Hepatocellular adenoma,0.0,effect/phenotype
+Flushing,0.0,effect/phenotype
+Diabetic ketoacidosis,0.0,effect/phenotype
+Azoospermia,0.0,effect/phenotype
+Recurrent cystitis,0.0,effect/phenotype
+Recurrent pyelonephritis,0.0,effect/phenotype
+Generalized periodontitis,0.0,effect/phenotype
+Abnormality of the kidney,0.0,effect/phenotype
+Cleft upper lip,0.0,effect/phenotype
+Pancreatic hypoplasia,0.0,effect/phenotype
+Proteinuria,0.0,effect/phenotype
+Focal sensory seizure,0.0,effect/phenotype
+Neurodegeneration,0.0,effect/phenotype
+Retinal degeneration,0.0,effect/phenotype
+Male infertility,0.0,effect/phenotype
+Retinal atrophy,0.0,effect/phenotype
+Memory impairment,0.0,effect/phenotype
+Macroglossia,0.0,effect/phenotype
+Enlarged polycystic ovaries,0.0,effect/phenotype
+Maternal virilization in pregnancy,0.0,effect/phenotype
+Eunuchoid habitus,0.0,effect/phenotype
+Recurrent fever,0.0,effect/phenotype
+Sinusitis,0.0,effect/phenotype
+Coarse facial features,0.0,effect/phenotype
+Female infertility,0.0,effect/phenotype
+Confusion,0.0,effect/phenotype
+Spastic paraplegia,0.0,effect/phenotype
+Soft skin,0.0,effect/phenotype
+Delayed eruption of teeth,0.0,effect/phenotype
+Post-vaccination measles,0.0,effect/phenotype
+Abnormality of the sphenoid sinus,0.0,effect/phenotype
+Flat face,0.0,effect/phenotype
+BCGosis,0.0,effect/phenotype
+Macrocephaly,0.0,effect/phenotype
+Persistent EBV viremia,0.0,effect/phenotype
+Dysarthria,0.0,effect/phenotype
+Delayed myelination,0.0,effect/phenotype
+Broad forehead,0.0,effect/phenotype
+Abnormal rib cage morphology,0.0,effect/phenotype
+Gingival overgrowth,0.0,effect/phenotype
+Abnormal cardiac septum morphology,0.0,effect/phenotype
+Microretrognathia,0.0,effect/phenotype
+Tapered finger,0.0,effect/phenotype
+Dental crowding,0.0,effect/phenotype
+Mandibular prognathia,0.0,effect/phenotype
+Protruding ear,0.0,effect/phenotype
+Recurrent fungal infections,0.0,effect/phenotype
+Disseminated nontuberculous mycobacterial infection,0.0,effect/phenotype
+Bronchiectasis,0.0,effect/phenotype
+Crohn's disease,0.0,effect/phenotype
+Pulmonary fibrosis,0.0,effect/phenotype
+Hypodontia,0.0,effect/phenotype
+Myopathic facies,0.0,effect/phenotype
+Chronic diarrhea,0.0,effect/phenotype
+Frequent Giardia lamblia infestation,0.0,effect/phenotype
+Colon cancer,0.0,effect/phenotype
+Moderate global developmental delay,0.0,effect/phenotype
+Pulmonary infiltrates,0.0,effect/phenotype
+Follicular hyperplasia,0.0,effect/phenotype
+Facial shape deformation,0.0,effect/phenotype
+Asthenia,0.0,effect/phenotype
+Synostosis of joints,0.0,effect/phenotype
+Bowing of the long bones,0.0,effect/phenotype
+Kyphosis,0.0,effect/phenotype
+Impaired smooth pursuit,0.0,effect/phenotype
+Avascular necrosis,0.0,effect/phenotype
+Increased intracranial pressure,0.0,effect/phenotype
+Arnold-Chiari malformation,0.0,effect/phenotype
+Abnormality of the helix,0.0,effect/phenotype
+Generalized abnormality of skin,0.0,effect/phenotype
+Oligosacchariduria,0.0,effect/phenotype
+Talipes valgus,0.0,effect/phenotype
+Cortical thickening of long bone diaphyses,0.0,effect/phenotype
+Infantile axial hypotonia,0.0,effect/phenotype
+Bilateral coxa valga,0.0,effect/phenotype
+Babinski sign,0.0,effect/phenotype
+Open bite,0.0,effect/phenotype
+Optic disc pallor,0.0,effect/phenotype
+Joint laxity,0.0,effect/phenotype
+Disproportionate tall stature,0.0,effect/phenotype
+Bilateral talipes equinovarus,0.0,effect/phenotype
+Recurrent gastroenteritis,0.0,effect/phenotype
+Clumsiness,0.0,effect/phenotype
+Variable expressivity,0.0,effect/phenotype
+Anxiety,0.0,effect/phenotype
+Abnormal pyramidal sign,0.0,effect/phenotype
+Dysostosis multiplex,0.0,effect/phenotype
+Cerebellar hypoplasia,0.0,effect/phenotype
+Hip dysplasia,0.0,effect/phenotype
+Craniofacial hyperostosis,0.0,effect/phenotype
+Highly arched eyebrow,0.0,effect/phenotype
+Hallucinations,0.0,effect/phenotype
+Narrow palate,0.0,effect/phenotype
+Hypoplastic inferior ilia,0.0,effect/phenotype
+Depressed nasal ridge,0.0,effect/phenotype
+Abnormal enzyme/coenzyme activity,0.0,effect/phenotype
+Cerebral cortical atrophy,0.0,effect/phenotype
+Osteolysis,0.0,effect/phenotype
+Cranial hyperostosis,0.0,effect/phenotype
+Subcortical cerebral atrophy,0.0,effect/phenotype
+Female pseudohermaphroditism,0.0,effect/phenotype
+Delayed epiphyseal ossification,0.0,effect/phenotype
+Genu valgum,0.0,effect/phenotype
+Primary amenorrhea,0.0,effect/phenotype
+Thick eyebrow,0.0,effect/phenotype
+Communicating hydrocephalus,0.0,effect/phenotype
+Aortic regurgitation,0.0,effect/phenotype
+Loss of speech,0.0,effect/phenotype
+Hypergonadotropic hypogonadism,0.0,effect/phenotype
+Short attention span,0.0,effect/phenotype
+Mixed hearing impairment,0.0,effect/phenotype
+Spasticity,0.0,effect/phenotype
+Depressivity,0.0,effect/phenotype
+Craniosynostosis,0.0,effect/phenotype
+Increased vertebral height,0.0,effect/phenotype
+Dental malocclusion,0.0,effect/phenotype
+Progressive microcephaly,0.0,effect/phenotype
+Cerebral atrophy,0.0,effect/phenotype
+Widely spaced teeth,0.0,effect/phenotype
+Joint stiffness,0.0,effect/phenotype
+Flat occiput,0.0,effect/phenotype
+Corneal opacity,0.0,effect/phenotype
+Drowsiness,0.0,effect/phenotype
+Abnormality of skeletal morphology,0.0,effect/phenotype
+Facial hypotonia,0.0,effect/phenotype
+Thickened calvaria,0.0,effect/phenotype
+Cutaneous photosensitivity,0.0,effect/phenotype
+Global developmental delay,0.0,effect/phenotype
+Telangiectasia,0.0,effect/phenotype
+Ventriculomegaly,0.0,effect/phenotype
+Nasal speech,0.0,effect/phenotype
+Pancytopenia,0.0,effect/phenotype
+Myelodysplasia,0.0,effect/phenotype
+Thrombocytopenia,0.0,effect/phenotype
+Delayed speech and language development,0.0,effect/phenotype
+Intellectual disability,0.0,effect/phenotype
+Growth delay,0.0,effect/phenotype
+Biparietal narrowing,0.0,effect/phenotype
+Vascular dilatation,0.0,effect/phenotype
+Tracheal stenosis,0.0,effect/phenotype
+Joint hyperflexibility,0.0,effect/phenotype
+Abnormality of epiphysis morphology,0.0,effect/phenotype
+Malabsorption,0.0,effect/phenotype
+Low anterior hairline,0.0,effect/phenotype
+Bird-like facies,0.0,effect/phenotype
+Telecanthus,0.0,effect/phenotype
+Cleft palate,0.0,effect/phenotype
+Posteriorly rotated ears,0.0,effect/phenotype
+Cone-shaped epiphyses of the phalanges of the hand,0.0,effect/phenotype
+Thin long bone diaphyses,0.0,effect/phenotype
+Prominent forehead,0.0,effect/phenotype
+Micropenis,0.0,effect/phenotype
+Motor delay,0.0,effect/phenotype
+Relative macrocephaly,0.0,effect/phenotype
+Congestive heart failure,0.0,effect/phenotype
+Myalgia,0.0,effect/phenotype
+Hyperkeratosis,0.0,effect/phenotype
+Prolonged neonatal jaundice,0.0,effect/phenotype
+Limb undergrowth,0.0,effect/phenotype
+Abnormality of the skeletal system,0.0,effect/phenotype
+Fine hair,0.0,effect/phenotype
+Atrial septal defect,0.0,effect/phenotype
+Prominent occiput,0.0,effect/phenotype
+Pachygyria,0.0,effect/phenotype
+Cleft vertebral arch,0.0,effect/phenotype
+Low-set ears,0.0,effect/phenotype
+Small hand,0.0,effect/phenotype
+Thick upper lip vermilion,0.0,effect/phenotype
+Oligodontia,0.0,effect/phenotype
+Abnormality of the metaphysis,0.0,effect/phenotype
+Hypoplastic pubic bone,0.0,effect/phenotype
+Hypoplasia of the corpus callosum,0.0,effect/phenotype
+Talipes,0.0,effect/phenotype
+Minimal subcutaneous fat,0.0,effect/phenotype
+Abnormal cerebral vascular morphology,0.0,effect/phenotype
+Arterial stenosis,0.0,effect/phenotype
+Kyphoscoliosis,0.0,effect/phenotype
+Frontal bossing,0.0,effect/phenotype
+Narrow palpebral fissure,0.0,effect/phenotype
+Photophobia,0.0,effect/phenotype
+Reduced number of teeth,0.0,effect/phenotype
+Laryngomalacia,0.0,effect/phenotype
+Patent ductus arteriosus,0.0,effect/phenotype
+Absent knee epiphyses,0.0,effect/phenotype
+Large beaked nose,0.0,effect/phenotype
+Joint hypermobility,0.0,effect/phenotype
+Ulnar deviation of finger,0.0,effect/phenotype
+Feeding difficulties,0.0,effect/phenotype
+Short foot,0.0,effect/phenotype
+Anteverted nares,0.0,effect/phenotype
+Generalized hypotonia,0.0,effect/phenotype
+Hirsutism,0.0,effect/phenotype
+Upslanted palpebral fissure,0.0,effect/phenotype
+Camptodactyly,0.0,effect/phenotype
+Dolichocephaly,0.0,effect/phenotype
+Midface retrusion,0.0,effect/phenotype
+Limb ataxia,0.0,effect/phenotype
+Spinocerebellar tract disease in lower limbs,0.0,effect/phenotype
+Gait ataxia,0.0,effect/phenotype
+Brachycephaly,0.0,effect/phenotype
+Thickened ribs,0.0,effect/phenotype
+Osteopenia,0.0,effect/phenotype
+Spondyloepiphyseal dysplasia,0.0,effect/phenotype
+Psoriasiform dermatitis,0.0,effect/phenotype
+Full cheeks,0.0,effect/phenotype
+Underdeveloped nasal alae,0.0,effect/phenotype
+Wide nasal bridge,0.0,effect/phenotype
+Epicanthus,0.0,effect/phenotype
+Mitral regurgitation,0.0,effect/phenotype
+Gastroesophageal reflux,0.0,effect/phenotype
+Smooth philtrum,0.0,effect/phenotype
+Thoracolumbar kyphosis,0.0,effect/phenotype
+Narrow mouth,0.0,effect/phenotype
+Long philtrum,0.0,effect/phenotype
+Salmonella osteomyelitis,0.0,effect/phenotype
+Night sweats,0.0,effect/phenotype
+Abnormal bronchus physiology,0.0,effect/phenotype
+Abdominal obesity,0.0,effect/phenotype
+Clinodactyly,0.0,effect/phenotype
+Micrognathia,0.0,effect/phenotype
+Wide nose,0.0,effect/phenotype
+Short philtrum,0.0,effect/phenotype
+Hypothyroidism,0.0,effect/phenotype
+Abnormality of bone marrow cell morphology,0.0,effect/phenotype
+Narrow forehead,0.0,effect/phenotype
+Downslanted palpebral fissures,0.0,effect/phenotype
+Hydrocephalus,0.0,effect/phenotype
+Hypoplasia of penis,0.0,effect/phenotype
+Erythema,0.0,effect/phenotype
+Telangiectasia of the skin,0.0,effect/phenotype
+Thin vermilion border,0.0,effect/phenotype
+Hypotelorism,0.0,effect/phenotype
+Elevated erythrocyte sedimentation rate,0.0,effect/phenotype
+Decreased testicular size,0.0,effect/phenotype
+High palate,0.0,effect/phenotype
+Hematuria,0.0,effect/phenotype
+Menometrorrhagia,0.0,effect/phenotype
+Arthralgia,0.0,effect/phenotype
+Hepatic steatosis,0.0,effect/phenotype
+Hypoplasia of the femoral head,0.0,effect/phenotype
+Anisocytosis,0.0,effect/phenotype
+Congenital onset,0.0,effect/phenotype
+Short palpebral fissure,0.0,effect/phenotype
+Specific learning disability,0.0,effect/phenotype
+Chorioretinal coloboma,0.0,effect/phenotype
+Decreased mean corpuscular volume,0.0,effect/phenotype
+Strabismus,0.0,effect/phenotype
+Conical tooth,0.0,effect/phenotype
+Conjugated hyperbilirubinemia,0.0,effect/phenotype
+Arthritis,0.0,effect/phenotype
+Abnormal testis morphology,0.0,effect/phenotype
+Conductive hearing impairment,0.0,effect/phenotype
+Cerebellar atrophy,0.0,effect/phenotype
+Increased reactive oxygen species production,0.0,effect/phenotype
+Cutis laxa,0.0,effect/phenotype
+Delusions,0.0,effect/phenotype
+Malar flattening,0.0,effect/phenotype
+Behavioral abnormality,0.0,effect/phenotype
+Prominent supraorbital ridges,0.0,effect/phenotype
+Chronic otitis media,0.0,effect/phenotype
+Skeletal dysplasia,0.0,effect/phenotype
+Abnormal sella turcica morphology,0.0,effect/phenotype
+Clubbing of fingers,0.0,effect/phenotype
+Encephalitis,0.0,effect/phenotype
+Herpes simplex encephalitis,0.0,effect/phenotype
+Spastic tetraplegia,0.0,effect/phenotype
+Absent speech,0.0,effect/phenotype
+Recurrent viral infections,0.0,effect/phenotype
+Erythroderma,0.0,effect/phenotype
+Sideroblastic anemia,0.0,effect/phenotype
+Hypochromia,0.0,effect/phenotype
+Hepatosplenomegaly,0.0,effect/phenotype
+Severe generalized osteoporosis,0.0,effect/phenotype
+Recurrent candida infections,0.0,effect/phenotype
+Recurrent herpes,0.0,effect/phenotype
+Refractory anemia with ringed sideroblasts,0.0,effect/phenotype
+Wormian bones,0.0,effect/phenotype
+Sepsis,0.0,effect/phenotype
+Neurodevelopmental delay,0.0,effect/phenotype
+Perianal abscess,0.0,effect/phenotype
+Pulmonary artery stenosis,0.0,effect/phenotype
+Abnormal erythrocyte morphology,0.0,effect/phenotype
+Elevated hepatic iron concentration,0.0,effect/phenotype
+Erythroid hyperplasia,0.0,effect/phenotype
+Increased circulating ferritin concentration,0.0,effect/phenotype
+Hypoplastic ischia,0.0,effect/phenotype
+Optic atrophy,0.0,effect/phenotype
+Severe short stature,0.0,effect/phenotype
+Protracted diarrhea,0.0,effect/phenotype
+Dislocation of the femoral head,0.0,effect/phenotype
+Reduced natural killer cell count,0.0,effect/phenotype
+Chronic lung disease,0.0,effect/phenotype
+Dysharmonic delayed bone age,0.0,effect/phenotype
+Myopathy,0.0,effect/phenotype
+Juvenile onset,0.0,effect/phenotype
+Infantile muscular hypotonia,0.0,effect/phenotype
+Ketoacidosis,0.0,effect/phenotype
+Multifactorial inheritance,0.0,effect/phenotype
+Tympanosclerosis,0.0,effect/phenotype
+Reduced visual acuity,0.0,effect/phenotype
+Thin upper lip vermilion,0.0,effect/phenotype
+Aplasia/Hypoplasia of the eyebrow,0.0,effect/phenotype
+Premature ovarian insufficiency,0.0,effect/phenotype
+Abnormal rapid eye movement sleep,0.0,effect/phenotype
+Heterogeneous,0.0,effect/phenotype
+Hypnagogic hallucinations,0.0,effect/phenotype
+Hypnopompic hallucinations,0.0,effect/phenotype
+Female hypogonadism,0.0,effect/phenotype
+Hypotonia,0.0,effect/phenotype
+Nasogastric tube feeding,0.0,effect/phenotype
+Cardiomyopathy,0.0,effect/phenotype
+Angina pectoris,0.0,effect/phenotype
+Insulin-resistant diabetes mellitus,0.0,effect/phenotype
+Chronic hepatitis,0.0,effect/phenotype
+Hyperthyroidism,0.0,effect/phenotype
+Keratoconjunctivitis,0.0,effect/phenotype
+Beta-cell dysfunction,0.0,effect/phenotype
+Elbow flexion contracture,0.0,effect/phenotype
+Fatigue,0.0,effect/phenotype
+Platyspondyly,0.0,effect/phenotype
+Prominent nose,0.0,effect/phenotype
+Autosomal recessive inheritance,0.0,effect/phenotype
+Enlarged metaphyses,0.0,effect/phenotype
+Generalized hirsutism,0.0,effect/phenotype
+Small for gestational age,0.0,effect/phenotype
+Recurrent otitis media,0.0,effect/phenotype
+Internal hemorrhage,0.0,effect/phenotype
+Abnormality of the hepatic vasculature,0.0,effect/phenotype
+Anorexia,0.0,effect/phenotype
+Bifid uvula,0.0,effect/phenotype
+Decreased circulating aldosterone level,0.0,effect/phenotype
+Chronic active hepatitis,0.0,effect/phenotype
+Vitiligo,0.0,effect/phenotype
+Hepatocellular carcinoma,0.0,effect/phenotype
+Exocrine pancreatic insufficiency,0.0,effect/phenotype
+Perifoveal ring of hyperautofluorescence,0.0,effect/phenotype
+Hypoparathyroidism,0.0,effect/phenotype
+Chronic oral candidiasis,0.0,effect/phenotype
+Asplenia,0.0,effect/phenotype
+Childhood onset,0.0,effect/phenotype
+Abnormality of metabolism/homeostasis,0.0,effect/phenotype
+Metabolic alkalosis,0.0,effect/phenotype
+Hyponatremia,0.0,effect/phenotype
+Decreased circulating parathyroid hormone level,0.0,effect/phenotype
+Type I diabetes mellitus,0.0,effect/phenotype
+Chronic atrophic gastritis,0.0,effect/phenotype
+Band keratopathy,0.0,effect/phenotype
+Cholelithiasis,0.0,effect/phenotype
+Micronodular cirrhosis,0.0,effect/phenotype
+Constitutional symptom,0.0,effect/phenotype
+Ascites,0.0,effect/phenotype
+Unicameral bone cyst,0.0,effect/phenotype
+Pedal edema,0.0,effect/phenotype
+Subacute progressive viral hepatitis,0.0,effect/phenotype
+Somatic mutation,0.0,effect/phenotype
+Alopecia,0.0,effect/phenotype
+Tetany,0.0,effect/phenotype
+Abnormality of the respiratory system,0.0,effect/phenotype
+Cirrhosis,0.0,effect/phenotype
+Hypoalbuminemia,0.0,effect/phenotype
+Sloping forehead,0.0,effect/phenotype
+Sparse and thin eyebrow,0.0,effect/phenotype
+Disproportionate short stature,0.0,effect/phenotype
+Agenesis of corpus callosum,0.0,effect/phenotype
+Short femur,0.0,effect/phenotype
+Sparse eyelashes,0.0,effect/phenotype
+Short humerus,0.0,effect/phenotype
+Postnatal growth retardation,0.0,effect/phenotype
+Hyperbilirubinemia,0.0,effect/phenotype
+Calf muscle pseudohypertrophy,0.0,effect/phenotype
+Type IV atherosclerotic lesion,0.0,effect/phenotype
+Pancreatitis,0.0,effect/phenotype
+Feeding difficulties in infancy,0.0,effect/phenotype
+Polyphagia,0.0,effect/phenotype
+Flat sella turcica,0.0,effect/phenotype
+Flexion contracture,0.0,effect/phenotype
+Lipoatrophy,0.0,effect/phenotype
+Oral ulcer,0.0,effect/phenotype
+Progeroid facial appearance,0.0,effect/phenotype
+Abnormal cardiovascular system physiology,0.0,effect/phenotype
+Loss of subcutaneous adipose tissue from upper limbs,0.0,effect/phenotype
+Loss of truncal subcutaneous adipose tissue,0.0,effect/phenotype
+Sporadic,0.0,effect/phenotype
+Polycystic ovaries,0.0,effect/phenotype
+Progressive loss of facial adipose tissue,0.0,effect/phenotype
+Abnormal circulating lipid concentration,0.0,effect/phenotype
+Microscopic hematuria,0.0,effect/phenotype
+Accelerated skeletal maturation,0.0,effect/phenotype
+Overweight,0.0,effect/phenotype
+Pointed chin,0.0,effect/phenotype
+Decreased response to growth hormone stimuation test,0.0,effect/phenotype
+Recurrent hypoglycemia,0.0,effect/phenotype
+Clinodactyly of the 5th finger,0.0,effect/phenotype
+Few cafe-au-lait spots,0.0,effect/phenotype
+Glomerulopathy,0.0,effect/phenotype
+Gray matter heterotopia,0.0,effect/phenotype
+Autoimmunity,0.0,effect/phenotype
+Long foot,0.0,effect/phenotype
+Sparse scalp hair,0.0,effect/phenotype
+Knee flexion contracture,0.0,effect/phenotype
+Hip dislocation,0.0,effect/phenotype
+Large hands,0.0,effect/phenotype
+Failure to thrive,0.0,effect/phenotype
+Abnormality of the pinna,0.0,effect/phenotype
+Hypoplasia of the frontal lobes,0.0,effect/phenotype
+Straight clavicles,0.0,effect/phenotype
+Tibial bowing,0.0,effect/phenotype
+Abnormality of female external genitalia,0.0,effect/phenotype
+Moyamoya phenomenon,0.0,effect/phenotype
+Hypoplastic scapulae,0.0,effect/phenotype
+Cholestasis,0.0,effect/phenotype
+Bilateral single transverse palmar creases,0.0,effect/phenotype
+Abnormality of the coagulation cascade,0.0,effect/phenotype
+Femoral bowing,0.0,effect/phenotype
+Micromelia,0.0,effect/phenotype
+Prolonged partial thromboplastin time,0.0,effect/phenotype
+Portal hypertension,0.0,effect/phenotype
+Increased serum bile acid concentration,0.0,effect/phenotype
+Hypolipidemia,0.0,effect/phenotype
+Slurred speech,0.0,effect/phenotype
+Microdontia,0.0,effect/phenotype
+Short distal phalanx of finger,0.0,effect/phenotype
+Infantile onset,0.0,effect/phenotype
+Encephalopathy,0.0,effect/phenotype
+Ataxia,0.0,effect/phenotype
+Abnormal bleeding,0.0,effect/phenotype
+Jaundice,0.0,effect/phenotype
+Hepatitis,0.0,effect/phenotype
+Pseudoepiphyses of the metacarpals,0.0,effect/phenotype
+Radial bowing,0.0,effect/phenotype
+Large sella turcica,0.0,effect/phenotype
+Cone-shaped epiphysis,0.0,effect/phenotype
+Vertical supranuclear gaze palsy,0.0,effect/phenotype
+Ivory epiphyses,0.0,effect/phenotype
+Truncal obesity,0.0,effect/phenotype
+Hypoplasia of dental enamel,0.0,effect/phenotype
+Dilatation of the cerebral artery,0.0,effect/phenotype
+Intrahepatic cholestasis,0.0,effect/phenotype
+Hip contracture,0.0,effect/phenotype
+Short metacarpal,0.0,effect/phenotype
+Single transverse palmar crease,0.0,effect/phenotype
+Neonatal cholestatic liver disease,0.0,effect/phenotype
+Iron deficiency anemia,0.0,effect/phenotype
+Osteoporosis,0.0,effect/phenotype
+Small anterior fontanelle,0.0,effect/phenotype
+Agenesis of cerebellar vermis,0.0,effect/phenotype
+Bowed humerus,0.0,effect/phenotype
+Progressive,0.0,effect/phenotype
+11 pairs of ribs,0.0,effect/phenotype
+Abnormality of coagulation,0.0,effect/phenotype
+Pruritus,0.0,effect/phenotype
+Chronic hepatic failure,0.0,effect/phenotype
+Stillbirth,0.0,effect/phenotype
+Aplasia/Hypoplasia of the thymus,0.0,effect/phenotype
+Elevated alkaline phosphatase,0.0,effect/phenotype
+Neonatal onset,0.0,effect/phenotype
+Low levels of vitamin D,0.0,effect/phenotype
+Dysmetria,0.0,effect/phenotype
+Portal fibrosis,0.0,effect/phenotype
+Acholic stools,0.0,effect/phenotype
+Retrognathia,0.0,effect/phenotype
+Congenital hepatic fibrosis,0.0,effect/phenotype
+Gastrointestinal hemorrhage,0.0,effect/phenotype
+"Intellectual disability, mild",0.0,effect/phenotype
+Multiple cafe-au-lait spots,0.0,effect/phenotype
+Pectus carinatum,0.0,effect/phenotype
+Delayed cranial suture closure,0.0,effect/phenotype
+Class II obesity,0.0,effect/phenotype
+Class III obesity,0.0,effect/phenotype
+Class I obesity,0.0,effect/phenotype
+Abnormal rectum morphology,0.0,effect/phenotype
+Attention deficit hyperactivity disorder,0.0,effect/phenotype
+Microtia,0.0,effect/phenotype
+Renal cyst,0.0,effect/phenotype
+Biliary tract abnormality,0.0,effect/phenotype
+Tetralogy of Fallot,0.0,effect/phenotype
+Shoulder flexion contracture,0.0,effect/phenotype
+Ulnar bowing,0.0,effect/phenotype
+Hypoplastic iliac wing,0.0,effect/phenotype
+Mood changes,0.0,effect/phenotype
+Astrocytoma,0.0,effect/phenotype
+Hypocholesterolemia,0.0,effect/phenotype
+Hepatic necrosis,0.0,effect/phenotype
+Hemobilia,0.0,effect/phenotype
+Liver abscess,0.0,effect/phenotype
+Old-aged sensorineural hearing impairment,0.0,effect/phenotype
+Gingivitis,0.0,effect/phenotype
+Gingival bleeding,0.0,effect/phenotype
+Reduced catalase level,0.0,effect/phenotype
+Dry skin,0.0,effect/phenotype
+Poor appetite,0.0,effect/phenotype
+Abnormality of the liver,0.0,effect/phenotype
+Abdominal pain,0.0,effect/phenotype
+Neoplasm of the larynx,0.0,effect/phenotype
+Abdominal distention,0.0,effect/phenotype
+Parkinsonism,0.0,effect/phenotype
+Hepatic encephalopathy,0.0,effect/phenotype
+Esophageal varix,0.0,effect/phenotype
+Thin clavicles,0.0,effect/phenotype
+Hypermetropia,0.0,effect/phenotype
+Short neck,0.0,effect/phenotype
+Coarctation of aorta,0.0,effect/phenotype
+Hypoplastic ilia,0.0,effect/phenotype
+Narrow chest,0.0,effect/phenotype
+Elbow dislocation,0.0,effect/phenotype
+Delayed skeletal maturation,0.0,effect/phenotype
+Thrombocytosis,0.0,effect/phenotype
+Prominent nasal bridge,0.0,effect/phenotype
+Flared metaphysis,0.0,effect/phenotype
+Short 1st metacarpal,0.0,effect/phenotype
+Proximal femoral epiphysiolysis,0.0,effect/phenotype
+Limited elbow extension,0.0,effect/phenotype
+Narrow pelvis bone,0.0,effect/phenotype
+Cafe-au-lait spot,0.0,effect/phenotype
+Depressed nasal bridge,0.0,effect/phenotype
+Hypoglycemia,0.0,effect/phenotype
+Panniculitis,0.0,effect/phenotype
+Dyspnea,0.0,effect/phenotype
+Bone pain,0.0,effect/phenotype
+Skeletal muscle hypertrophy,0.0,effect/phenotype
+Severe periodontitis,0.0,effect/phenotype
+Gangrene,0.0,effect/phenotype
+Premature loss of permanent teeth,0.0,effect/phenotype
+Hepatic fibrosis,0.0,effect/phenotype
+Hypoplasia of the capital femoral epiphysis,0.0,effect/phenotype
+Hypercholesterolemia,0.0,effect/phenotype
+Nyctalopia,0.0,effect/phenotype
+High pitched voice,0.0,effect/phenotype
+Slender long bone,0.0,effect/phenotype
+Long clavicles,0.0,effect/phenotype
+Increased total iron binding capacity,0.0,effect/phenotype
+Tremor,0.0,effect/phenotype
+Short middle phalanx of finger,0.0,effect/phenotype
+Aplasia/Hypoplasia of the earlobes,0.0,effect/phenotype
