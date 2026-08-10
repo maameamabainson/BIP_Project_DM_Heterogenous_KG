@@ -1,4 +1,4 @@
-# BIP_Project_T2DM_Heterogenous_KG
+# BIP_Project_DM_AMR_Heterogenous_KG
 The wider project studies the comorbidity between type 2 diabetes mellitus and infectious disease, with a specific narrative angle: diabetes -> recurrent infection -> increased antibiotic exposure -> antimicrobial resistance (AMR). The goal is to build a small, interpretable, mechanism-aware knowledge graph prototype organised into three key layers.
 
 ## Preprocessing data from CARD for AMR layer
@@ -70,14 +70,14 @@ Manual inspection revealed that some of these entities (all except Insulin resis
 
 
 Subgraph extraction was then done with the following (one-hop) algorithm.
-1) We find all relations where T2DM is either a source node or a target node.
-2) If T2DM is connected to a disease, we find and include the disease-phenotype or disease-gene relations of those diseases. Further disease-disease relations are included only if the disease is a key disease entity. This adds indirect phenotype and gene nodes through connected diseases.
-3) If T2DM is connected to a phenotype, we find the phenotype-phenotype or phenotype-gene relations of that phenotype and concatenate. This adds indirect other phenotype and gene nodes through connected phenotypes.
-4) If T2DM is connected to a gene, find the gene-gene, gene-pathway, gene-biological process or gene-phenotype relations and concatenate.
+1) We find all relations where T1DM or T2DM is either a source node or a target node.
+2) If T1DM or T2DM is connected to a disease, we find and include the disease-phenotype or disease-gene relations of those diseases. Further disease-disease relations are included only if the disease is a key disease entity. This adds indirect phenotype and gene nodes through connected diseases.
+3) If T1DM or T2DM is connected to a phenotype, we find the phenotype-phenotype or phenotype-gene relations of that phenotype and concatenate. This adds indirect other phenotype and gene nodes through connected phenotypes.
+4) If T1DM or T2DM is connected to a gene, find the gene-gene, gene-pathway, gene-biological process or gene-phenotype relations and concatenate.
 None of these includes connections back to non-core diseases, as these are not direct comorbidities and may complicate the subgraph. 
 In summary, there is only one more indirect layer to avoid an unending loop and information recycling. Node reconciliation and extraction resulted in duplicates, which were duly dealt with.
 
-To highlight the immune dysfunction associated with Type 2 diabetes mellitus, we defined a relevant immune keyword list with the help of the literature and https://www.ncbi.nlm.nih.gov/books/NBK230991/ as :
+To highlight the immune dysfunction associated with Type 1/Type 2 diabetes mellitus, we defined a relevant immune keyword list with the help of the literature and https://www.ncbi.nlm.nih.gov/books/NBK230991/ as :
 
 keywords = ('lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 'CD', 'cytokines', 'IgA', 'IgG', 'IgM', 'IgE', 'IgD',' IL-', 'inflammation', 'inflammatory', 'leuko', 'Phago', 'Macrophages', 'neutrophil', 'monocyte', 'monokine', 'basophil', 'eosinophil', 'TNF','histio', 'antigen', 'immunodeficiency', 'rheumatoid factor', 'interleukin', 'interferon', 'IFN', 'TCR')
 
@@ -85,10 +85,10 @@ keywords = ('lymph', 'NK',' T cell', 'immune', 'immuno', 'antibody', 'B cells', 
 Phenotypes/effects which contained at least one of these words exactly or as a substring (case-insensitive) were retagged as immune_effect/phenotype. 
 
 
-The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
+The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, 'y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
 
 
-Script output: host_layer_data.csv
+Script output: host_layer_data.csv/t1dm_host_layer_data.csv
 
 
 
@@ -97,22 +97,22 @@ Script output: host_layer_data.csv
 
 Corresponding file: drug_drug_class.ipynb
 
-Script input: host_layer_data.csv, kg.csv, drug_data.csv, antibiotics_list.csv
+Script input:  host_layer_data.csv/t1dm_host_layer_data.csv, kg.csv, drug_data.csv, antibiotics_list.csv
 
 
 Using a reliable Kaggle dataset (https://doi.org/10.34740/kaggle/dsv/7850792) on Antibiotics and their classes, we identified the genes/proteins associated with antibiotics in the drug classes present in the AMR layer. This allowed us to create a connection between gene/protein entities in Layer 2 and Drug_class entities in Layer 3. 
 
 
-The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, ' y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
+The final dataset from preprocessing has columns: ‘x_index’, ‘x_name’, ‘x_type’, 'y_index ', ' y_name ', ' y_type ', ' relation' and ‘display_relation’. 
 
 
-Script output: drug_class_gene_data.csv
+Script output: drug_class_gene_data.csv/t1dm_drug_class_gene_data.csv
 
 ### Pathogen-infection connection
 Recall that key infections were carefully selected in advance to align with the objective of this project, findings in the literature and the pathogens of interest. These infections and pathogens of interest were then manually connected with the relation: Pathogen ‘infectious_agent for’ infection. 
 
 ## Curating a causal layer
-To formally connect the host layer with the AMR layer, an intermediate layer was created to link the varied 'recurrent infection' nodes which were related to Type 2 diabetes mellitus via immunodeficiency to the concept of antimicrobial resistance and hence the AMR layer. Before this, however, we created some edges which we considered important. Each 'recurrent infection' could be and hence was matched with a key disease that we had already manually connected to the Type 2 diabetes node. 
+To formally connect the host layer with the AMR layer, an intermediate layer was created to link the varied 'recurrent infection' nodes which were related to Type 1/Type 2 diabetes mellitus via immunodeficiency, to the concept of antimicrobial resistance and hence the AMR layer. Before this, however, we created some edges which we considered important. Each 'recurrent infection' could be and hence was matched with a key disease that we had already manually connected to the Type 1/Type 2 diabetes node. 
 
 In the literature, some key components of immunodeficiency have been linked to increased susceptibility to specific pathogens. Using this, relations between components of immunodeficiency and pathogen nodes were created. For example, 'Neutropenia' increases_susceptibility_to 'Klebsiella pneumoniae'. 
 
@@ -130,7 +130,7 @@ The final dataset for the KG was simply a concatenation of the dataframes from h
 - 41 drug classes
 - 7 resistance mechanisms
 - 1,734 resistance genes
-- 12,190 nodes consisting of 10 node types
+- 13,515 nodes consisting of 10 node types
   1) gene/protein
   2) biological_process
   3) resistance_gene
@@ -141,7 +141,7 @@ The final dataset for the KG was simply a concatenation of the dataframes from h
   8) drug_class
   9) bacteria
   10) resistance_mechanism
-- 30,803 edges consisting of 20 edge/relation types (16 display relations):
+- 36,012 edges consisting of 20 edge/relation types (16 display relations):
   1) ppi (protein_protein)
   2) interacts with (protein_pathway, protein_biological_process)
   3) confers resistance to (resistance_gene_drug_class)
