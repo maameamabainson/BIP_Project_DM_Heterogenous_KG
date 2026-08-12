@@ -54,7 +54,7 @@ Removing the ‘phenotype_absent’ relation, since we are interested in effect/
 
 
 Considering our curated schema, our selected key disease/infection related to Type 2 diabetes mellitus are Pneumonia, Urinary Tract Infection, Cellulitis, Tuberculosis, Diabetic foot infection/ulcer, Folliculitis, Osteomyelitis, Otitis externa, Meliodiosis, Periodontitis, Bacteremia.
-Key effect/phenotype: Hyperglycemia, Oxidative stress/Increased ROS production, Chronic inflammation, Immune dysregulation/immunodeficiency, Insulin resistance, Obesity, Peripheral neuropathy. 
+Key effect/phenotype: Hyperglycemia, Oxidative stress/Increased ROS production, Chronic inflammation, Immune dysregulation/immunodeficiency, Insulin resistance, Hypoinsulinemia, Obesity, Peripheral neuropathy. 
 Out of these, Pneumonia, Urinary Tract Infection, Folliculitis, Otitis externa, Periodontitis, Bacteremia, Hyperglycemia, Immunodeficiency, Peripheral neuropathy and Type 2 Diabetes Mellitus itself occurred as duplicate nodes with both diseases and effect/phenotypes labels. 
 This required reconciliation to centralise the information tied to each of these key nodes. 
 
@@ -66,7 +66,7 @@ Note that:
 -  obesity disorder was strictly saved as a disease. We converted to effect/phenotype.
 
 
-Manual inspection revealed that some of these entities (all except Insulin resistance) connected to Type 2 diabetes after 3 or more indirect connections, making it difficult to incorporate naturally. We built shorter connections between T2DM and the core effects and comorbid infections of interest, with justification from the literature. 
+Manual inspection revealed that some of these entities (all except Insulin resistance and Hypoinsulinemia) connected to Type 2 diabetes after 3 or more indirect connections, making it difficult to incorporate naturally. We built shorter connections between T2DM and the core effects and comorbid infections of interest, with justification from the literature. 
 
 
 Subgraph extraction was then done with the following (one-hop) algorithm.
