@@ -73,7 +73,7 @@ Subgraph extraction was then done with the following (one-hop) algorithm.
 1) We find all relations where T1DM or T2DM is either a source node or a target node.
 2) If T1DM or T2DM is connected to a disease, we find and include the disease-phenotype or disease-gene relations of those diseases. Further disease-disease relations are included only if the disease is a key disease entity. This adds indirect phenotype and gene nodes through connected diseases.
 3) If T1DM or T2DM is connected to a phenotype, we find the phenotype-phenotype or phenotype-gene relations of that phenotype and concatenate. This adds indirect other phenotype and gene nodes through connected phenotypes.
-4) If T1DM or T2DM is connected to a gene, find the gene-gene, gene-pathway, gene-biological process or gene-phenotype relations and concatenate.
+4) If T1DM or T2DM is connected to a gene, we find the gene-gene, gene-pathway, gene-biological process or gene-phenotype relations and concatenate.
 None of these includes connections back to non-core diseases, as these are not direct comorbidities and may complicate the subgraph. 
 In summary, there is only one more indirect layer to avoid an unending loop and information recycling. Node reconciliation and extraction resulted in duplicates, which were duly dealt with.
 
