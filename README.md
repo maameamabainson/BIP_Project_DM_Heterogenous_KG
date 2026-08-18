@@ -141,7 +141,7 @@ The final dataset for the KG was simply a concatenation of the dataframes from h
   8) drug_class
   9) bacteria
   10) resistance_mechanism
-- 36,012 edges consisting of 20 edge/relation types (16 display relations):
+- 35,995 edges consisting of 20 edge/relation types (16 display relations):
   1) ppi (protein_protein)
   2) interacts with (protein_pathway, protein_biological_process)
   3) confers resistance to (resistance_gene_drug_class)
